@@ -18,12 +18,15 @@
 
 #### 1.1.2 日期時間
 #### 1.1.3 字符串
+<!--
 #### 1.1.4 Spatial Data Types
 #### 1.1.5 The JSON Data Type
 #### 1.1.6 Data Type Default Values
 #### 1.1.7 Data Type Storage Requirements
 #### 1.1.8 Choosing the Right Type for a Column
 #### 1.1.9 Using Data Types from Other Database Engines
+-->
+### 1.2 表達式
 #### 1.2.1 常量
 1. 數字
     - 整數，若`〇一二三四五六七八九十百千萬億兆`字；
