@@ -1,5 +1,14 @@
 # 統一文言編程語言
-[參](https://github.com/wenyan-lang/wiki/blob/master/Syntax-Cheatsheet.md)
+吾文言編程語言，一字以達意。
+
+[彼](https://github.com/wenyan-lang/wiki/blob/master/Syntax-Cheatsheet.md)云：吾有一數。曰三。名之曰「甲」。\
+我作：數甲置三。
+
+彼云：吾嘗觀「「算經」」之書。方悟「正弦」「餘弦」「圓周率」之義。\
+我作：引《算經》得「正弦」「餘弦」「圓周率」。
+或云：`引《算經》得一`，「算經」諸法盡可用也。
+
+彼之法，蓋譯歐洲計製協會之法也。
 ## 文法
 ### 變量
 類型：
