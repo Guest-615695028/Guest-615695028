@@ -155,9 +155,6 @@ table_option: {
   | TABLESPACE tablespace_name [STORAGE {DISK | MEMORY}]
   | UNION [=] (tbl_name[,tbl_name]...)
 }
-
-partition_options:
-    (see CREATE TABLE options)
 ```
 #### 2.1. 改 TABLESPACE 
 #### 2.1. 改 VIEW 
