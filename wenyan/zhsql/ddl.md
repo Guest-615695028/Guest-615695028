@@ -7,15 +7,15 @@
 廢。表以行索。
 ### 記錄（LOGFILE GROUP）
 廢。
-### 服務器（SERVER） 
+### 服務器（SERVER）
 廢。
-### 空間參考系（SPATIAL REFERENCE SYSTEM） 
+### 空間參考系（SPATIAL REFERENCE SYSTEM）
 廢。
 ### 表（TABLE）
 表必有首，首以行（音航）序，自一而增，斷處先補。故`行`字不可以爲列名。
 > 斷：首*甲*有行而首*甲*加一無之。
 ```
-建表[若無]「表名」({「列名」<列義>|[限（式）]}...)
+建表[若無]「表名」({「列名」<列義>}...[限（式）])
     [<劃分>...]。
 ```
 以限字明主、獨、外鍵，徒增文長。
@@ -29,57 +29,42 @@
 建表[若無]「表名」如「表名」
 建表[若無]「表名」取（取語句）
 ```
-### 表組（TABLESPACE） 
-### 觸發器（TRIGGER） 
+### 表組（TABLESPACE）
+### 觸發器（TRIGGER）
 ### 視圖（VIEW）
-## 刪
+## 去（DROP）
 ### 數據庫（DATABASE）
 ### 事務（EVENT）
 ### 函數（FUNCTION/PROCEDURE）
 ### 索引（INDEX）
 ### 記錄（LOGFILE GROUP）
-### 服務器（SERVER） 
-### 空間參考系（SPATIAL REFERENCE SYSTEM） 
+### 服務器（SERVER）
+### 空間參考系（SPATIAL REFERENCE SYSTEM）
 ### 表（TABLE）
-### 表組（TABLESPACE） 
-### 觸發器（TRIGGER） 
+### 表組（TABLESPACE）
+### 觸發器（TRIGGER）
 ### 視圖（VIEW）
-## 改
+## 改（ALTER）
 ### 數據庫（DATABASE）
 ### 事務（EVENT）
 ### 函數（FUNCTION/PROCEDURE）
 ### 索引（INDEX）
 ### 記錄（LOGFILE GROUP）
-### 服務器（SERVER） 
-### 空間參考系（SPATIAL REFERENCE SYSTEM） 
+### 服務器（SERVER）
+### 空間參考系（SPATIAL REFERENCE SYSTEM）
 ### 表（TABLE）
 ```
 改表「表名」
-    [<方法> [, <方法>] ...]
-    [partition_option] ...
+    [<方法> [, <方法>] ...]。
 
-<方法>: {
-    table_option [[,] table_option] ...
-  |增列 「列名」 column_definition [FIRST | AFTER 「列名」]
+<方法>: 
+  |增列「列名」<列義>[先「列名」|末]
   |增列 (「列名」 column_definition,...)
-  |增{INDEX | KEY} [index_name]
-        [index_type] (key_part,...) [index_option] ...
-  |增{FULLTEXT | SPATIAL} [INDEX | KEY] [index_name]
-        (key_part,...) [index_option] ...
-  |增[CONSTRAINT [symbol]] PRIMARY KEY
-        [index_type] (key_part,...)
-        [index_option] ...
-  |增[CONSTRAINT [symbol]] UNIQUE [INDEX | KEY]
-        [index_name] [index_type] (key_part,...)
-        [index_option] ...
-  |增[CONSTRAINT [symbol]] FOREIGN KEY
-        [index_name] (「列名」,...)
-        reference_definition
-  |增[CONSTRAINT [symbol]] CHECK (expr) [[NOT] ENFORCED]
-  | DROP {CHECK | CONSTRAINT} symbol
+  |增限（式）
+  |去限
   | ALTER {CHECK | CONSTRAINT} symbol [NOT] ENFORCED
   | ALGORITHM [=] {DEFAULT | INSTANT | INPLACE | COPY}
-  | ALTER 列 「列名」 {
+  |改列 「列名」 {
         SET DEFAULT {literal | (expr)}
       | SET {VISIBLE | INVISIBLE}
       | DROP DEFAULT
@@ -103,71 +88,12 @@
   | RENAME COLUMN old_「列名」 TO new_「列名」
   | RENAME {INDEX | KEY} old_index_name TO new_index_name
   | RENAME [TO | AS] new_tbl_name
-  | {WITHOUT | WITH} VALIDATION
-}
-
-partition_option: {
-   增PARTITION (partition_definition)
-  | DROP PARTITION partition_names
-  | DISCARD PARTITION {partition_names | ALL} TABLESPACE
-  | IMPORT PARTITION {partition_names | ALL} TABLESPACE
-  | TRUNCATE PARTITION {partition_names | ALL}
-  | COALESCE PARTITION number
-  | REORGANIZE PARTITION partition_names INTO (partition_definitions)
-  | EXCHANGE PARTITION partition_name WITH TABLE tbl_name [{WITH | WITHOUT} VALIDATION]
-  | ANALYZE PARTITION {partition_names | ALL}
-  | CHECK PARTITION {partition_names | ALL}
-  | OPTIMIZE PARTITION {partition_names | ALL}
-  | REBUILD PARTITION {partition_names | ALL}
-  | REPAIR PARTITION {partition_names | ALL}
-  | REMOVE PARTITIONING
-}
+  | {WITHOUT | WITH} VALIDATION。
 
 key_part: {「列名」 [(length)] | (expr)} [ASC | DESC]
-
-index_type:
-    USING {BTREE | HASH}
-
-index_option: {
-    KEY_BLOCK_SIZE [=] value
-  | index_type
-  | WITH PARSER parser_name
-  | COMMENT 'string'
-  | {VISIBLE | INVISIBLE}
-}
-
-table_option: {
-    AUTOEXTEND_SIZE [=] value
-  | AUTO_INCREMENT [=] value
-  | AVG_ROW_LENGTH [=] value
-  | [DEFAULT] CHARACTER SET [=] charset_name
-  | CHECKSUM [=] {0 | 1}
-  | [DEFAULT] COLLATE [=] collation_name
-  | COMMENT [=] 'string'
-  | COMPRESSION [=] {'ZLIB' | 'LZ4' | 'NONE'}
-  | CONNECTION [=] 'connect_string'
-  | {DATA | INDEX} DIRECTORY [=] 'absolute path to directory'
-  | DELAY_KEY_WRITE [=] {0 | 1}
-  | ENCRYPTION [=] {'Y' | 'N'}
-  | ENGINE [=] engine_name
-  | ENGINE_ATTRIBUTE [=] 'string'
-  | INSERT_METHOD [=] { NO | FIRST | LAST }
-  | KEY_BLOCK_SIZE [=] value
-  | MAX_ROWS [=] value
-  | MIN_ROWS [=] value
-  | PACK_KEYS [=] {0 | 1 | DEFAULT}
-  | PASSWORD [=] 'string'
-  | ROW_FORMAT [=] {DEFAULT | DYNAMIC | FIXED | COMPRESSED | REDUNDANT | COMPACT}
-  | SECONDARY_ENGINE_ATTRIBUTE [=] 'string'
-  | STATS_AUTO_RECALC [=] {DEFAULT | 0 | 1}
-  | STATS_PERSISTENT [=] {DEFAULT | 0 | 1}
-  | STATS_SAMPLE_PAGES [=] value
-  | TABLESPACE tablespace_name [STORAGE {DISK | MEMORY}]
-  | UNION [=] (tbl_name[,tbl_name]...)
-}
 ```
-### 表組（TABLESPACE） 
-### 觸發器（TRIGGER） 
+### 表組（TABLESPACE）
+### 觸發器（TRIGGER）
 ### 視圖（VIEW）
 ## 清表
 ```
