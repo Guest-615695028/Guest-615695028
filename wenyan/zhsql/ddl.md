@@ -4,6 +4,7 @@
 ### 事務（EVENT）
 ### 函數（FUNCTION/PROCEDURE）
 ### 索引（INDEX）
+廢。表以行索。
 ### 記錄（LOGFILE GROUP）
 廢。
 ### 服務器（SERVER） 
@@ -11,83 +12,22 @@
 ### 空間參考系（SPATIAL REFERENCE SYSTEM） 
 廢。
 ### 表（TABLE）
-表必有首，首以行（音航）序，自一增而不斷。故`行`字不可以爲列名。
+表必有首，首以行（音航）序，自一而增，斷處先補。<small>斷：首甲有行而首甲加一無之。</small>故`行`字不可以爲列名。
 ```
-建表[若無]「表名」(<建法>,...)
-    [選項]
-    [劃分]
-```
-```
-建法：「列名」<列義>
-  | {INDEX | KEY} [index_name] [index_type] (key_part,...)
-      [index_option] ...
-  | {FULLTEXT | SPATIAL} [INDEX | KEY] [index_name] (key_part,...)
-      [index_option] ...
-  | [CONSTRAINT [symbol]] PRIMARY KEY
-      [index_type] (key_part,...)
-      [index_option] ...
-  | [CONSTRAINT [symbol]] UNIQUE [INDEX | KEY]
-      [index_name] [index_type] (key_part,...)
-      [index_option] ...
-  | [CONSTRAINT [symbol]] FOREIGN KEY
-      [index_name] (col_name,...)
-      reference_definition
-  | [CONSTRAINT [symbol]] CHECK (expr) [[NOT] ENFORCED]。
+建表[若無]「表名」({「列名」<列義>|[限（式）]}...)
+    [<選項>...]
+    [<劃分>...]
 ```
 以限字明主獨外鍵，徒增文長。
 ```
-列義：〈品類〉[有|無] [置（式）] [顯|隱] [獨]
-      [reference_definition]
-      [check_constraint_definition]
-  | data_type
-      [COLLATE collation_name]
-      [GENERATED ALWAYS] AS (expr)
-      [VIRTUAL | STORED] [NOT NULL | NULL]
-      [VISIBLE | INVISIBLE]
-      [UNIQUE [KEY]] [[PRIMARY] KEY]
-      [COMMENT 'string']
-      [reference_definition]
-      限（式）。
-
-data_type:
-    (see Chapter 11, Data Types)
-
-key_part: {col_name [(length)] | (expr)} [ASC | DESC]
-
-index_type:
-    USING {BTREE | HASH}
-
-index_option: {
-    KEY_BLOCK_SIZE [=] value
-  | index_type
-  | WITH PARSER parser_name
-  | COMMENT 'string'
-  | {VISIBLE | INVISIBLE}
-  |ENGINE_ATTRIBUTE [=] 'string'
-  |SECONDARY_ENGINE_ATTRIBUTE [=] 'string'
-}
-
-reference_definition:
-    參「表名」
-      [刪何如]
-      [改何如]
-
+列義：〈品類〉[置（式）][隱][獨]
+      [參「表名」[刪<刪改何如>][改<刪改何如>]]。
 刪改何如:
     RESTRICT | CASCADE | SET NULL | NO ACTION | SET DEFAULT
-
-table_options:
-    table_option [[,] table_option] ...
-
-table_option: {
-    AUTOEXTEND_SIZE [=] value
-  | AUTO_INCREMENT [=] value
-  | AVG_ROW_LENGTH [=] value
-  | [DEFAULT] CHARACTER SET [=] charset_name
-  | CHECKSUM [=] {0 | 1}
-  | [DEFAULT] COLLATE [=] collation_name
-  | COMMENT [=] 'string'
-  | COMPRESSION [=] {'ZLIB' | 'LZ4' | 'NONE'}
-  | CONNECTION [=] 'connect_string'
+```
+- `〈品類〉`視[此](../guide.md)
+```
+選項: {
   | {DATA | INDEX} DIRECTORY [=] 'absolute path to directory'
   | DELAY_KEY_WRITE [=] {0 | 1}
   | ENCRYPTION [=] {'Y' | 'N'}
