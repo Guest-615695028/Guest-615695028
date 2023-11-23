@@ -5,6 +5,6 @@
 視[統一文言編程語言](./guide.md)，參[MySQL](https://dev.mysql.com/doc/refman/8.0/en/sql-data-definition-statements.html)，
 ## 2 語句
 ### 2.1 數據定義
-[詳見](./zhsql/ddl.md)
+[詳見](./ddl.md)
 ### 2.2 數據操縱
-[詳見](./zhsql/dml.md)
+[詳見](./dml.md)
