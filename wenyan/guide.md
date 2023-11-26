@@ -77,13 +77,25 @@
     - 陰陽：正一。（彼正二）
     - 陰陰：零。（彼正零）
 
+$$x:s e...e t...t$$
+
+$$
+x=\begin{cases}
++2^\left(e_0 e_1 ... e_m - 2^m\right) \times \left(1.t_0 t_1 t_2 ... t_n\right)  && s=0\\
+-2^\left(2^m - e_0 e_1 ... e_m\right) \times \left(1-0.0t_0 t_1 t_2 ... t_n\right) && s=1\\
++2^\left(-2^m+1\right) \times \left(0.t_0 t_1 t_2 ... t_n\right)  && e_0=e_1=...=s=0\\
+-2^\left(-2^m+1\right) \times \left(1-0.t_0 t_1 t_2 ... t_n\right) && e_0=e_1=...=s=1\\
+0 && s=e=t=0 \\
+\infty && s=1,e=t=0 \\
+\end{cases}
+$$
 |類|首|尾|位|微細|正細|巨
 |-|-|-|-|-|-|-
 |[`實一`](https://en.wikipedia.org/wiki/Single-precision_floating-point_format)|八|二十三|三十二|七・〇一降四十五|五・八七降三十八|三・四〇升三十八
 |[`實二`](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)|十一|五十二|六十四|二・四七降三百八十四|一・一一降三百有八|一・八〇升三百有八
 |[`實四`](https://en.wikipedia.org/wiki/Quadruple-precision_floating-point_format)|十五|一百一十二|一百二十八|三・二四降<br>四千九百六十六|一・六八降<br>四千九百三十二|一・一九升<br>四千九百三十二
 |[`實八`](https://en.wikipedia.org/wiki/Octuple-precision_floating-point_format)|十九|二百三十六|二百五十六|一・一二降<br>七万八千九百八十四|一・二四降<br>七万八千九百一十三|一・六一升<br>七万八千九百一十三
-- `實四``實八`非必有。
+- `實四` `實八`非必有。
 - `複（一、二、四、八）`數：一實一虛，各如`實`數。
 
 ### 次
