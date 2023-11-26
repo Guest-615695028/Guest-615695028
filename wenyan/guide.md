@@ -80,8 +80,8 @@
 |-|-|-|-|-|-|-
 |[`實一`](https://en.wikipedia.org/wiki/Single-precision_floating-point_format)|八|二十三|三十二|七・〇一降四十五|五・八七降三十八|三・四〇升三十八
 |[`實二`](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)|十一|五十二|六十四|二・四七降三百八十四|一・一一降三百有八|一・八〇升三百有八
-|[`實四`](https://en.wikipedia.org/wiki/Quadruple-precision_floating-point_format)|十五|一百一十二|一百二十八|三・二四降四千九百六十六|一・六八降四千九百三十二|一・一九升四千九百三十二
-|[`實八`](https://en.wikipedia.org/wiki/Octuple-precision_floating-point_format)|十九|二百三十六|二百五十六|一・一二降七万八千九百八十四|一・二四降七万八千九百一十三|一・六一升七万八千九百一十三
+|[`實四`](https://en.wikipedia.org/wiki/Quadruple-precision_floating-point_format)|十五|一百一十二|一百二十八|三・二四降<br>四千九百六十六|一・六八降<br>四千九百三十二|一・一九升<br>四千九百三十二
+|[`實八`](https://en.wikipedia.org/wiki/Octuple-precision_floating-point_format)|十九|二百三十六|二百五十六|一・一二降<br>七万八千九百八十四|一・二四降<br>七万八千九百一十三|一・六一升<br>七万八千九百一十三
 - `實四``實八`非必有。
 - `複（一、二、四、八）`數：一實一虛，各如`實`數。
 
