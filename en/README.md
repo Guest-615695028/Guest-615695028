@@ -4,7 +4,8 @@
 
 _Persons_, the regulare plural for _person_, is never suppleted by _people_ -- yet another noun -- so collective as to be followed by the plural verb form, as hereabove.
 ## American or British words to be used?
-There is a larger people in the United States than the United Kingdom.
+As there is a larger people (or *there are more persons*) in the United States than the United Kingdom, the Internet prefer American English than British English. However, we are to be balanced between them.
+
 |Americans use|Commonwealth use|We use
 |-|-|-
 |color|colour|color
