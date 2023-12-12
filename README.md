@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guest-615695028.
-- 👀 I’m interested in (secret).
-- 🌱 I’m currently learning (secret).
-- 💞️ I’m looking to collaborate on (secret).
+- 👀 I’m interested in **Deanglization in computer technologies**.
+- 🌱 I’m currently learning **Various world languages**.
+- 💞️ I’m looking to collaborate on **Localizing SQL**.
 - 📫 How to reach me? E-mail at 615695028@qq.com!
 
 
