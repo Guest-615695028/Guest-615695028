@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guest-615695028.
-- 👀 I’m interested in **Deanglicization in computer technologies**.
-- 🌱 I’m currently learning **Various world languages**.
+- 👀 I’m interested in **Technological Deanglicization**.
+- 🌱 I’m currently learning **Computer Science and Technology**.
 - 💞️ I’m looking to collaborate on **Localizing SQL**.
 - 📫 How to reach me? E-mail at 615695028@qq.com!
 
