@@ -32,7 +32,7 @@
 - 取語句：[以「取」字始](./dml.md)。
 
 ### 1.3 表空間（TABLESPACE）
-廢。表居大内，未足用也。
+廢。[彼](https://dev.mysql.com/doc/refman/8.0/en/create-tablespace.html)二構相異，吾表存[乙樹](https://en.wikipedia.org/wiki/B-tree)，行非緊接，未足用也。
 
 ### 1.4 視圖（VIEW）
 視圖引表以作，可[`取`](./dml.md)，不可`增刪更`。
