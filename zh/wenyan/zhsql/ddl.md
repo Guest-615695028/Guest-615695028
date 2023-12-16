@@ -1,5 +1,5 @@
 # 數據定義
-[參考](https://dev.mysql.com/doc/refman/8.0/en/sql-data-definition-statements.html)
+[參見](https://dev.mysql.com/doc/refman/8.0/en/sql-data-definition-statements.html)
 
 ## 1 建（CREATE）
 有而欲復建，**若無**（IF NOT EXISTS）二字明則不作，不明則覆之。
