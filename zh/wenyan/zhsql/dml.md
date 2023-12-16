@@ -1,11 +1,10 @@
 # 數據操控
-[...](https://dev.mysql.com/doc/refman/8.0/en/sql-data-manipulation-statements.html)
-## 用術 (CALL)
+[參見](https://dev.mysql.com/doc/refman/8.0/en/sql-data-manipulation-statements.html)
+## 用術 (CALL/DO)
 ```
 術「術名」取（式，...）
 ```
 ## 刪 (DELETE)
-## DO
 ## EXCEPT Clause
 ## HANDLER
 ## IMPORT TABLE
