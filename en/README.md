@@ -18,16 +18,16 @@ _Persons_, the regulare plural for _person_, is never suppleted by _people_ -- y
 
 ### Pronunciation-Spelling Concordance
 #### `ough`
-|Pronunciation|Examples|Note
+|Pronunciation|Examples|New Orthography
 |-|-|-
-|/ʌf/|Brough, chough, clough, enough, Hough, rough, slough (see below), sough, tough|Rhymes with puff, stuff. Clough and sough are also pronounced /aʊ/.
-|/ɒf/ or /ɔːf/|cough, Gough, trough|Rhymes with off, scoff. Trough is pronounced /trɔːθ/ (troth) by some speakers of American English, and a baker's trough is also pronounced /troʊ/.[2]
-|/aʊ/|bough, clough, doughty, drought, plough, slough (see below), Slough, sough|Rhymes with cow, how. Clough and sough are also pronounced /ʌf/. Plough is generally spelled plow in American English.
+|/ʌf/|Brough, chough, clough, enough, Hough, rough, slough (see below), sough, tough|Bruff, chuff, cluff... (also *clow* and *sow*)
+|/ɒf/|cough, Gough, trough|coff, Goff, troff (baker's trow)
+|/aʊ/|bough, clough, doughty, drought, plough, slough (see below), sough|bow, clow, dowty ... (*plow* is already used in American English).
 |/oʊ/|brougham, dough, furlough, though|Rhymes with no, toe. Brougham is also pronounced /uː/.
 |/ɔː/|bought, brought, fought, nought, ought, sought, thought, wrought|Rhymes with caught, taught. Regularly so used before /t/, except in doughty /ˈdaʊti/ and drought /draʊt/. In dialects exhibiting the cot-caught merger, this is realized as /ɒ/ or /ɑː/.
-|/uː/|brougham, slough (see below), through|Rhymes with true, woo. Brougham is also pronounced /oʊ/.
-|/ə/|borough, Poughkeepsie, thorough, Willoughby|Borough and thorough are pronounced /oʊ/ in American English, thus rhyming with burrow and furrow, except when reduced by a following syllable in many dialects, as in thoroughly.
-|/ʌp/, /əp/|hiccough|Variant spelling of the more common hiccup.
+|/uː/|brougham, slough (see below), through
+|/ə/|Edinborough, Poughkeepsie, thorough, Willoughby|Only g
+|/ʌp/, /əp/|hiccough|--> hiccup.
 |/əf/|Greenough|Pronounced /ˈɡrɛnəf/ as the name of a river in Western Australia, and usually pronounced /ˈɡriːnoʊ/ as a surname.
-|/ɒk/|Clough, hough|Rhymes with cock, lock. Hough has been more commonly spelled hock from the 20th century onwards.
-|/ɒx/|Brough, lough, turlough|Rhymes with Scots loch. Many speakers substitute /k/ for /x/.
+|/ɒk/|Clough, hough|Clock, hock
+|/ɒx/|Brough, lough, turlough|Brouch, loch, turloch
