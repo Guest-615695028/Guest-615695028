@@ -14,7 +14,14 @@ As there is a larger people (or *there are more persons*, as seen below) in the 
 
 _Persons_, the regulare plural for _person_, is never suppleted by _people_ -- yet another noun -- so collective as to be followed by the plural verb form, as hereabove.
 
-### Thou
+### Thou, Ye, You
+These are second-person pronouns in need of mutual distinction.
+|Thou|Ye|You
+|-|-|-
+|thee|you|you
+|thy|your|your
+|thine|yours|yours
+|thyself|yourselves|yourself/ves
 
 ### Pronunciation-Spelling Concordance
 #### `ough`
@@ -27,7 +34,8 @@ _Persons_, the regulare plural for _person_, is never suppleted by _people_ -- y
 |/ɔː/|bought, brought, fought, nought, ought, sought, thought, wrought|Rhymes with caught, taught. Regularly so used before /t/, except in doughty /ˈdaʊti/ and drought /draʊt/. In dialects exhibiting the cot-caught merger, this is realized as /ɒ/ or /ɑː/.
 |/uː/|brougham, slough (see below), through|Rhymes with true, woo. Brougham is also pronounced /oʊ/.
 |/ə/|borough, Poughkeepsie, thorough, Willoughby|Borough and thorough are pronounced /oʊ/ in American English, thus rhyming with burrow and furrow, except when reduced by a following syllable in many dialects, as in thoroughly.
-|/ʌp/, /əp/|hiccough|Variant spelling of the more common hiccup.
+|/ʌp/, /əp/|hiccough|--> hiccup.
 |/əf/|Greenough|Pronounced /ˈɡrɛnəf/ as the name of a river in Western Australia, and usually pronounced /ˈɡriːnoʊ/ as a surname.
 |/ɒk/|Clough, hough|Rhymes with cock, lock. Hough has been more commonly spelled hock from the 20th century onwards.
 |/ɒx/|Brough, lough, turlough|Rhymes with Scots loch. Many speakers substitute /k/ for /x/.
+### An hour, an honor
