@@ -16,13 +16,14 @@ _Persons_, the regulare plural for _person_, is never suppleted by _people_ -- y
 
 ### Thou, Ye, You
 These are second-person pronouns in need of mutual distinction.
-|Thou|Ye|You
-|-|-|-
-|thee|you|you
-|thy|your|your
-|thine|yours|yours
-|thyself|yourselves|yourself<br>yourselves
-|Singular informal|Plural informal|Formal
+|Pronoun|Singular informal|Plural informal|Formal
+|-|-|-|-
+|Nominative|Thou|Ye|You
+|Oblique|thee|you|you
+|Genitive|thy|your|your
+|Possessive|thine|yours|yours
+|Reflexive|thyself|yourselves|yourself<br>yourselves
+
 
 ### Pronunciation-Spelling Concordance
 #### `ough`
