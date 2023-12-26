@@ -41,3 +41,4 @@ These are second-person pronouns in need of mutual distinction.
 |/ɒk/|Clough, hough|Rhymes with cock, lock. Hough has been more commonly spelled hock from the 20th century onwards.
 |/ɒx/|Brough, lough, turlough|Rhymes with Scots loch. Many speakers substitute /k/ for /x/.
 ### An hour, an honor
+Imagine an European who has sent a unique letter "ewe" to you.
