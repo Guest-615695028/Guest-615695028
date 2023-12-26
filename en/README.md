@@ -21,7 +21,8 @@ These are second-person pronouns in need of mutual distinction.
 |thee|you|you
 |thy|your|your
 |thine|yours|yours
-|thyself|yourselves|yourself/ves
+|thyself|yourselves|yourself<br>yourselves
+|Singular informal|Plural informal|Formal
 
 ### Pronunciation-Spelling Concordance
 #### `ough`
