@@ -1,8 +1,8 @@
 # English
-As the second most spoken and the most widespread language after Greater Chinese, English has witnessed more than 90% of international scholar papers and about 60% of Internet content. However, the English-speaking world has not yet founded an official department to regulate nation-wide English usage, other than [Oxford University](https://en.wikipedia.org/wiki/Oxford_spelling).
+As the second most spoken and the most widespread language after Greater Chinese, English has witnessed more than 90% of international scholar papers and about 60% of Internet content. However, the English-speaking world has not yet founded an official department to regulate nation-wide English usage, other than [University of Oxford](https://en.wikipedia.org/wiki/Oxford_spelling).
 
 ## Vocabulary
-Along with spelling-to-sound discordances (~20%), the inflated vocabulary of English &ndash; largely due to the widespread use, lack of declension and degenerate conjugation (only _do, does, doing, did, done_) &ndash; is catastrophic to world learners.
+Along with spelling-to-sound discordances (~20%), the inflated vocabulary of English &ndash; largely due to the widespread use, lack of declension and degenerate conjugation (only _do, does, doing, did, done_) &ndash; is catastrophic to world learners, especially ones from European Union (EU) states.
 Usually have failed attempts to regularize or reform the spelling of English. However, Noah Webster popularised more phonetic spellings in the United States, such as _flavor_ for _flavour_, _fiber_ for _fibre_, _defense_ for _defence_, _analyze_ for _analyse_, and _catalog_ for _catalogue_, which are also standardized.
 
 ### American or British words to be used?
@@ -33,6 +33,12 @@ These are second-person pronouns in need of mutual distinction.
 |Possessive|thine|yours|yours
 |Reflexive|thyself|yourselves|yourself<br>yourselves
 
+|Be|Thou art|Thou wast|That thou beest|That thou wert
+|-|-|-|-|-
+|have|thou hast|thou hadst|that thou havest|that thou hadst
+|do|thou doest/dost|thou didst|''|''
+|make|thou makest|thou madest|''|''
+
 ## Pronunciation-Spelling Concordance
 ### `ough`
 |Pronunciation|Examples|Note
@@ -52,5 +58,5 @@ These are second-person pronouns in need of mutual distinction.
 ### Silent letters
 Some proposed simplified spellings already exist as standard or variant spellings in old literature. In the 16th century, some Graeco-Latin literaturists tried to make English words look akin to their Graeco-Latin counterparts, at times even erroneously, by adding silent letters, so _det_ became _debt_, _dout_ became _doubt_, _sithe_ became _scythe_, _iland_ became _island_, _ake_ became _ache_, and so on; However, We propose undoing these changes. Other examples of older spellings that are more phonetic include _frend_ for _friend_ (as on Shakespeare's grave), _agenst_ for _against_, _yeeld_ for _yield_, _bild_ for _build_, _cort_ for _court_, _sted_ for _stead_, _delite_ for _delight_, _entise_ for _entice_, _gost_ for _ghost_, _harth_ for _hearth_, _rime_ for _rhyme_, _sum_ for _some_, _tung_ for _tongue_, and many others.
 
-### An hour, an honor
-Imagine an European who has sent a unique letter "ewe" to you.
+### An hour, an honor...
+- Imagine an European who has sent a unique letter "ewe" to you.
