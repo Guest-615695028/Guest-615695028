@@ -36,24 +36,26 @@ These are second-person pronouns in need of mutual distinction.
 |Be|Thou art|Thou wast|That thou beest|That thou wert
 |-|-|-|-|-
 |have|thou hast|thou hadst|that thou havest|that thou hadst
-|do|thou doest/dost|thou didst|''|''
+|do|thou doest (pronunced as _dust_)|thou didst|''|''
+|go|thou goest|thou wentest|''|''
 |make|thou makest|thou madest|''|''
+|...|...|...|...|...
 
 ## Pronunciation-Spelling Concordance
 ### `ough`
 |Pronunciation|Examples|Note
 |-|-|-
-|/ʌf/|Brough, chough, clough, enough, Hough, rough, slough (see below), sough, tough|Rhymes with puff, stuff. Clough and sough are also pronounced /aʊ/.
-|/ɒf/ or /ɔːf/|cough, Gough, trough|Rhymes with off, scoff. Trough is pronounced /trɔːθ/ (troth) by some speakers of American English, and a baker's trough is also pronounced /troʊ/.[2]
+|/ʌf/|Brough, chough, clough, enough, Hough, rough, slough (see below), sough, tough|Rhymes with -uff. Clough and sough are also pronounced /aʊ/.
+|/ɒf/|cough, Gough, trough|Rhymes with off, scoff. Trough is pronounced /trɔːθ/ (troth) by some speakers of American English, and a baker's trough is also pronounced /troʊ/.[2]
 |/aʊ/|bough, clough, doughty, drought, plough, slough (see below), Slough, sough|Rhymes with cow, how. Clough and sough are also pronounced /ʌf/. Plough is generally spelled plow in American English.
 |/oʊ/|brougham, dough, furlough, though|Rhymes with no, toe. Brougham is also pronounced /uː/.
-|/ɔː/|bought, brought, fought, nought, ought, sought, thought, wrought|Rhymes with caught, taught. Regularly so used before /t/, except in doughty /ˈdaʊti/ and drought /draʊt/. In dialects exhibiting the cot-caught merger, this is realized as /ɒ/ or /ɑː/.
+|/ɔː/|bought, brought, fought, nought, ought, sought, thought, wrought|Rhymes with caught, taught.
 |/uː/|brougham, slough (see below), through|Rhymes with true, woo. Brougham is also pronounced /oʊ/.
-|/ə/|borough, Poughkeepsie, thorough, Willoughby|Borough and thorough are pronounced /oʊ/ in American English, thus rhyming with burrow and furrow, except when reduced by a following syllable in many dialects, as in thoroughly.
+|/ə/|borough, Poughkeepsie, thorough, Willoughby|Borough and thorough are pronounced /oʊ/ in American English, thus rhyming with -urrow.
 |/ʌp/, /əp/|hiccough|--> hiccup.
-|/əf/|Greenough|Pronounced /ˈɡrɛnəf/ as the name of a river in Western Australia, and usually pronounced /ˈɡriːnoʊ/ as a surname.
-|/ɒk/|Clough, hough|Rhymes with cock, lock. Hough has been more commonly spelled hock from the 20th century onwards.
-|/ɒx/|Brough, lough, turlough|Rhymes with Scots loch. Many speakers substitute /k/ for /x/.
+|/əf/|Greenough|/ˈɡrɛnəf/ as an Australian river, and /ˈɡriːnoʊ/ as a surname.
+|/ɒk/|Clough, hough|Rhymes with -ock. Hough --> hock.
+|/ɒx/|Brough, lough, turlough|Rhymes with loch. Many speakers substitute /k/ for /x/.
 
 ### Silent letters
 Some proposed simplified spellings already exist as standard or variant spellings in old literature. In the 16th century, some Graeco-Latin literaturists tried to make English words look akin to their Graeco-Latin counterparts, at times even erroneously, by adding silent letters, so _det_ became _debt_, _dout_ became _doubt_, _sithe_ became _scythe_, _iland_ became _island_, _ake_ became _ache_, and so on; However, We propose undoing these changes. Other examples of older spellings that are more phonetic include _frend_ for _friend_ (as on Shakespeare's grave), _agenst_ for _against_, _yeeld_ for _yield_, _bild_ for _build_, _cort_ for _court_, _sted_ for _stead_, _delite_ for _delight_, _entise_ for _entice_, _gost_ for _ghost_, _harth_ for _hearth_, _rime_ for _rhyme_, _sum_ for _some_, _tung_ for _tongue_, and many others.
