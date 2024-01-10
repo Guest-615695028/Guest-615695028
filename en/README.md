@@ -7,7 +7,7 @@ The inflated vocabulary of English
 As there is a larger people (or *there are more persons*, as seen below) in the United States than the United Kingdom, the Internet prefer American English than British English. However, we are to be balanced between them.
 
 |Americans use|Commonwealth use|We use|Note
-|-|-|-
+|-|-|-|-|
 |-or|-our|-or|CSS uses `color` than `colors`
 |-ize|-ise/ize|-ize|Concord
 |-l-|-ll-|-l-|After unstressed vowel (commonly -_ed_/_ing_/_er_)
