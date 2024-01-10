@@ -2,7 +2,8 @@
 As the second most spoken and the most widespread language after Greater Chinese, English has witnessed more than 90% of international scholar papers and about 60% of Internet content. However, the English-speaking world has not yet founded an official department to regulate nation-wide English usage, other than [Oxford University](https://en.wikipedia.org/wiki/Oxford_spelling).
 
 ## Vocabulary
-The inflated vocabulary of English
+The inflated vocabulary of English, along with spelling-to-sound discordance (~20%) is catastrophic to world learner
+Attempts to regularise or reform the spelling of English have usually failed. However, Noah Webster popularised more phonetic spellings in the United States, such as flavor for British flavour, fiber for fibre, defense for defence, analyze for analyse, catalog for catalogue, and so forth. These spellings already existed as alternatives, but Webster's dictionaries helped standardise them in the US.[15] (See American and British English spelling differences for details.)
 ### American or British words to be used?
 As there is a larger people (or *there are more persons*, as seen below) in the United States than the United Kingdom, the Internet prefer American English than British English. However, we are to be balanced between them.
 
