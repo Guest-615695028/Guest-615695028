@@ -6,11 +6,12 @@ The inflated vocabulary of English
 ### American or British words to be used?
 As there is a larger people (or *there are more persons*, as seen below) in the United States than the United Kingdom, the Internet prefer American English than British English. However, we are to be balanced between them.
 
-|Americans use|Commonwealth use|We use|Note
+|American|Commonwealth|New O/y|Note
 |-|-|-|-|
 |-or|-our|-or|CSS uses `color` than `colors`
-|-ize|-ise/ize|-ize|Concord
-|-l-|-ll-|-l-|After unstressed vowel (commonly -_ed_/_ing_/_er_)
+|-ize|-ise/ize|-ize|confer Greek _-ίζω_
+|-l-|-ll-|-l-|After unstressed vowel (commonly _-ed/-ing/-er_)
+|-er|-re|-er|Pronounced as /ɚ/ or /əɹ/
 |defense|defence|defense|confer Latin _defensa_; also _offense_
 |license|licence|licence|(_noun_) confer Latin _licentia_
 |license|license|license|(_verb_) /ˈlaɪsənz/
