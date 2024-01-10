@@ -1,16 +1,19 @@
 # English
-As the second most spoken and the most widespread language after Greater Chinese, English has witnessed more than 90% of international scholar papers and about 60% of Internet content. However, the English-speaking world has not yet founded an official department to regulate nation-wide English usage, other than [Oxford University](https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf).
+As the second most spoken and the most widespread language after Greater Chinese, English has witnessed more than 90% of international scholar papers and about 60% of Internet content. However, the English-speaking world has not yet founded an official department to regulate nation-wide English usage, other than [Oxford University](https://en.wikipedia.org/wiki/Oxford_spelling).
 
 ## Vocabulary
 The inflated vocabulary of English
 ### American or British words to be used?
 As there is a larger people (or *there are more persons*, as seen below) in the United States than the United Kingdom, the Internet prefer American English than British English. However, we are to be balanced between them.
 
-|Americans use|Commonwealth use|We use
+|Americans use|Commonwealth use|We use|Note
 |-|-|-
-|color|colour|color
-|habor|habour|habor
-|-ize|-ise/ize|-ize
+|-or|-our|-or|CSS uses `color` than `colors`
+|-ize|-ise/ize|-ize|Concord
+|-l-|-ll-|-l-|After unstressed vowel (commonly -_ed_/_ing_/_er_)
+|defense|defence|defense|confer Latin _defensa_; also _offense_
+|license|licence|licence|(_noun_) confer Latin _licentia_
+|license|license|license|(_verb_) /ˈlaɪsənz/
 
 ### Persons or People?
 **People** come across GitHub every day, but **some persons** would find this repository interesting.
