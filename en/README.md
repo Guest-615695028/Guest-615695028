@@ -66,19 +66,19 @@ Some proposed simplified spellings already exist as standard or variant spelling
 - _iland_ became _island_,
 - _ake_ became _ache_, and so on.
 However, We propose undoing these changes. Other examples of older spellings that are more phonetic include
-- _frend_ for _friend_ (acceptable, as on Shakespeare's grave),
-- _agenst_ for _against_ (again +‎ -st [excrescent]),
-- _yeeld_ for _yield_ (_cf._ Old English _byldan_),
-- _bild_ for _build_ (_cf._ Old English _byldan_),
-- _cort_ for _court_ (_cf._ Old English _byldan_),
-- _sted_ for _stead_ (_cf._ Old English _byldan_),
-- _delite_ for _delight_,
-- _gost_ for _ghost_,
-- _harth_ for _hearth_,
-- _rime_ for _rhyme_,
-- _sum_ for _some_,
-- _tung_ for _tongue_, and many others.
-These spellings are only and occasionally to be given in dictionaries for pronunciation, as being far from words of their origins.
+- **_frend_** for _friend_ (acceptable, as on Shakespeare's grave),
+- _agenst_ for **_against_** (again +‎ -st [excrescent]),
+- _yeeld_ for **_yield_** (_cf._ Old English _ġieldan_),
+- _bild_ for **_build_** (_cf._ Old English _byldan_),
+- **_cort_** for _court_ (_cf._ French _cort_, Latin _cohort_),
+- **_sted_** for _stead_ (_cf._ Old English _stede_),
+- **_delite_** for _delight_ (_cf._ French _delite_),
+- **_gost_** for _ghost_,
+- **_harth_** for _hearth_,
+- _rime_ for **_rhyme_** (_cf._ greek _ρυθμός_),
+- _sum_ for **_some_**,
+- _tung_ for **_tongue_**, and many others.
+Some of spellings are only and occasionally to be given in dictionaries for pronunciation, as being far from words of their origins.
 ### An hour, an honor...
-For dialectal scalability, words that begin with vowel letters (except ones beginning with _one_ peonounced as _won_), or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a" instead of sounds.
+For dialectal scalability, words that begin with vowel letters (except ones beginning with _one_ peonounced as _won_), or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a" in sted of sounds.
 > Imagine an European who has sent a unique letter "ewe" to you.
