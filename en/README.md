@@ -17,6 +17,7 @@ As there is a larger people (or *there are more persons*, as seen below) in the 
 |defense|defence|defense|confer Latin _defensa_; also _offense_
 |license|licence|licence|(_noun_) confer Latin _licentia_
 |license|license|license|(_verb_) /ˈlaɪsənz/
+|an herb|a herb|an herb|[_See below_]
 
 ### Persons or People?
 **People** come across GitHub every day, but **some persons** would find this repository interesting.
@@ -45,16 +46,16 @@ These are second-person pronouns in need of mutual distinction.
 ### `ough`
 |Pronunciation|Examples|Note
 |-|-|-
-|/ʌf/|Brough, chough, clough, enough, Hough, rough, slough (see below), sough, tough|Rhymes with -uff. Clough and sough are also pronounced /aʊ/.
-|/ɒf/|cough, Gough, trough|Rhymes with off, scoff. Trough is pronounced /trɔːθ/ (troth) by some speakers of American English, and a baker's trough is also pronounced /troʊ/.[2]
-|/aʊ/|bough, clough, doughty, drought, plough, slough (see below), Slough, sough|Rhymes with cow, how. Clough and sough are also pronounced /ʌf/. Plough is generally spelled plow in American English.
-|/oʊ/|brougham, dough, furlough, though|Rhymes with no, toe. Brougham is also pronounced /uː/.
-|/ɔː/|bought, brought, fought, nought, ought, sought, thought, wrought|Rhymes with caught, taught.
-|/uː/|brougham, slough (see below), through|Rhymes with true, woo. Brougham is also pronounced /oʊ/.
-|/ə/|borough, Poughkeepsie, thorough, Willoughby|Borough and thorough are pronounced /oʊ/ in American English, thus rhyming with -urrow.
-|/ʌp/, /əp/|hiccough|--> hiccup.
+|/ʌf/|Brough, chough, clough, enough, Hough, rough, slough (see below), sough, tough|Rhymes with _-uff_. Clough and sough are also pronounced /aʊ/.
+|/ɒf/|cough, Gough, trough|Rhymes with _-off_. Trough is pronounced /trɔːθ/ (_troth_) by some speakers of American English, and a baker's _trough_ is also pronounced /troʊ/.[2]
+|/aʊ/|bough, clough, doughty, drought, plough, slough (see below), Slough, sough|Rhymes with _cow_. _Clough_ and _sough_ are also pronounced /ʌf/. _Plough_ is generally spelled _plow_ in American English.
+|/oʊ/|brougham, dough, furlough, though|Rhymes with _no_, _toe_. Brougham is also pronounced /uː/.
+|/ɔː/|bought, brought, fought, nought, ought, sought, thought, wrought|Rhymes with _caught_, _taught_.
+|/uː/|brougham, slough (see below), through|Rhymes with _true_, _woo_. Brougham is also pronounced /oʊ/.
+|/ə/|borough, Poughkeepsie, thorough, Willoughby|_Borough_ and _thorough_ are pronounced /oʊ/ in American English, thus rhyming with _-urrow_.
+|/ʌp/, /əp/|hiccough|→ _hiccup_.
 |/əf/|Greenough|/ˈɡrɛnəf/ as an Australian river, and /ˈɡriːnoʊ/ as a surname.
-|/ɒk/|Clough, hough|Rhymes with -ock. Hough --> hock.
+|/ɒk/|Clough, hough|Rhymes with -ock. _Hough_ → _hock_.
 |/ɒx/|Brough, lough, turlough|Rhymes with loch. Many speakers substitute /k/ for /x/.
 
 ### Silent letters
@@ -65,18 +66,19 @@ Some proposed simplified spellings already exist as standard or variant spelling
 - _iland_ became _island_,
 - _ake_ became _ache_, and so on.
 However, We propose undoing these changes. Other examples of older spellings that are more phonetic include
-- _frend_ for _friend_ (as on Shakespeare's grave),
-- _agenst_ for _against_,
-- _yeeld_ for _yield_,
-- _bild_ for _build_,
-- _cort_ for _court_,
-- _sted_ for _stead_,
+- _frend_ for _friend_ (acceptable, as on Shakespeare's grave),
+- _agenst_ for _against_ (again +‎ -st [excrescent]),
+- _yeeld_ for _yield_ (_cf._ Old English _byldan_),
+- _bild_ for _build_ (_cf._ Old English _byldan_),
+- _cort_ for _court_ (_cf._ Old English _byldan_),
+- _sted_ for _stead_ (_cf._ Old English _byldan_),
 - _delite_ for _delight_,
 - _gost_ for _ghost_,
 - _harth_ for _hearth_,
 - _rime_ for _rhyme_,
 - _sum_ for _some_,
 - _tung_ for _tongue_, and many others.
-We only accept _delite_ for _delight_ only, as from Latin _delitare_.
+These spellings are only and occasionally to be given in dictionaries for pronunciation, as being far from words of their origins.
 ### An hour, an honor...
+For dialectal scalability, words that begin with vowel letters (except ones beginning with _one_ peonounced as _won_), or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a" instead of sounds.
 > Imagine an European who has sent a unique letter "ewe" to you.
