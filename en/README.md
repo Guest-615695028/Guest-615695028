@@ -58,7 +58,25 @@ These are second-person pronouns in need of mutual distinction.
 |/ɒx/|Brough, lough, turlough|Rhymes with loch. Many speakers substitute /k/ for /x/.
 
 ### Silent letters
-Some proposed simplified spellings already exist as standard or variant spellings in old literature. In the 16th century, some Graeco-Latin literaturists tried to make English words look akin to their Graeco-Latin counterparts, at times even erroneously, by adding silent letters, so _det_ became _debt_, _dout_ became _doubt_, _sithe_ became _scythe_, _iland_ became _island_, _ake_ became _ache_, and so on; However, We propose undoing these changes. Other examples of older spellings that are more phonetic include _frend_ for _friend_ (as on Shakespeare's grave), _agenst_ for _against_, _yeeld_ for _yield_, _bild_ for _build_, _cort_ for _court_, _sted_ for _stead_, _delite_ for _delight_, _entise_ for _entice_, _gost_ for _ghost_, _harth_ for _hearth_, _rime_ for _rhyme_, _sum_ for _some_, _tung_ for _tongue_, and many others.
-
+Some proposed simplified spellings already exist as standard or variant spellings in old literature. In the 16th century, some Graeco-Latin literaturists tried to make English words look akin to their Graeco-Latin counterparts, at times even erroneously, by adding silent letters, so
+- _det_ became _debt_,
+- _dout_ became _doubt_,
+- _sithe_ became _scythe_,
+- _iland_ became _island_,
+- _ake_ became _ache_, and so on.
+However, We propose undoing these changes. Other examples of older spellings that are more phonetic include
+- _frend_ for _friend_ (as on Shakespeare's grave),
+- _agenst_ for _against_,
+- _yeeld_ for _yield_,
+- _bild_ for _build_,
+- _cort_ for _court_,
+- _sted_ for _stead_,
+- _delite_ for _delight_,
+- _gost_ for _ghost_,
+- _harth_ for _hearth_,
+- _rime_ for _rhyme_,
+- _sum_ for _some_,
+- _tung_ for _tongue_, and many others.
+We only accept _delite_ for _delight_ only, as from Latin _delitare_.
 ### An hour, an honor...
-- Imagine an European who has sent a unique letter "ewe" to you.
+> Imagine an European who has sent a unique letter "ewe" to you.
