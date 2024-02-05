@@ -2,7 +2,7 @@
 As the second most spoken and the most widespread language after Greater Chinese, English has witnessed more than 90% of international scholar papers and about 60% of Internet content. However, the English-speaking world has not yet founded an official department to regulate nation-wide English usage, other than [University of Oxford](https://en.wikipedia.org/wiki/Oxford_spelling).
 
 ## Vocabulary
-Along with spelling-to-sound discordances (~20%), the inflated vocabulary of English &ndash; largely due to the widespread use, lack of declension and degenerate conjugation (only _do, does, doing, did, done_) &ndash; is catastrophic to world learners, especially ones from European Union (EU) states.
+Along with spelling-to-sound discordances (~20%), the inflated vocabulary of English &ndash; largely due to the widespread use, lack of declension and degenerate conjugation (only five forms or seven, _do, does, doing, did, done \[thou doest, thou didst\]_) &ndash; is catastrophic to world learners, especially ones from European Union (EU) states.
 Usually have failed attempts to regularize or reform the spelling of English. However, Noah Webster popularised more phonetic spellings in the United States, such as _flavor_ for _flavour_, _fiber_ for _fibre_, _defense_ for _defence_, _analyze_ for _analyse_, and _catalog_ for _catalogue_, which are also standardized.
 
 ### American or British words to be used?
@@ -22,7 +22,7 @@ As there is a larger people (or *there are more persons*, as seen below) in the 
 ### Persons or People?
 **People** come across GitHub every day, but **some persons** would find this repository interesting.
 
-_Persons_, the regulare plural for _person_, is never suppleted by _people_ -- yet another noun -- so collective as to be followed by the plural verb form, as hereabove.
+_Persons_, the plural for _person_, is to be never suppleted by _people_ -- yet another noun -- so collective as to be followed by the plural verb form, as hereabove.
 
 ### Thou, Ye, You
 These are second-person pronouns in need of mutual distinction.
@@ -79,6 +79,8 @@ However, We propose undoing these changes. Other examples of older spellings tha
 - _sum_ for **_some_**,
 - _tung_ for **_tongue_**, and many others.
 Some of spellings are only and occasionally to be given in dictionaries for pronunciation, as being far from words of their origins.
-### An hour, an honor...
-For dialectal scalability, words that begin with vowel letters (except ones beginning with _one_ peonounced as _won_), or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a" in sted of sounds.
-> Imagine an European who has sent a unique letter "ewe" to you.
+
+### An hour, an honor, an honest man...
+For dialectal scalability, words that begin with vowel letters (except ones beginning with _one_ peonounced as _won_), or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a".
+> Imagine an European who has sent an unique letter "ewe" to you.
+Confer French _l'oiseau_.
