@@ -81,5 +81,5 @@ However, We propose undoing these changes. Other examples of older spellings tha
 Some of spellings are only and occasionally to be given in dictionaries for pronunciation, as being far from words of their origins.
 
 ### An hour, an honor, an honest man...
-For dialectal scalability, words that begin with vowel letters (except ones beginning with _one_ peonounced as _won_), or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a". Confer French _l'oiseau_ (the bird), _aujourd'hui_ (today), etc..
+For dialectal scalability and concerning British departure from European Union (_known as_ [Brexit](https://en.wikipedia.org/wiki/Brexit)), words that begin with vowel letters (except ones beginning with _one_ peonounced as _won_), or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a". Confer French _l'oiseau_ (the bird), _aujourd'hui_ (today), etc..
 > Imagine an European who has sent an unique letter "ewe" to you.
