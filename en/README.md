@@ -1,5 +1,5 @@
 # English
-As the second most spoken and the most widespread language after Greater Chinese, English has witnessed more than 90% of international scholar papers and about 60% of Internet content. However, the English-speaking world has not yet founded an official department to regulate nation-wide English usage, other than [University of Oxford](https://en.wikipedia.org/wiki/Oxford_spelling).
+As the second most spoken and the most widespread language after Greater Chinese, English has witnessed more than 90% of international scholar papers and about 60% of Internet content. However, the English-speaking world has not yet founded an official department to regulate nation-wide English usage, other than _de facto_ [University of Oxford](https://en.wikipedia.org/wiki/Oxford_spelling).
 
 ## Vocabulary
 Along with spelling-to-sound discordances (~20%), the inflated vocabulary of English &ndash; largely due to the widespread use, lack of declension and degenerate conjugation (only five forms or seven, _do, does, doing, did, done \[thou doest, thou didst\]_) &ndash; is catastrophic to world learners, especially ones from European Union (EU) states.
@@ -10,7 +10,7 @@ As there is a larger people (or *there are more persons*, as seen below) in the 
 
 |American|Commonwealth|New O/y|Note
 |-|-|-|-|
-|-or|-our|-or|CSS uses `color` than `colors`
+|-or|-our|-or|CSS uses `color`, not `colour`
 |-ize|-ise/ize|-ize|confer Greek _-ίζω_
 |-l-|-ll-|-l-|After unstressed vowel (commonly _-ed/-ing/-er_)
 |-er|-re|-er|Pronounced as /ɚ/ or /əɹ/
@@ -25,7 +25,8 @@ As there is a larger people (or *there are more persons*, as seen below) in the 
 _Persons_, the plural for _person_, is to be never suppleted by _people_ -- yet another noun -- so collective as to be followed by the plural verb form, as hereabove.
 
 ### Thou, Ye, You
-These are second-person pronouns in need of mutual distinction.
+These are second-person pronouns in need of mutual distinction, which is shared among most Indo-European languages by first-language speakers.
+
 |Pronoun|Singular informal|Plural informal|Formal
 |-|-|-|-
 |Nominative|Thou|Ye|You
@@ -41,6 +42,9 @@ These are second-person pronouns in need of mutual distinction.
 |go|thou goest|thou wentest|''|''
 |make|thou makest|thou madest|''|''
 |...|...|...|...|...
+
+### Anglo-Saxon, Latin and Greek
+Do not mix them.
 
 ## Pronunciation-Spelling Concordance
 ### `ough`
@@ -81,5 +85,5 @@ However, We propose undoing these changes. Other examples of older spellings tha
 Some of spellings are only and occasionally to be given in dictionaries for pronunciation, as being far from words of their origins.
 
 ### An hour, an honor, an honest man...
-For dialectal scalability and concerning British departure from European Union (_known as_ [Brexit](https://en.wikipedia.org/wiki/Brexit)), words that begin with vowel letters (except ones beginning with _one_ peonounced as _won_), or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a". Confer French _l'oiseau_ (the bird), _aujourd'hui_ (today), etc..
+For dialectal scalability and concerning British withdrawing from European Union (_known as_ [Brexit](https://en.wikipedia.org/wiki/Brexit)), words that begin with vowel letters (except ones beginning with _one_ peonounced as _won_), or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a". Confer French _l'oiseau_ (the bird), _aujourd'hui_ (today), etc..
 > Imagine an European who has sent an unique letter "ewe" to you.
