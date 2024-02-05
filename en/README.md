@@ -71,7 +71,7 @@ However, We propose undoing these changes. Other examples of older spellings tha
 - _yeeld_ for **_yield_** (_cf._ Old English _ġieldan_),
 - _bild_ for **_build_** (_cf._ Old English _byldan_),
 - **_cort_** for _court_ (_cf._ French _cort_, Latin _cohort_),
-- **_sted_** for _stead_ (_cf._ Old English _stede_),
+- **_sted_** for _stead_ (_cf._ Old English _stede_, also _insted_),
 - **_delite_** for _delight_ (_cf._ French _delite_),
 - **_gost_** for _ghost_,
 - **_harth_** for _hearth_,
