@@ -8,7 +8,7 @@ Usually have failed attempts to regularize or reform the spelling of English. Ho
 ### American or British words to be used?
 As there is a larger people (or *there are more persons*, as seen below) in the United States than the United Kingdom, the Internet prefer American English than British English. However, we are to be balanced between them.
 
-|American|Commonwealth|New O/y|Note
+|American|Commonwealth|Ours|Note
 |-|-|-|-|
 |-or|-our|-or|CSS uses `color`, not `colour`
 |-ize|-ise/ize|-ize|confer Greek _-ίζω_
@@ -44,7 +44,7 @@ These are second-person pronouns in need of mutual distinction, which is shared 
 |...|...|...|...|...
 
 ### Word origin
-English vocabulary comes from Anglo-Saxon (~25%), *Latin* (~30%), and ***Greek*** (~10%) and ~~other languages~~
+English vocabulary comes from Anglo-Saxon (~25%), *Latin* (~40%), and ***Greek*** (~10%) and ~~other languages~~.
 Do not mix them.
 |Insted of|We use
 |-|-|
