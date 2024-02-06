@@ -44,13 +44,13 @@ These are second-person pronouns in need of mutual distinction, which is shared 
 |...|...|...|...|...
 
 ### Word origin
-Anglo-Saxon, *Latin* and ***Greek***
+English vocabulary comes from Anglo-Saxon, *Latin* and ***Greek*** and ~~other languages~~
 Do not mix them.
 |Insted of|We use
 |-|-|
 |talk*ative*|talky
-|*re*mark*able*|notable, memorable
-|workaholic
+|*re*mark*able*|*notable*, *memorable*
+|work~~aholic~~|workhorse
 
 ## Pronunciation-Spelling Concordance
 ### `ough`
@@ -91,5 +91,5 @@ However, We propose undoing these changes. Other examples of older spellings tha
 Some of spellings are only and occasionally to be given in dictionaries for pronunciation, as being far from words of their origins.
 
 ### An hour, an honor, an honest man...
-For dialectal scalability and concerning British withdrawing from European Union (_known as_ [Brexit](https://en.wikipedia.org/wiki/Brexit)), words that begin with vowel letters (except ones beginning with _one_ peonounced as _won_), or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a". Confer French _l'oiseau_ (the bird), _aujourd'hui_ (today), etc..
+For dialectal scalability and concerning British withdrawing from EU (_known as_ [Brexit](https://en.wikipedia.org/wiki/Brexit)), words that begin with vowel letters (except ones beginning with _one_ peonounced as _won_), or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a". Confer French _l'oiseau_ (the bird), _aujourd'hui_ (today), etc..
 > Imagine an European who has sent an unique letter "ewe" to you.
