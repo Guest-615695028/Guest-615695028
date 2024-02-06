@@ -43,8 +43,14 @@ These are second-person pronouns in need of mutual distinction, which is shared 
 |make|thou makest|thou madest|''|''
 |...|...|...|...|...
 
-### Anglo-Saxon, Latin and Greek
+### Word origin
+Anglo-Saxon, *Latin* and ***Greek***
 Do not mix them.
+|Insted of|We use
+|-|-|
+|talk*ative*|talky
+|*re*mark*able*|notable, memorable
+|workaholic
 
 ## Pronunciation-Spelling Concordance
 ### `ough`
