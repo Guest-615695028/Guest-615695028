@@ -44,7 +44,7 @@ These are second-person pronouns in need of mutual distinction, which is shared 
 |...|...|...|...|...
 
 ### Word origin
-English vocabulary comes from Anglo-Saxon, *Latin* and ***Greek*** and ~~other languages~~
+English vocabulary comes from Anglo-Saxon (~25%), *Latin* (~30%), and ***Greek*** (~10%) and ~~other languages~~
 Do not mix them.
 |Insted of|We use
 |-|-|
@@ -92,4 +92,5 @@ Some of spellings are only and occasionally to be given in dictionaries for pron
 
 ### An hour, an honor, an honest man...
 For dialectal scalability and concerning British withdrawing from EU (_known as_ [Brexit](https://en.wikipedia.org/wiki/Brexit)), words that begin with vowel letters (except ones beginning with _one_ peonounced as _won_), or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a". Confer French _l'oiseau_ (the bird), _aujourd'hui_ (today), etc..
-> Imagine an European who has sent an unique letter "ewe" to you.
+> Imagine an European who carries an US dollar.
+
