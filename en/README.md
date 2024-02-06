@@ -3,7 +3,7 @@ As the second most spoken and the most widespread language after Greater Chinese
 
 ## Vocabulary
 Along with spelling-to-sound discordances (~20%), the inflated vocabulary of English &ndash; largely due to the widespread use, lack of declension and degenerate conjugation (only five forms or seven, _do, does, doing, did, done \[thou doest, thou didst\]_) &ndash; is catastrophic to world learners, especially ones from European Union (EU) states.
-Usually have failed attempts to regularize or reform the spelling of English. However, Noah Webster popularised more phonetic spellings in the United States, such as _flavor_ for _flavour_, _fiber_ for _fibre_, _defense_ for _defence_, _analyze_ for _analyse_, and _catalog_ for _catalogue_, which are also standardized.
+Usually have failed attempts to regularize or reform the spelling of English. However, Noah Webster proposed spellings with phonetical concordance in the United States, such as _flavor_ for _flavour_, _fiber_ for _fibre_, _defense_ for _defence_, _analyze_ for _analyse_, and _catalog_ for _catalogue_, which are also standardized.
 
 ### American or British words to be used?
 As there is a larger people (or *there are more persons*, as seen below) in the United States than the United Kingdom, the Internet prefer American English than British English. However, we are to be balanced between them.
