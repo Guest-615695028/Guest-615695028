@@ -25,8 +25,8 @@ As there is a larger people (or *there are more persons*, as seen below) in the 
 _Persons_, the plural for _person_, is to be never suppleted by _people_ -- yet another noun -- so collective as to be followed by the plural verb form, as hereabove.
 
 ### Thou, Ye, You
-These are second-person pronouns in need of mutual distinction, which is shared among most Indo-European languages by first-language speakers.
-Pronouns *thou*, *ye*, and *you* are used where Germans uses *du*, *ihr* and *Sie*.
+These are second-person pronouns in need of mutual distinction, which is shared among most Indo-European languages by first-language speakers. Pronouns *thou*, *ye*, and *you* are used where Germans uses *du*, *ihr* and *Sie*.
+
 |Pronoun|Singular informal|Plural informal|Formal
 |-|-|-|-
 |Nominative|Thou|Ye|You
