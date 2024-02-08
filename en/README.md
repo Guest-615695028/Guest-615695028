@@ -2,7 +2,7 @@
 As the second most spoken and the most widespread language after Greater Chinese, English has witnessed more than 90% of international scholar papers and about 60% of Internet content. However, the English-speaking world has not yet founded an official department to regulate nation-wide English usage, other than _de facto_ [University of Oxford](https://en.wikipedia.org/wiki/Oxford_spelling).
 
 ## Vocabulary
-Along with spelling-to-sound discordances (~20%), the inflated vocabulary of English &ndash; largely due to the widespread use, lack of declension and degenerate conjugation (only five forms or seven, _do, does, doing, did, done \[thou doest, thou didst\]_) &ndash; is catastrophic to world learners, especially ones from European Union (EU) states.
+Along with spelling-to-sound discordances (~20%), the inflated vocabulary of English &ndash; largely due to the widespread use, lack of declension (also results) and degenerate conjugation (only five forms or seven, _do, does, doing, did, done \[thou doest, thou didst\]_) &ndash; is catastrophic to world learners, especially ones from non-English European Union (EU) states.
 Usually have failed attempts to regularize or reform the spelling of English. However, Noah Webster proposed spellings with phonetical concordance in the United States, such as _flavor_ for _flavour_, _fiber_ for _fibre_, _defense_ for _defence_, _analyze_ for _analyse_, and _catalog_ for _catalogue_, which are also standardized.
 
 ### American or British words to be used?
@@ -26,7 +26,7 @@ _Persons_, the plural for _person_, is to be never suppleted by _people_ -- yet 
 
 ### Thou, Ye, You
 These are second-person pronouns in need of mutual distinction, which is shared among most Indo-European languages by first-language speakers.
-
+Pronouns *thou*, *ye*, and *you* are used where Germans uses *du*, *ihr* and *Sie*.
 |Pronoun|Singular informal|Plural informal|Formal
 |-|-|-|-
 |Nominative|Thou|Ye|You
