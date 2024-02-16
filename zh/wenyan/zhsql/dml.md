@@ -2,8 +2,9 @@
 [參見](https://dev.mysql.com/doc/refman/8.0/en/sql-data-manipulation-statements.html)
 ## 增（INSERT）
 ```
-增「表名」列（「列名」,...）置（式,...）[，（式,...）]*
+增「表名」列（「列名」,...）置（式組,...）
 ```
+`式組`：式數同列。
 ## 刪 (DELETE)
 ```
 ```
