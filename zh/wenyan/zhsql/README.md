@@ -4,7 +4,11 @@
 ## 1 語言結構
 視[統一文言編程語言](./guide.md)，參[MySQL](https://dev.mysql.com/doc/refman/8.0/en/)、[PostgreSQL](https://www.postgresql.org/docs/current/)，揚長避短。
 ### 1.1 關鍵字
-不可以定名。
+不可以定名。[含八十五字](./guide.md#關鍵字)
+```
+數據定義：建去改庫表如
+數據操縱：增刪更取
+```
 ## 2 數據庫結構
 以四叉樹排首，首長四字六十四位，樹高三十二尺。
 ## 3 語句
