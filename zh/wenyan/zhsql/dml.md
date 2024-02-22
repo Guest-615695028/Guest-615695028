@@ -1,5 +1,6 @@
 # 數據操控
-[參見](https://dev.mysql.com/doc/refman/8.0/en/sql-data-manipulation-statements.html)
+[MySQL](https://dev.mysql.com/doc/refman/8.0/en/sql-data-manipulation-statements.html)
+[PostgreSQL](https://www.postgresql.org/docs/current/dml.html)
 ## 增（INSERT）
 ```
 增「表名」列（「列名」，...）置（式組，...）。
@@ -28,7 +29,9 @@
 ```
 ## 取 (SELECT)
 ```
-取（式［名「新列名」］，...）於「表名」［若（條件）］［組以｛「列名」｜（式）｝［使（條件）］］［序以｛「列名」｜（式）｝］。
+取（式[名「新列名」]，...）於「表名」[若（條件）]
+  [組以{「列名」|（式），...}[使（條件）]]
+  [序以{「列名」|（式），...}{升|降}]。
 ```
 ## 表（TABLE）
 ```
