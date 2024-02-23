@@ -51,14 +51,20 @@
 1. 長短不明者`一`；
 2. 易美國《電機電子工程師學會標準第柒佰伍拾肆號》以補碼，零及無窮大不辨正負；
 3. 内存若`符首...首尾....尾`
-4. [`實一`](https://en.wikipedia.org/wiki/Single-precision_floating-point_format)[`實二`](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)[`實四`](https://en.wikipedia.org/wiki/Quadruple-precision_floating-point_format)[`實八`](https://en.wikipedia.org/wiki/Octuple-precision_floating-point_format)皆可用；
-5. 如餘位全陰者，首二位
+4. 如餘位全陰者，首二位
    - 陽陽：負一；（彼負二）
    - 陽陰：無窮大；（彼負零）
    - 陰陽：正一；（彼正二）
    - 陰陰：零。（彼正零）
 
-|符|首|尾|數|
+|類型|位|符|首|尾|小數位|
+|-|-|-|-
+|[`實一`](https://en.wikipedia.org/wiki/Single-precision_floating-point_format)|三十二|一|八|二十三|七
+|[`實二`](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)|六十四|一|十一|五十二|十五
+|[`實四`](https://en.wikipedia.org/wiki/Quadruple-precision_floating-point_format)|一百二十八|一|十五|一百一十二|三十四
+|[`實八`](https://en.wikipedia.org/wiki/Octuple-precision_floating-point_format)|二百五十六|一|十九|二百三十六|七十二
+
+|符|首|尾|數
 |-|-|-|-
 |$s$|$e$|$t$|$x:s\ e_0 e_1 ... e_m\ t_0 t_1 t_2 ... t_n$
 |0|0|0|0
