@@ -58,7 +58,7 @@
    - 陰陰：零。（彼正零）
 
 |類型|位|符|首|尾|小數位|
-|-|-|-|-
+|-|-|-|-|-|-
 |[`實一`](https://en.wikipedia.org/wiki/Single-precision_floating-point_format)|三十二|一|八|二十三|七
 |[`實二`](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)|六十四|一|十一|五十二|十五
 |[`實四`](https://en.wikipedia.org/wiki/Quadruple-precision_floating-point_format)|一百二十八|一|十五|一百一十二|三十四
