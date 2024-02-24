@@ -1,5 +1,5 @@
 # 中文字符集
-本人作爲中華人民共和國愛國公民，深知在中華人民共和國境内（國内）銷售的操作系統必須兼容國標第壹捌零叁零號《信息技術中文編碼字符集》（國標字符集），但[它實用上早已接近停用](https://www.zhihu.com/question/426038434)，考慮[Mac OS X顯然不支持國標字符集但確實在國内隨iMac硬件銷售了](https://www.chinese-forums.com/forums/topic/48909-mac-os-x-gb18030-gb2312gbk-encoded-files-not-recognized/)。爲此本人迫切希望[我國工信部](https://wap.miit.gov.cn/)改革此套字符編碼系統。
+本人作爲中華人民共和國愛國公民，深知在中華人民共和國境内（國内）銷售的操作系統必須兼容國標第壹捌零叁零號《信息技術中文編碼字符集》（國標字符集）；但它[缺陷嚴重](./on-gb18030)，[早已接近停用](https://www.zhihu.com/question/426038434)，而且[Mac OS X顯然不支持國標字符集但確實在國内隨iMac硬件銷售了](https://www.chinese-forums.com/forums/topic/48909-mac-os-x-gb18030-gb2312gbk-encoded-files-not-recognized/)。爲此本人擬奏請[我國工信部](https://wap.miit.gov.cn/)改革此套字符編碼系統。
 |首|次|末|碼位數|萬國碼
 |-|-|-|-|-
 |00至7F|-|-|一二八|0000至007F
