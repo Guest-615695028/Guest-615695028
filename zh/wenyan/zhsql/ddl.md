@@ -64,15 +64,6 @@
 ### 1.9 索引（INDEX）
 表以行索。行外索引，千表不過一，萬表不過三。
 
-### 1.10 記錄（LOGFILE GROUP）
-廢。[太史](./log.md)書之，不置別史。
-
-### 1.11 服務器（SERVER）
-廢。所謂「服務器」者，[聯構](https://dev.mysql.com/doc/refman/8.0/en/federated-storage-engine.html)獨有以至他機，今以前端至之。
-
-### 1.12 空間參考系（SPATIAL REFERENCE SYSTEM）
-廢。空間以前端釋。
-
 ## 2 去（DROP）
 
 無而去之，告。
