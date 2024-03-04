@@ -29,3 +29,23 @@
 - 指令號居低位，不易人腦關注。
 ### 指令集結構
 [詳見](./commands.md)
+<table>
+  <tr>
+    <th>31-26</th> <th>25-21</th> <th>20-16</th> <th>15-11</th> <th>10-6</th> <th>5-0</th>
+  </tr> <tr>
+    <td rowspan="3">指令號</td> <td>目的寄存器</td> <td>源寄存器一</td>
+    <td>源寄存器二</td> <td>位移</td> <td>功能</td>
+  </tr> <tr><td>目的寄存器</td><td>源寄存器一<td colspan="3">立即數</td></tr>
+  <tr><td colspan="5">立即數</td></tr>
+</table>
+
+|指令號|0|1|2|3|4|5|6|7
+|-|-|-|-|-|-|-|-|-
+|0|(0)|(1)|J|JAL|BEQ|BNE|BLEZ|BGTZ
+|1|001|ADDI|ADDIU|SLTI|SLTIU|ANDI|ORI|XORI|LUI
+|2|010|COP0|COP1|COP2|COP1X|BEQL|BNEL|BLEZL|BGTZL
+|3|011|DADDI|DADDIU|LDL|LDR|*|*|*
+|4|100|LB|LH|LWL|LW|LBU|LHU|LWR|LWU
+|5|101|SB|SH|SWL|SW|SDL|SDR|SWR|
+|6|110|LL|LWC1|LWC2|PREF|LLD|LDC1|LDC2|LD
+|7|111|SC|SWC1|SWC2|∗|SCD|SDC1|SDC2|SD
