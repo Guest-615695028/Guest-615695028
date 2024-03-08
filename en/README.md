@@ -35,14 +35,17 @@ These are second-person pronouns in need of mutual distinction, which is shared 
 |Possessive|thine|yours|yours
 |Reflexive|thyself|yourselves|yourself<br>yourselves
 
-|Be|Thou art|Thou wast
+|Infinitive|1, 2, 3, 11 Present Indicative|1, 2, 11 Past Indicative
 |-|-|-
-|have|thou hast|thou hadst
-|do|thou doest (pronunced as _dust_)|thou didst
-|go|thou goest|thou wentest
-|make|thou makest|thou madest
+|be|I am, thou art, he is, we are|I was, thou wast, we were
+|have|I have, thou hast, he has|thou hadst
+|do|I do, thou doest (_dust_), he does (_duss_), we do|thou didst
+|go|I go, thou goest, he goes, we go|I went, thou wentest, he went
+|make|I make, thou makest, he makes, we make|I made, thou madest, he made
+|give|I give, thou givest, he gives, we give|I gave, thou gavest, he gave
+|cost|I cost, thou costest, he costs, we cost|I/we cost/costed, thou costest/costedst¹
 |...|...|...
-
+¹ "this computer cost me £600"; "the project was costed at $1 million."
 ### Word origin
 English vocabulary comes from Anglo-Saxon (~25%), *Latin* (~40%), and ***Greek*** (~10%) and ~~other languages~~.
 Do not mix them.
