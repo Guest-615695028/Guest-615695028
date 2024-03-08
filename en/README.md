@@ -45,7 +45,9 @@ These are second-person pronouns in need of mutual distinction, which is shared 
 |give|I give, thou givest, he gives, we give|I gave, thou gavest, he gave
 |cost|I cost, thou costest, he costs, we cost|I/we cost/costed, thou costest/costedst¹
 |...|...|...
-¹ "this computer cost me £600"; "the project was costed at $1 million."
+
+¹ "this computer cost me $600"; "the project was costed at $1 million."
+
 ### Word origin
 English vocabulary comes from Anglo-Saxon (~25%), *Latin* (~40%), and ***Greek*** (~10%) and ~~other languages~~.
 Do not mix them.
