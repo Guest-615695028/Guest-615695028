@@ -35,13 +35,13 @@ These are second-person pronouns in need of mutual distinction, which is shared 
 |Possessive|thine|yours|yours
 |Reflexive|thyself|yourselves|yourself<br>yourselves
 
-|Be|Thou art|Thou wast|That thou beest|That thou wert
-|-|-|-|-|-
-|have|thou hast|thou hadst|that thou havest|that thou hadst
-|do|thou doest (pronunced as _dust_)|thou didst|''|''
-|go|thou goest|thou wentest|''|''
-|make|thou makest|thou madest|''|''
-|...|...|...|...|...
+|Be|Thou art|Thou wast
+|-|-|-
+|have|thou hast|thou hadst
+|do|thou doest (pronunced as _dust_)|thou didst
+|go|thou goest|thou wentest
+|make|thou makest|thou madest
+|...|...|...
 
 ### Word origin
 English vocabulary comes from Anglo-Saxon (~25%), *Latin* (~40%), and ***Greek*** (~10%) and ~~other languages~~.
