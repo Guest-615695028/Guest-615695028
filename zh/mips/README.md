@@ -39,9 +39,9 @@
 |-|-|-|-|-|-|-|-|-
 |000|（坤）|（剝）|跳|用|等|不等|小|不小
 |001|加|加無|移|移無|與|或|抑|上
-|002|協甲|協乙|協丙|協丁|（）|（）|（）|（）
-|003|DADDI|DADDIU|LDL|LDR|（鼎）|（大過）|（姤）
-|004|LB|LH|LWL|LW|LBU|LHU|LWR|LWU
-|005|SB|SH|SWL|SW|SDL|SDR|SWR|
-|006|LL|LWC1|LWC2|PREF|LLD|LDC1|LDC2|LD
-|007|SC|SWC1|SWC2|∗|SCD|SDC1|SDC2|SD
+|010|協甲|協乙|協丙|協丁|（解）|（未濟）|（困）|（訟）
+|011|DADDI|DADDIU|LDL|LDR|（鼎）|（大過）|（姤）
+|100|LB|LH|LWL|LW|LBU|LHU|LWR|LWU
+|101|SB|SH|SWL|SW|SDL|SDR|SWR|
+|110|LL|LWC1|LWC2|PREF|LLD|LDC1|LDC2|LD
+|111|SC|SWC1|SWC2|（小畜）|SCD|SDC1|SDC2|SD
