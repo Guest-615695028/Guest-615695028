@@ -40,8 +40,11 @@
 |000|（坤）|（剝）|跳|用|等|不等|小|不小
 |001|加|加無|移|移無|與|或|抑|上
 |010|協甲|協乙|協丙|協丁|（解）|（未濟）|（困）|（訟）
-|011|DADDI|DADDIU|LDL|LDR|（鼎）|（大過）|（姤）
-|100|LB|LH|LWL|LW|LBU|LHU|LWR|LWU
-|101|SB|SH|SWL|SW|SDL|SDR|SWR|
-|110|LL|LWC1|LWC2|PREF|LLD|LDC1|LDC2|LD
-|111|SC|SWC1|SWC2|（小畜）|SCD|SDC1|SDC2|SD
+|011|DADDI|DADDIU|（巽）|（恆）|（鼎）|（大過）|（姤）
+|100|LB|LH|（屯）|LW|LBU|LHU|（隨）|LWU
+|101|SB|SH|（既濟）|SW|（豐）|（離）|（革）|SWU
+|110|LL|LWC1|LWC2|LWC3|LLD|LDC1|LDC2|LD
+|111|SC|SWC1|SWC2|SWC3|SCD|SDC1|SDC2|SD
+
+按：（屯）（隨）從内存取未對齊連續四字節高低位至寄存器，（既濟）（革）書寫分別反之。
+三代以降：（巽）（恆）（豐）（離）同理，八字節。
