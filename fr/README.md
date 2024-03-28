@@ -13,4 +13,4 @@ Cet mot est utilisé en Chablais (nord de la Haute-Savoie) et [Vallée d’Aoste
 
 Ce mot est également utilisé en Belgique, principalement dans la Province du Luxembourg ou les Cantons de l’Est. 
 
-Internationalement, on récommande les mots *septante*, *huitante* et *nonante* parce qu'un ingéniteur français peut faire une faute de 60.10 pour 70, ou 4.20 pour 80.
+Internationalement, on récommande les mots *septante*, *huitante* et *nonante* parce qu'un ingéniteur français peut faire une faute de 60,10 pour 70, ou 4,20 pour 80.
