@@ -5,7 +5,7 @@ LIS-MOI
 > Quatre-vingt, quatre-vingt-un, quatre-vingt-deux, ...,\
 > Quatre-vingt-dix, quatre-vengt-onze, ..., quatre-vingt-dix-neuf, cent.
 
-Un(e) etudiant(e) est comptant des nombre de septante jusqu'à nonante-neuf.
+<div style="text-align: right"> Un(e) etudiant(e) est en train de compter des nombre de septante jusqu'à nonante-neuf. </div>
 
 *L'Huitante* est utilisé en Suisse, principalement dans les cantons de Vaud, du Valais et de Fribourg. Dans les autres cantons, c’est plutôt la forme « quatre-vingts » qui est en usage.
 
