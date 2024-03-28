@@ -8,4 +8,6 @@
 
 [又有人説](https://history.ifeng.com/c/8JRHa3e2e3l)，寒窗苦讀好不容易考上了，頭上頂了烏紗帽，成了既得利益者，説話辦事就會瞻前顧後，生怕斷送自身前程，那他還敢犯顔直諫？難怪唐太宗聲稱：「天下英雄皆入我彀中矣！」
 
-這就是爲什麽到了道光二十年鴉片戰爭開打，皇帝還問英吉利在哪，離俄羅斯遠不遠，跟新疆有沒有旱路連接。這就是爲什麽晚清[屢](https://zh.wikipedia.org/wiki/洋務運動)[革](https://zh.wikipedia.org/wiki/戊戌變法)[屢](https://zh.wikipedia.org/wiki/清末新政)[敗](https://zh.wikipedia.org/wiki/立憲運動)，而日本[明治維新](https://zh.wikipedia.org/wiki/明治維新)一次成功。
+這就是爲什麽到了道光二十年鴉片戰爭開打，皇帝還問英吉利在哪，離俄羅斯遠不遠，跟新疆有沒有旱路連接。這就是爲什麽滿清[屢](https://zh.wikipedia.org/wiki/洋務運動)[革](https://zh.wikipedia.org/wiki/戊戌變法)[屢](https://zh.wikipedia.org/wiki/清末新政)[敗](https://zh.wikipedia.org/wiki/立憲運動)，而日本[明治維新](https://zh.wikipedia.org/wiki/明治維新)一次成功。
+
+我們可不希望九股文鉗制民衆思想。
