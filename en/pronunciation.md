@@ -9,10 +9,16 @@ A [yew](https://en.wiktionary.org/wiki/yew) (/jɪʊ̯/) is an evergreen conifero
 "[You](https://en.wiktionary.org/wiki/you)" (/ju:/) is the formal second-person pronoun in English _(see above)_. (Old English _eow_).
 
 ## Pronunciation-Spelling Concordance
-|British Received Pronunciation|General American Pronunciation|Github Recommended Pronunciation
-|-|-|-
+|enPR Key|British Received Pronunciation|General American Pronunciation|Wikipedic Pronunciation
+|-|-|-|-
+|ä|/ɑː/|/ɑ(ː)/|/ɑː/
+|ă|/æ/|/æ/|/æ/
+|ā|/eɪ/|/eɪ/|/eɪ/
+|ār|/eə/|/ɛɹ/|/ɛːɹ/
+|ĕ|/e/|/ɛ/|/ɛ/
+|ē|/iː/|/iː/|/iː/
 
-The word _recieved pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England, but as it is sometimes referred as "the King/Queen's English", the Kings and Queens has never utilize their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" power due to incapability of speaking the English, which is far from internationality before Two World Wars in the 20th century.
+The word _**recieved** pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England; though it is sometimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" powers due to incapability of speaking the English, which is far from internationality before Two World Wars in the 20th century.
 ### `ough`
 |Pronunciation|Examples|Note
 |-|-|-
