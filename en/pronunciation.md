@@ -9,14 +9,28 @@ A [yew](https://en.wiktionary.org/wiki/yew) (/jɪʊ̯/) is an evergreen conifero
 "[You](https://en.wiktionary.org/wiki/you)" (/ju:/) is the formal second-person pronoun in English _(see above)_. (Old English _eow_).
 
 ## Pronunciation-Spelling Concordance
-|enPR Key|British Received Pronunciation|General American Pronunciation|Wikipedic Pronunciation
+Stressed and onnly stressed vowel are to be marked on dictionaries, with full IPA given only to irregularly pronounced words.
+|British Received Pronunciation|General American Pronunciation|Wikipedic Pronunciation|Dictionary Key
 |-|-|-|-
-|ä|/ɑː/|/ɑ(ː)/|/ɑː/
-|ă|/æ/|/æ/|/æ/
-|ā|/eɪ/|/eɪ/|/eɪ/
-|ār|/eə/|/ɛɹ/|/ɛːɹ/
-|ĕ|/e/|/ɛ/|/ɛ/
-|ē|/iː/|/iː/|/iː/
+|/iː/|/iː/|/iː/|ē, e&#862;a, e&#862;e, e&#862;i, i&#862;e
+|/ɪə/|/ɪɹ/|/ɪəɹ/|ēr, e&#862;ar, e&#862;er, e&#862;ir, i&#862;er
+|/uː/|/uː/|/uː/|o&#862;o, ū
+|/ʊə/|/ʊɹ/|/ʊəɹ/|o&#862;or, ūr
+|/ɔː/|/ɔː/|/ɔː/|ô
+|/ɔː/|/ɔːɹ/|/ɔːɹ/|ôr
+|/ɑː/|/ɑː/|/ɑː/|ä
+|/ɑː/|/ɑːɹ/|/ɑːɹ/|är
+|/ɑː/|/æ/|/ɑː/,/æ/|ä&#774;
+|/ɪ/|/ɪ/|/ɪ/|ĭ, y̆
+|/e/|/ɛ/|/ɛ/|ĕ, e&#861;a, a&#861;i, a&#861;y
+|/æ/|/æ/|/æ/|ă
+|/ʊ/|/ʊ/|/ʊ/|ŏŏ, ŭ
+|/ɒ/|/ɑ/, /ɔ/|/ɒ/|ŏ
+|/aɪ/|/aɪ/|/aɪ/|ī, ȳ, äi
+|/eɪ/|/eɪ/|/eɪ/|ā, a&#862;i, a&#862;y, ĕy, ĕi
+|/ɔɪ/|/ɔɪ/|/ɔɪ/|oi, oy
+|/əʊ/|/oʊ/|/oʊ/|ō, o&#862;w, o&#862;a, o&#862;u
+|/eə(ɹ)/|/ɛɹ/|/ɛəɹ/|ār, āir, ĕr
 
 The word _**recieved** pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England; though it is sometimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" powers due to incapability of speaking the English, which is far from internationality before Two World Wars in the 20th century.
 ### `ough`
