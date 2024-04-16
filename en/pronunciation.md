@@ -24,6 +24,7 @@ Stressed and onnly stressed vowel are to be marked on dictionaries, with full IP
 |/ɪ/|/ɪ/|/ɪ/|ĭ, y̆
 |/e/|/ɛ/|/ɛ/|ĕ, e&#861;a, a&#861;i, a&#861;y
 |/æ/|/æ/|/æ/|ă
+|/ʌ/|/ʌ/|/ʌ/|û
 |/ʊ/|/ʊ/|/ʊ/|ŏŏ, ŭ
 |/ɒ/|/ɑ/, /ɔ/|/ɒ/|ŏ
 |/aɪ/|/aɪ/|/aɪ/|ī, ȳ, äi
