@@ -1,6 +1,51 @@
 # On Solving a Concensus on English Pronunciation
 ## Indefinite article
-|A|An
-|-|-
-|My|Mine
-|Thy|Thine
+The indifinite article _a_ becomes _an_ when followed by a vowel letter or Graeco-Latin _h_ but only the word _one_, _my_ becomes _mine_, and _thy_ becomes _thine_.
+### A group of nearly homophonic xamples
+An [ewe](https://en.wiktionary.org/wiki/ewe) (/ʔɪʊ̯/) is a female sheep. (Old English _eowu_)
+
+A [yew](https://en.wiktionary.org/wiki/yew) (/jɪʊ̯/) is an evergreen coniferous tree or bush of the genus Taxus. (Old English _īw_, _ēow_)
+
+"[You](https://en.wiktionary.org/wiki/you)" (/ju:/) is the formal second-person pronoun in English _(see above)_. (Old English _eow_).
+
+## Pronunciation-Spelling Concordance
+### `ough`
+|Pronunciation|Examples|Note
+|-|-|-
+|/ʌf/|Brough, chough, clough, enough, Hough, rough, slough (see below), sough, tough|Rhymes with _-uff_. Clough and sough are also pronounced /aʊ/.
+|/ɒf/|cough, Gough, trough|Rhymes with _-off_. Trough is pronounced /trɔːθ/ (_troth_) by some speakers of American English, and a baker's _trough_ is also pronounced /troʊ/.[2]
+|/aʊ/|bough, clough, doughty, drought, plough, slough (see below), Slough, sough|Rhymes with _cow_. _Clough_ and _sough_ are also pronounced /ʌf/. _Plough_ is generally spelled _plow_ in American English.
+|/oʊ/|brougham, dough, furlough, though|Rhymes with _no_, _toe_. Brougham is also pronounced /uː/.
+|/ɔː/|bought, brought, fought, nought, ought, sought, thought, wrought|Rhymes with _caught_, _taught_.
+|/uː/|brougham, slough (see below), through|Rhymes with _true_, _woo_. Brougham is also pronounced /oʊ/.
+|/ə/|borough, Poughkeepsie, thorough, Willoughby|_Borough_ and _thorough_ are pronounced /oʊ/ in American English, thus rhyming with _-urrow_.
+|/ʌp/, /əp/|hiccough|→ _hiccup_.
+|/əf/|Greenough|/ˈɡrɛnəf/ as an Australian river, and /ˈɡriːnoʊ/ as a surname.
+|/ɒk/|Clough, hough|Rhymes with -ock. _Hough_ → _hock_.
+|/ɒx/|Brough, lough, turlough|Rhymes with loch. Many speakers substitute /k/ for /x/.
+
+### Silent letters
+Some proposed simplified spellings already exist as standard or variant spellings in old literature. In the 16th century, some Graeco-Latin literaturists tried to make English words look akin to their Graeco-Latin counterparts, at times even erroneously, by adding silent letters, so
+- _det_ became _debt_,
+- _dout_ became _doubt_,
+- _sithe_ became _scythe_,
+- _iland_ became _island_,
+- _ake_ became _ache_, and so on.
+However, We propose undoing these changes. Other examples of older spellings that are more phonetic include
+- **_frend_** for _friend_ (acceptable, as on Shakespeare's grave),
+- _agenst_ for **_against_** (again +‎ -st [excrescent]),
+- _yeeld_ for **_yield_** (_cf._ Old English _ġieldan_),
+- _bild_ for **_build_** (_cf._ Old English _byldan_),
+- **_cort_** for _court_ (_cf._ French _cort_, Latin _cohort_),
+- **_sted_** for _stead_ (_cf._ Old English _stede_, also _insted_),
+- **_delite_** for _delight_ (_cf._ French _delite_),
+- **_gost_** for _ghost_,
+- **_harth_** for _hearth_,
+- _rime_ for **_rhyme_** (_cf._ greek _ρυθμός_),
+- _sum_ for **_some_**,
+- _tung_ for **_tongue_**, and many others.
+Some of spellings are only and occasionally to be given in dictionaries for pronunciation, as being far from words of their origins.
+
+### An hour, an heir, an honor, an honest man...
+For dialectal scalability and concerning British withdrawing from EU (_known as_ [Brexit](https://en.wikipedia.org/wiki/Brexit)), words that begin with vowel letters (except ones beginning with _one_ peonounced as _won_), or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a". Confer French _l'oiseau_ (the bird), _aujourd'hui_ (today), etc..
+> Imagine an European who carries an US dollar.
