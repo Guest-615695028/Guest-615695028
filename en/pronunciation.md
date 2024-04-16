@@ -1,7 +1,7 @@
 # On Solving a Concensus on English Pronunciation
 ## Indefinite article
 The indifinite article _a_ becomes _an_ when followed by a vowel letter or Graeco-Latin _h_ but only the word _one_, _my_ becomes _mine_, and _thy_ becomes _thine_.
-### A group of nearly homophonic xamples
+### A group of nearly homophonic examples
 An [ewe](https://en.wiktionary.org/wiki/ewe) (/ʔɪʊ̯/) is a female sheep. (Old English _eowu_)
 
 A [yew](https://en.wiktionary.org/wiki/yew) (/jɪʊ̯/) is an evergreen coniferous tree or bush of the genus Taxus. (Old English _īw_, _ēow_)
@@ -9,6 +9,10 @@ A [yew](https://en.wiktionary.org/wiki/yew) (/jɪʊ̯/) is an evergreen conifero
 "[You](https://en.wiktionary.org/wiki/you)" (/ju:/) is the formal second-person pronoun in English _(see above)_. (Old English _eow_).
 
 ## Pronunciation-Spelling Concordance
+|British Received Pronunciation|General American Pronunciation|Github Recommended Pronunciation
+|-|-|-
+
+The word _recieved pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England, but as it is sometimes referred as "the King/Queen's English", the Kings and Queens has never utilize their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" power due to incapability of speaking the English, which is far from internationality before Two World Wars in the 20th century.
 ### `ough`
 |Pronunciation|Examples|Note
 |-|-|-
