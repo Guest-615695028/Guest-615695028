@@ -19,7 +19,7 @@ As the second most spoken and the most widespread language after Greater Chinese
 5. He gets a coin and says ‘Who’s image is this?’ And his audience says, ‘Caesar’s’. ‘So,’ Jesus says, ‘give to Caesar what is Caesar’s and give to God what is God’s.’
 6. The Anti-Christ hanged the Son on two trees, one grows straight out from the ground, the other along.
 7. Then, three grosses of years later, it handed itself into the darkness.
-8. Ten other grosses of years passed, another empire rose by winning against [the ones who escaped the Great Flood by other means](https://en.wikipedia.org/wiki/Chinese_people).
+8. Ten other grosses of years passed, variable empires rose by winning against [the ones](https://en.wikipedia.org/wiki/Chinese_people) who escaped the [Great Flood](https://en.wikipedia.org/wiki/Great_Flood) by [deluging it](https://en.wikipedia.org/wiki/Yu_the_Great).
 9. Now the whole world has his language as a common speech.
-10. The Lord came down again and sent a crowned angel into this empire. No one can see them.
+10. The Lord came down again and sent [a crowned angel](https://en.wikipedia.org/wiki/SARS-CoV-2) into this empire. Thrice more people died than reported.
 11. 
