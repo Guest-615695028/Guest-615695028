@@ -8,13 +8,18 @@ As the second most spoken and the most widespread language after Greater Chinese
 4. Then they said, “Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves; otherwise we will be scattered over the face of the whole earth.”
 5. But the Lord came down to see the city and the tower the people were building.
 6. The Lord said, “If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them.
-7. Come, let us go down and confuse their language so they will not understand each other.”
+7. “Come, let us go down and confuse their language so they will not understand each other.”
 8. So the Lord scattered them from there over all the earth, and they stopped building the city.
 9. That is why it was called Babel—because there the Lord confused the language of the whole world. From there the Lord scattered them over the face of the whole earth.
 ## What follows?
 1. People seperated themselves from each other by cognition of ancestor just below the builder of the Ark.
-2. they began wars onto each other, and they expand their lands.
-3. In the strongest empire selected for two thousand years, descended The Son, who warned against its strengh gained by wars, only to be hanged on two trees, one grows straight out from the ground, the other along.
-4. Then, the empire fell and handed itself into darkness.
-5. Another thousand years passed, and another empire rose.
-6. So, the God sent a crowned angel into this empire.
+2. They began wars onto each other, and they expand their lands.
+3. In the strongest empire selected for two thousand years descended The Son, who warned against its strengh gained by wars.
+4. Not at all had he known that the ruler is just the Resentful, Aggressive and Self-Exaggerated Anti-Christ.
+5. He gets a coin and says ‘Who’s image is this?’ And his audience says, ‘Caesar’s’. ‘So,’ Jesus says, ‘give to Caesar what is Caesar’s and give to God what is God’s.’
+6. The Anti-Christ hanged the Son on two trees, one grows straight out from the ground, the other along.
+7. Then, three grosses of years later, it handed itself into the darkness.
+8. Ten other grosses of years passed, another empire rose by winning against [the ones who escaped the Great Flood by other means](https://en.wikipedia.org/wiki/Chinese_people).
+9. Now the whole world has his language as a common speech.
+10. The Lord came down again and sent a crowned angel into this empire. No one can see them.
+11. 
