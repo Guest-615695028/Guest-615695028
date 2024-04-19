@@ -15,13 +15,14 @@ As the second most spoken and the most widespread language after Greater Chinese
 1. People seperated themselves from each other by cognition of ancestor just below the builder of the Ark.
 2. They began wars onto each other, and they expand their lands.
 3. In the strongest empire selected for two thousand years descended The Son, who warned against its strengh gained by wars.
-4. Not at all had he known that the ruler is just the Resentful, Aggressive and Self-Exaggerated Anti-Christ.
-5. He gets a coin and says ‘Who’s image is this?’ And his audience says, ‘Caesar’s’. ‘So,’ Jesus says, ‘give to Caesar what is Caesar’s and give to God what is God’s.’
-6. The Anti-Christ hanged the Son on two trees, one grows straight out from the ground, the other along.
-7. Then, three grosses of years later, it handed itself into the darkness.
-8. Ten other grosses of years passed, variable empires rose by winning against [the ones](https://en.wikipedia.org/wiki/Chinese_people) who escaped the [Great Flood](https://en.wikipedia.org/wiki/Great_Flood) by [deluging it](https://en.wikipedia.org/wiki/Yu_the_Great).
-9. Among them is [the one with the largest effective landmass](https://en.wikipedia.org/wiki/United_States), the other with [the largest land](https://en.wikipedia.org/wiki/Soviet_Union).
-10. Now the whole world has [his language](https://en.wikipedia.org/wiki/English_language) as [a common speech](https://en.wikipedia.org/wiki/International_English).
-11. The Lord came down again and sent [a crowned angel](https://en.wikipedia.org/wiki/SARS-CoV-2) into this empire, just after [its next archenemy](https://en.wikipedia.org/wiki/China).
-12. In the whole world [died thrice more people](https://en.wikipedia.org/wiki/COVID-19_pandemic) than reported.
-13. That is why it was called the Day of Judgement — because then the Lord cleansed the earth. From there the Lord divided [the Hell](https://en.wikipedia.org/wiki/Capitalism), [the Purgatory](https://en.wikipedia.org/wiki/Socialism) and [the Heaven](https://en.wikipedia.org/wiki/Communism).
+4. Not at all had he known that the ruler is just the [Resentful, Aggressive and Self-Exaggerated Anti-Christ](https://en.wikipedia.org/wiki/Julius_Caesar).
+5. He gets a coin and says “Who's image is this?” And his audience says, “Caesar's”.
+6. “So,” Jesus says, “give to Caesar what is Caesar’s and give to God what is God's.”
+7. The Anti-Christ hanged the Son on two trees, one grows straight out from the ground, the other along.
+8. Then, three grosses of years later, it handed itself into the darkness.
+9. Ten other grosses of years passed, variable empires rose by winning against [the ones](https://en.wikipedia.org/wiki/Chinese_people) who escaped the [Great Flood](https://en.wikipedia.org/wiki/Great_Flood) by [deluging it](https://en.wikipedia.org/wiki/Yu_the_Great).
+10. Among them is [the one with the largest effective landmass](https://en.wikipedia.org/wiki/United_States), the other with [the largest land](https://en.wikipedia.org/wiki/Soviet_Union).
+11. Now the whole world has [his language](https://en.wikipedia.org/wiki/English_language) as [a common speech](https://en.wikipedia.org/wiki/International_English).
+12. The Lord came down again and sent [a crowned angel](https://en.wikipedia.org/wiki/SARS-CoV-2) into this empire, just after [its next archenemy](https://en.wikipedia.org/wiki/China).
+13. In the whole world [died thrice more people](https://en.wikipedia.org/wiki/COVID-19_pandemic) than reported.
+14. The Day of Judgement comes — the Lord cleansed the earth. From there the Lord divided [the Hell](https://en.wikipedia.org/wiki/Capitalism), [the Purgatory](https://en.wikipedia.org/wiki/Socialism) and [the Heaven](https://en.wikipedia.org/wiki/Communism).
