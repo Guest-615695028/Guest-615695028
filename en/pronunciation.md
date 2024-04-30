@@ -8,7 +8,7 @@ An [ewe](https://en.wiktionary.org/wiki/ewe) (/ʔɪʊ̯/) is a female sheep. (Ol
 
 A [yew](https://en.wiktionary.org/wiki/yew) (/jɪʊ̯/) is an evergreen coniferous tree or bush of the genus Taxus. (Old English _īw_, _ēow_)
 
-"[You](https://en.wiktionary.org/wiki/you)" (/ju:/) is the formal second-person pronoun in English _(see above)_. (Old English _eow_).
+"[You](https://en.wiktionary.org/wiki/you)" (/ju:/) is the formal second-person pronoun in English (informally _thou, ye_). (Old English _eow_).
 
 ## Pronunciation-Spelling Concordance
 Stressed and onnly stressed vowel are to be marked on dictionaries, with full IPA given only to irregularly pronounced words.
