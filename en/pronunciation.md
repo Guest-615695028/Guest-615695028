@@ -1,6 +1,8 @@
 # On Solving a Concensus on English Pronunciation
 ## Indefinite article
-The indifinite article _a_ becomes _an_ when followed by a vowel letter or Graeco-Latin _h_ but only the word _one_, _my_ becomes _mine_, and _thy_ becomes _thine_.
+Due to the variable accents scattered in world Englishes, the indifinite article _a_ becomes _an_ when followed by a vowel letter or Graeco-Latin _h_ but only the words _one_ and _once_, _my_ becomes _mine_, and _thy_ becomes _thine_. \
+[European integration, social democratic Europeanism and the competitiveness discourse: a neo-Poulantzian approach to discursive policy analysis, Joan Miró, p. 2](https://www.nature.com/articles/palcomms201760.pdf)
+
 ### A group of nearly homophonic examples
 An [ewe](https://en.wiktionary.org/wiki/ewe) (/ʔɪʊ̯/) is a female sheep. (Old English _eowu_)
 
