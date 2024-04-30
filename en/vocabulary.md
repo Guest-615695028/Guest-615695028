@@ -10,7 +10,7 @@ As there is a larger people (or *there are more persons*, as seen below) in the 
 |-or|-our|-or|CSS uses `color`, not `colour`
 |-ize|-ise/ize|-ize|confer Greek _-ίζω_
 |-l-|-ll-|-l-|After unstressed vowel (commonly _-ed/-ing/-er_)
-|-er|-re|-er|Pronounced as /ɚ/ or /əɹ/
+|-er|-re|-er|Pronounced as /ɚ/ or /əɹ/; CSS uses `center`, not `centre`
 |-lyze|-lyse|-lyse|confer Greek _λύσις_
 |defense|defence|defense|confer Latin _defensa_; also _offense_
 |license|licence|licence|(_noun_) confer Latin _licentia_
