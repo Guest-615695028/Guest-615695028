@@ -46,28 +46,25 @@ These are second-person pronouns in need of mutual distinction, which is shared 
 
 ¹ "this computer cost me $600"; "the project was costed at $1 million."
 
-In European Union languages, (by descending relativity to English)
+In Indo-European Union languages, (by descending relativity to English)
 |English|Thou|Ye|You
 |-|-|-|-
 |German|du|ihr|Sie
 |Dutch|jij|jullie|u
 |Danish|du|I|De
-|Swedish|du|Di
+|Swedish|du|ni|Di
 |French|tu|vous|vous
 |Italian|tu|voi|Lei, Loro
 |Portuguese|tu|vós|você(s)
 |Spanish|tú, vos|vosotro/as|usted(es)
 |Romanian|tu|voi|dumneavoastră
-|Irish|
+|Irish|tú|sibh|sibh
 |Greek (modern)|εσύ (esý)|εσείς (eseís)|εσείς (eseís)
 |Latvian, Lithuanian|tu|jūs|jūs
 |Czechoslovak|ty|vy|vy
 |Polish|ty|wy|pan(i), państwo
 |Slovene, Croatian|ti|vi|vi
 |Bulgarian|ти|ви|ви
-|Maltese|
-|Hungarian|te|ti|ti
-|Finnish, Estonian|sinä|te|Te
 
 ## Word origin
 English vocabulary comes from Anglo-Saxon (~25%), *Latin* (~40%), and ***Greek*** (~10%) and ~~other languages~~.
