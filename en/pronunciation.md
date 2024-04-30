@@ -1,14 +1,5 @@
 # On Solving a Concensus on English Pronunciation
-## Indefinite article
-Due to the variable accents scattered in world Englishes, the indifinite article _a_ becomes _an_ when followed by a vowel letter or Graeco-Latin _h_ but only the words _one_ and _once_, _my_ becomes _mine_, and _thy_ becomes _thine_. \
-"An Europeanist" is found in Joan Miró's _[European integration, social democratic Europeanism and the competitiveness discourse: a neo-Poulantzian approach to discursive policy analysis](https://www.nature.com/articles/palcomms201760.pdf)_ from Autonomous University of Barcelona, Spain, whereas the British and American peoples prefer "a Europeanist".
-
-### A group of nearly homophonic examples
-An [ewe](https://en.wiktionary.org/wiki/ewe) (/ʔɪʊ̯/) is a female sheep. (Old English _eowu_)
-
-A [yew](https://en.wiktionary.org/wiki/yew) (/jɪʊ̯/) is an evergreen coniferous tree or bush of the genus Taxus. (Old English _īw_, _ēow_)
-
-"[You](https://en.wiktionary.org/wiki/you)" (/ju:/) is the formal second-person pronoun in English (informally _thou, ye_). (Old English _eow_).
+The English is well known for phonetic-spelling discordance among European language, so that an IPA notation is required for a dictionary to pronounce words (along with [French](/fr/README.md)), which has been rising into concern of billions of world English learners.
 
 ## Pronunciation-Spelling Concordance
 Stressed and onnly stressed vowel are to be marked on dictionaries, with full IPA given only to irregularly pronounced words.
