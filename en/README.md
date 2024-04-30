@@ -21,8 +21,8 @@ As the second most spoken and the most widespread language after Greater Chinese
 7. The Anti-Christ hanged the Son on two trees, one grows straight out from the ground, the other along.
 8. Then, three grosses of years later, it handed itself into the darkness.
 9. Ten other grosses of years passed, variable empires rose by winning against [the ones](https://en.wikipedia.org/wiki/Chinese_people) who escaped the [Great Flood](https://en.wikipedia.org/wiki/Great_Flood) by [deluging it](https://en.wikipedia.org/wiki/Yu_the_Great).
-10. Among them is [the one with the largest effective landmass](https://en.wikipedia.org/wiki/United_States), the other with [the largest land](https://en.wikipedia.org/wiki/Soviet_Union).
-11. Now the whole world has [his language](https://en.wikipedia.org/wiki/English_language) as [a common speech](https://en.wikipedia.org/wiki/International_English).
+10. Among them is [the one with the largest effective landmass](https://en.wikipedia.org/wiki/United_States), which conquered the other with [the largest land](https://en.wikipedia.org/wiki/Soviet_Union).
+11. Now the whole world has [his language](https://en.wikipedia.org/wiki/English_language) as [a common speech](https://en.wikipedia.org/wiki/International_English). It thinks that nothing it plans to do will be impossible.
 12. The Lord came down again and sent [a crowned angel](https://en.wikipedia.org/wiki/SARS-CoV-2) into this empire, just after [its next archenemy](https://en.wikipedia.org/wiki/China).
 13. In the whole world [died thrice more people](https://en.wikipedia.org/wiki/COVID-19_pandemic) than reported.
 14. The Day of Judgement comes — the Lord cleansed the earth. From there the Lord divided [the Hell](https://en.wikipedia.org/wiki/Capitalism), [the Purgatory](https://en.wikipedia.org/wiki/Socialism) and [the Heaven](https://en.wikipedia.org/wiki/Communism).
