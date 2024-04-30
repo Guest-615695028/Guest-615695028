@@ -46,7 +46,7 @@ These are second-person pronouns in need of mutual distinction, which is shared 
 
 ¹ "this computer cost me $600"; "the project was costed at $1 million."
 
-In Indo-European Union languages, (by descending relativity to English)
+In Indeuropean EU languages: (by descending relativity to English)
 |English|Thou|Ye|You
 |-|-|-|-
 |German|du|ihr|Sie
