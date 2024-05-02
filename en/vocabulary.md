@@ -100,4 +100,12 @@ Why is do-support become idiomatic? Without do-support, the first question follo
 > What eats that man?
 > What does that man eat?
 
-Do-support differentiate the latter question from the former.
+Do-support differentiate the latter question from the former, so it shall be mandated at most when:
+1. Imperative "Do not" (even the verb _to be_)
+3. In Word questions, The subject is not "I", "we", "thou", "ye", "he", "she", and "they" (only nominative forms differ from obliques other than "who"/"whom") and nothing follows the subject.
+4. In Yes-no questions, The subject is not a single pronoun.
+
+## Numbers
+### First, second, third, ...
+But twenty-oneth, twenty-twoth, twenty-threeth...
+One hundred and oneth, One hundred and twoth, One hundred and threeth...
