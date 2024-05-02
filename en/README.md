@@ -1,5 +1,5 @@
 # English
-As the second most spoken and the most widespread language after Greater Chinese, English has been written in more than 90% of incumbent international scholar papers in multiple fields and about two thirds of Internet content. However, the English-speaking nations failed to found an official department or organization to regulate at least regional or nation-wide English usage, other than _de facto_ [University of Oxford](https://en.wikipedia.org/wiki/Oxford_spelling) recognized by the [United Nations](https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations).
+As the second most spoken and the most widespread language after Greater Chinese, English has been written in more than 90% of active international scholar papers in multiple fields and about two thirds of Internet content (as for 2024). However, the English-speaking nations failed to found an official department or organization to regulate at least regional or nation-wide English usage, other than _de facto_ [University of Oxford](https://en.wikipedia.org/wiki/Oxford_spelling) recognized by the [United Nations](https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations).
 
 ## [Genesis 11 (New International Version)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NIV)
 1. Now the whole world had one language and a common speech.
