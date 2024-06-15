@@ -1,5 +1,4 @@
-# Français
-LIS-MOI
+# Français (LISEZ-MOI)
 ## Des nombres
 > Soixante-dix, soixante-onze, ..., soixante-dix-neuf,\
 > Quatre-vingt, quatre-vingt-un, quatre-vingt-deux, ...,\
