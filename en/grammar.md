@@ -1,4 +1,4 @@
-# Grammar
+# A Proposal on English Writing Reform - Grammar
 ## You have already read the story of the other Tower of Babel
 But the Americans did not realize it.
 
@@ -28,7 +28,7 @@ These are second-person pronouns in need of mutual distinction, which is shared 
 ¹ "this computer cost me $600"; "the project was costed at $1 million."
 
 In Indeuropean EU languages: (by descending relativity to English)
-|English|Thou|Ye|You
+|English|thou|ye|you
 |-|-|-|-
 |German|du|ihr|Sie
 |Dutch|jij|jullie|u
@@ -49,7 +49,8 @@ In Indeuropean EU languages: (by descending relativity to English)
 
 ## Indefinite article
 Due to the variable accents scattered in world Englishes, the indifinite article _a_ becomes _an_ when followed by a vowel letter or Graeco-Latin _h_ but only the words _one_ and _once_, _my_ becomes _mine_, and _thy_ becomes _thine_. _e. g._,
-* "An Europeanist" is found in Joan Miró's _[European integration, social democratic Europeanism and the competitiveness discourse: a neo-Poulantzian approach to discursive policy analysis](https://www.nature.com/articles/palcomms201760.pdf)_ from Autonomous University of Barcelona, Spain, whereas the British and American peoples prefer "a Europeanist".
+* "An Europeanist" is found in Joan Miró's _[European integration, social democratic Europeanism and the competitiveness discourse: a neo-Poulantzian approach to discursive policy analysis](https://www.nature.com/articles/palcomms201760.pdf)_ from Autonomous University of Barcelona, Spain, whereas the British and American peoples prefer "a Europeanist". \
+* Also, "An European" is attested at the beginning in [_Application of fresh mortar tests to poultices used for the desalination of historical masonry_](https://link.springer.com/article/10.1617/s11527-010-9695-4), an article of _Materials and Structures_ (fr. _Materiaux et Constructions_).
 * "An hallucination", "an historic", "an hotel" etc. have been found in many 19th century books.
 * "Night" by Elie Wiesel: "...Or was it really an hallucination?"
 
