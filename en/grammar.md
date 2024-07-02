@@ -39,8 +39,10 @@ In Indeuropean EU languages: (by descending relativity to English)
 |Portuguese|tu|vós|você(s)
 |Spanish|tú, vos|vosotro/as|usted(es)
 |Romanian|tu|voi|dumneavoastră
+|Latin|tu|vos|tu/vos
 |Irish|tú|sibh|sibh
 |Greek (modern)|εσύ (esý)|εσείς (eseís)|εσείς (eseís)
+|Greek (classical)|εσύ (esý)|εσείς (eseís)|εσείς (eseís)
 |Latvian, Lithuanian|tu|jūs|jūs
 |Czechoslovak|ty|vy|vy
 |Polish|ty|wy|pan(i), państwo
