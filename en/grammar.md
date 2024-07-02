@@ -2,8 +2,8 @@
 ## You have already read the story of the other Tower of Babel
 But the Americans did not realize it.
 
-### Pronouns
-#### Thou, Ye, You
+## Pronouns
+### Thou, Ye, You
 These are second-person pronouns in need of mutual distinction, which is shared among most Indo-European languages by first-language speakers. Pronouns *thou*, *ye*, and *you* are used where Germans uses *du*, *ihr* and *Sie*.
 
 |Pronoun|Singular informal|Plural informal|Formal
@@ -47,8 +47,8 @@ In Indeuropean EU languages: (by descending relativity to English)
 |Slovene, Croatian|ti|vi|vi
 |Bulgarian|ти|ви|ви
 
-#### A user, an user
-> An user.
+### A user, an user
+> A suggestion is found here by an user and an unnamed one.
 
 Due to the variable accents scattered in world Englishes, the indifinite article _a_ becomes _an_ when followed by a vowel letter or Graeco-Latin _h_ but only the words _one_ and _once_, _my_ becomes _mine_, and _thy_ becomes _thine_. _e. g._,
 * "An Europeanist" is found in Joan Miró's _[European integration, social democratic Europeanism and the competitiveness discourse: a neo-Poulantzian approach to discursive policy analysis](https://www.nature.com/articles/palcomms201760.pdf)_ from Autonomous University of Barcelona, Spain, whereas the British and American peoples prefer "a Europeanist". \
