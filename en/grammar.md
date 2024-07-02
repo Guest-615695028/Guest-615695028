@@ -8,7 +8,7 @@ These are second-person pronouns in need of mutual distinction, which is shared 
 
 |Pronoun|Singular informal|Plural informal|Formal
 |-|-|-|-
-|Nominative|Thou|Ye|You
+|Nominative|thou|ye|you
 |Oblique|thee|you|you
 |Genitive|thy|your|your
 |Possessive|thine|yours|yours
@@ -71,7 +71,7 @@ Why is do-support become idiomatic? Without do-support, the first question follo
 > What eats that man?
 > What does that man eat?
 
-Do-support differentiate the latter question from the former, so it shall be mandated at most when:
+Do-support differentiate the latter question from the former, so it shall be mandated at most when and only when:
 1. Imperative "Do not" (even the verb _to be_)
 3. In Word questions, The subject is not "I", "we", "thou", "ye", "he", "she", and "they" (only nominative forms differ from obliques other than "who"/"whom") and nothing follows the subject.
 4. In Yes-no questions, The subject is not a single pronoun.
@@ -80,3 +80,4 @@ Do-support differentiate the latter question from the former, so it shall be man
 ### First, second, third, ...
 But twenty-oneth, twenty-twoth, twenty-threeth...
 One hundred and oneth, one hundred and twoth, one hundred and threeth...
+We can also say "other" for "second".
