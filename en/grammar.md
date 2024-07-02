@@ -42,7 +42,7 @@ In Indeuropean EU languages: (by descending relativity to English)
 |Latin|tu|vos|tu/vos
 |Irish|tú|sibh|sibh
 |Greek (modern)|εσύ (esý)|εσείς (eseís)|εσείς (eseís)
-|Greek (classical)|εσύ (esý)|ὑμεῖς (hymeís)|ὑμεῖς (hymeís)
+|Greek (classical)|σύ (sý)|ὑμεῖς (hymeís)|ὑμεῖς (hymeís)
 |Latvian, Lithuanian|tu|jūs|jūs
 |Czechoslovak|ty|vy|vy
 |Polish|ty|wy|pan(i), państwo
