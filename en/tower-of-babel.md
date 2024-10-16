@@ -1,4 +1,4 @@
-# [Genesis 11 (New International Version)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NIV)
+# Story of the Tower of Babel [(Genesis 11, New International Version)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NIV)
 1. Now the whole world had one language and a common speech.
 2. As people moved eastward, they found a plain in Shinar and settled there.
 3. They said to each other, “Come, let’s make bricks and bake them thoroughly.” They used brick instead of stone, and tar for mortar.
