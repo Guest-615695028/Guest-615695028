@@ -2,8 +2,8 @@
 The English is well known for phonetic-spelling discordance among European language, so that an IPA notation is required for a dictionary to pronounce words (along with [French](/fr/README.md)), which has been rising into concern of billions of world English learners.
 
 ## Pronunciation-Spelling Concordance
-Stressed and onnly stressed vowel are to be marked on dictionaries, with full IPA given only to irregularly pronounced words.
-|British Received Pronunciation|General American Pronunciation|Wikipedic Pronunciation|Dictionary Key
+Stressed and only stressed vowel are to be marked on dictionaries, with full IPA given to and only to irregularly pronounced words.
+|British Received Pronunciation|General American Pronunciation|Suggested Pronunciation|Dictionary Key
 |-|-|-|-
 |/iː/|/iː/|/iː/|ē, e&#862;a, e&#862;e, e&#862;i, i&#862;e
 |/uː/|/uː/|/uː/|o&#862;o, ū
