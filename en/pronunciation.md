@@ -3,29 +3,27 @@ The English is well known for phonetic-spelling discordance among European langu
 
 ## Pronunciation-Spelling Concordance
 Stressed and only stressed vowel are to be marked on dictionaries, with full IPA given to and only to irregularly pronounced words.
-|British Received Pronunciation|General American Pronunciation|Suggested Pronunciation|Dictionary Key
+
+|British Received Pronunciation|General American Pronunciation|Deseret Pronunciation|Dictionary Key
 |-|-|-|-
 |/iː/|/iː/|/iː/|ē, e&#862;a, e&#862;e, e&#862;i, i&#862;e
 |/uː/|/uː/|/uː/|o&#862;o, ū
 |/ɔː/|/ɔː/|/ɔː/|ô
-|/ɔː/|/ɔːɹ/|/ɔːɹ/|ôr
 |/ɑː/|/ɑː/|/ɑː/|ä
-|/ɑː/|/ɑːɹ/|/ɑːɹ/|är
 |/ɑː/|/æ/|/ɑː/,/æ/|ä&#774;
 |/ɪ/|/ɪ/|/ɪ/|ĭ, y̆
-|/ɪə/|/ɪɹ/|/ɪəɹ/|ēr, e&#862;ar, e&#862;er, e&#862;ir, i&#862;er
 |/e/|/ɛ/|/ɛ/|ĕ, e&#861;a, a&#861;i, a&#861;y
-|/eə(ɹ)/|/ɛɹ/|/ɛəɹ/|ār, āir, ĕr
 |/æ/|/æ/|/æ/|ă
 |/ʌ/|/ʌ/|/ʌ/|û
 |/ʊ/|/ʊ/|/ʊ/|ŏŏ, ŭ
-|/ʊə/|/ʊɹ/|/ʊəɹ/|o&#862;or, ūr
 |/ɒ/|/ɑ/, /ɔ/|/ɒ/|ŏ
 |/aɪ/|/aɪ/|/aɪ/|ī, ȳ, äi
 |/eɪ/|/eɪ/|/eɪ/|ā, a&#862;i, a&#862;y, ĕi, ĕy
 |/ɔɪ/|/ɔɪ/|/ɔɪ/|oi, oy
 |/əʊ/|/oʊ/|/oʊ/|ō, o&#862;a, o&#862;u, o&#862;w
 |/juː/|/juː/|/ɪʊ/|ū, e&#862;u, e&#862;w
+
+¹ fore /foːɹ/ ≠ for /fɔɹ/
 
 The word _**recieved** pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England; though it is sometimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" powers due to incapability of speaking English, which is far from internationality before Two World Wars in the 20th century.
 
