@@ -1,4 +1,6 @@
 # Spelling
+It is long been wondered if the English tongue will fall internationally when the United Kingdom and States break down, as the Russian tongue fell for the breakdown of the Soviet Union. If so, the English will fall quicklier than Russian as the inconsistency of spelling-to-pronunciation measures ~20% in the former but only sparingly in the latter. This is so evident as English textbooks in China require IPA phonetics but not Russian, Spanish, French and German, with French textbooks using it them sparsely. 
+
 ## Handbook of Simplified Spelling
 In 1920, the SSB published a self-showing Handbook of Simplified Spelling.
 
@@ -30,7 +32,7 @@ EI pronounced /iː/|use IE|conceit→conciet, deceive→deciev
 –EY pronounced /iː/|use –Y|chimney→chimny, money→mony
 GH pronounced /f/|use F|cough→cof, laugh→laf, enough→enuf
 GH pronounced /ɡ/|use G|aghast→agast, ghost→gost
-–GM pronounced /m/|use M|apothegm→apothem, paradigm→paradim
+–GM pronounced /m/|use M|apophthegm→apothem, paradigm→paradime
 –GUE after a consonant, a short vowel or a digraph representing a long vowel or diphthong|drop silent –UE|catalogue→catalog, league→leag, prologue→prolog tongue→tung
 _But not in_||rogue, vague, a.s.f.
 –ISE and –YSE pronounced /aɪz/|use –IZE|advertise→advertize, analyse→analize, rise→rize
