@@ -52,4 +52,23 @@ silent U before a vowel|drop silent U|guard→gard, guess→ges, guide→gide
 Y between consonants|use I|analysis→analisis, type→tipe
 YOU pronounced /jʌ/|use YU|your→yur, young→yung
 
-The handbook also suggested the following spelling changes, which are not covered by the above rules: acre→aker, answer→anser, beleaguer→beleager, campaign→campain, counterfeit→counterfit, delight→delite, foreign→foren, forfeit→forfit, friend→frend, masquerade→maskerade, mortgage→morgage, receipt→reciet, sieve→siv, sleight→slight, sovereign→sovren, sprightly→spritely, touch→tuch, yeoman→yoman.
+The handbook also suggested the following spelling changes, which are not covered by the above rules:
+- acre→aker,
+- answer→anser,
+- beleaguer→beleager,
+- campaign→campain,
+- counterfeit→counterfit,
+- delight→delite,
+- foreign→foren,
+- forfeit→forfit,
+- friend→frend,
+- masquerade→maskerade,
+- mortgage→morgage,
+- receipt→reciet,
+- sieve→siv,
+- sleight→slight,
+- sovereign→sovren,
+- sprightly→spritely,
+- touch→tuch,
+- yeoman→yoman.
+
