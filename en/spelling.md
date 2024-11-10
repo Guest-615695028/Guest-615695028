@@ -10,57 +10,42 @@ Planning a "gradual" rather than "sudden" reform, it noted that spelling changes
 
 |Old|New|Examples
 |-|-|-
-AE (Æ) and OE (Œ) pronounced /ɛ/|use E|aesthetic→esthetic, foetus→fetus,
-alumnae (unchanged)
+AE (Æ) and OE (Œ) pronounced /i:/ or /ɛ/|use E|aesthetic→esthetic, foetus→fetus; _alumnae (unchanged)_
 BT pronounced /t/|use T|debt→det, doubt→dout
 –CEED|use –CEDE|exceed→excede, proceed→procede
-CH pronounced /k/|drop silent H
-except before E, I, Y|character→caracter, school→scool
-chemist, architect, monarchy (unchanged)
-final double consonant|drop the last letter,
-but with –LL only after a short vowel,
-and with –SS only in monosyllables|add→ad, bill→bil, bluff→bluf, doll→dol, egg→eg, glass→glas, loss→los
-But retain double consonant in all, roll, needless, a.s.f.
+CH pronounced /k/|drop silent H, except before E, I, Y|character→caracter, school→scool; _chemist, architect, monarchy (unchanged)_
+final double consonant|drop the last letter|add→ad, bill→bil, bluff→bluf, doll→dol, egg→eg
+_idem_|but with –LL only after a short vowel|But retain double consonant in all, roll, needless, a.s.f.
+_idem_|and with –SS only in monosyllables|glass→glas, loss→los
 double consonant before silent –E|drop the last two letters|bagatelle→bagatel, bizarre→bizar, cigarette→cigaret, giraffe→giraf, gramme→gram
-silent or misleading –E|drop the E|are→ar, give→giv, have→hav, were→wer, gone→gon,
-examine→examin, practise→practis, definite→definit, active→activ, involve→involv, serve→serv,
-achieve→achiev, leave→leav, freeze→freez, gauze→gauz, sleeve→sleev
+silent or misleading –E|drop the E|are→ar, give→giv, have→hav, were→wer, gone→gon, examine→examin
 EA pronounced /ɛ/|use E|head→hed
 EA pronounced /ɑ/|use A|heart→hart
-EAU and EAUX pronounced /əʊ/|use O|bureau→buro
-–ED pronounced /d/|use –D,
-reduce any foregoing doubled consonant to a single letter|answered→anserd, called→cald, carried→carrid, preferred→preferd, wronged→wrongd.
-Do not make this change if the spelling suggests an incorrect pronunciation: bribed not bribd; used not usd, a.s.f.
-–ED pronounced /t/|use –T,
-reduce any foregoing doubled consonant to a single letter,
-change CED/SCED to ST|asked→askt, advanced→advanst.
-Do not make this change if the spelling suggests an incorrect pronunciation: baked not bakt; hoped not hopt, a.s.f.
+EAU and EAUX pronounced /oʊ/|use O|bureau→buro
+–ED pronounced /d/ |use –D|answered→anserd, called→cald, carried→carrid, preferred→preferd, wronged→wrongd.
+_Do not make this change if the spelling suggests an incorrect pronunciation_||_bribed not bribd; used not usd, a.s.f._
+–ED pronounced /t/ |use –T,|asked→askt, advanced→advanst.
+_Do not make this change if the spelling suggests an incorrect pronunciation_||_baked not bakt; hoped not hopt, a.s.f._
 EI pronounced /iː/|use IE|conceit→conciet, deceive→deciev
 –EY pronounced /iː/|use –Y|chimney→chimny, money→mony
-GH pronounced /f/|use F,
-drop the silent letter in the foregoing digraph|cough→cof, laugh→laf, enough→enuf
+GH pronounced /f/|use F|cough→cof, laugh→laf, enough→enuf
 GH pronounced /ɡ/|use G|aghast→agast, ghost→gost
 –GM pronounced /m/|use M|apothegm→apothem, paradigm→paradim
 –GUE after a consonant, a short vowel or a digraph representing a long vowel or diphthong|drop silent –UE|catalogue→catalog, league→leag, prologue→prolog tongue→tung
-But not in rogue, vague, a.s.f.
+_But not in_||rogue, vague, a.s.f.
 –ISE and –YSE pronounced /aɪz/|use –IZE|advertise→advertize, analyse→analize, rise→rize
 –MB after a short vowel|use M|bomb→bom, crumb→crum
-But not after a long vowel as in comb, tomb, a.s.f.
-–OE pronounced /oʊ/|drop silent E,
-except in inflected forms|foe→fo, hoe→ho
-foes, hoed (unchanged)
+_But not after a long vowel as in_||comb, tomb, a.s.f.
+–OE pronounced /oʊ/|drop silent E, except in inflected forms|foe→fo, hoe→ho; foes, hoed (unchanged)
 OEU pronounced /uː/|use U|manoeuvre→maneuver
-OUL pronounced /əʊl/|use OL,
-except in "soul"|boulder→bolder, mould→mold
-–OUGH|use O/U/OCK/UP according to pronunciation|although→altho, borough→boro, doughnut→donut, thorough→thoro, through→thru, hough→hock, hiccough→hiccup. though→tho
-For plough write plow, but not bow for bough.
+OUL pronounced /əʊl/|use OL|boulder→bolder, mould→mold; soul (left only)
+–OUGH|use O/U/OCK/UP according to pronunciation|although→altho, borough→boro, doughnut→donut, thorough→thoro, through→thru, hough→hock, hiccough→hiccup, though→tho, plough→plow; but not bow for bough.
 –OUR pronounced /ər/|use –OR|colour→color, flavour→flavor
 PH pronounced /f/|use F|alphabet→alfabet, telephone→telefone
-–RE after any consonant except C|use –ER|centre→center, metre→meter.
-But retain –RE in lucre, mediocre.
+–RE after any consonant except C|use –ER|centre→center, metre→meter; lucre, mediocre.
 RH– pronounced /r/|use R|rhetoric→retoric, rhubarb→rubarb
 RRH pronounced /r/|use R|hemorrhage→hemorage
-silent S between I and L|drop silent S|island→iland
+silent S|drop silent S|island→iland
 SC– pronounced /s/|use S|scenery→senery, scissors→sissors
 –SQUE pronounced /sk/|use –SK|burlesque→burlesk
 silent U before a vowel|drop silent U|guard→gard, guess→ges, guide→gide
