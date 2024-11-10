@@ -24,7 +24,7 @@ EA pronounced /ɑ/|use A|heart→hart
 EAU and EAUX pronounced /oʊ/|use O|bureau→buro
 –ED pronounced /d/ |use –D|answered→anserd, called→cald, carried→carrid, preferred→preferd, wronged→wrongd.
 _Do not make this change if the spelling suggests an incorrect pronunciation_||_bribed not bribd; used not usd, a.s.f._
-–ED pronounced /t/ |use –T,|asked→askt, advanced→advanst.
+–ED pronounced /t/ |use –T|asked→askt, advanced→advanst.
 _Do not make this change if the spelling suggests an incorrect pronunciation_||_baked not bakt; hoped not hopt, a.s.f._
 EI pronounced /iː/|use IE|conceit→conciet, deceive→deciev
 –EY pronounced /iː/|use –Y|chimney→chimny, money→mony
