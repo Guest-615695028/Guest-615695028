@@ -7,7 +7,7 @@ In 1920, the SSB published a self-showing Handbook of Simplified Spelling with t
 - Part 2 presents the arguments in favor of reform and replies to the objections that are commonly made.
 - Part 3 contains the SSB's proposed rules for simplified spelling and a list of the words that would be changed by them.
 
-Planning a "gradual" rather than "sudden" reform, it noted that spelling changes should come into use gradually, most of which are originally the overt act of a lone writer followed at first by minority. Thus, people are hartened to "point the way" and "set the example" by writing the reformed spellings whenever they can. The handbook set forth the rules ([confer Wikipedia](https://en.wikipedia.org/wiki/Simplified_Spelling_Board)).
+Planning a "gradual" rather than "sudden" reform, it noted that spelling changes should come into use gradually, most of which are originally the overt act of a lone writer followed at first by minority. Thus, people are hartened to "point the way" and "set the example" by writing the reformed spellings as the handbook set forth ([confer Wikipedia](https://en.wikipedia.org/wiki/Simplified_Spelling_Board)).
 
 The handbook also suggested the following spelling changes, which are not covered by the above rules:
 - acre→**aker**,
