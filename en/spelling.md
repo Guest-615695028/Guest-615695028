@@ -9,7 +9,7 @@ In 1920, the SSB published a self-showing Handbook of Simplified Spelling with t
 
 Planning a "gradual" rather than "sudden" reform, it noted that spelling changes should come into use gradually, most of which are originally the overt act of a lone writer followed at first by minority. Thus, people are hartened to "point the way" and "set the example" by writing the reformed spellings as the handbook set forth ([confer Wikipedia](https://en.wikipedia.org/wiki/Simplified_Spelling_Board)).
 
-The handbook also suggested the following spelling changes, which are not covered by the above rules:
+The handbook also suggested the following spelling changes, which are not covered by the tables:
 - acre→**aker**,
 - **answer**→anser,
 - beleaguer→**beleager**,
