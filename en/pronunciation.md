@@ -65,5 +65,5 @@ However, We propose undoing these changes. Other examples of older spellings tha
 Some of spellings are occasionally to be given in dictionaries for pronunciation, as being far from words of their origins.
 
 ### An hour, an heir, an honor, an honest man...
-For dialectal scalability and concerning British withdrawing from EU (_known as_ [Brexit](https://en.wikipedia.org/wiki/Brexit)), words that begin with vowel letters or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a". Confer French _l'oiseau_ (/l ͜ wazo/, the bird), _aujourd'hui_ (/oʒuʁd ͜ ɥi/, today), etc..
+For dialectal scalability and concerning British withdrawing from EU (_known as_ [Brexit](https://en.wikipedia.org/wiki/Brexit)), words that begin with vowel letters or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a". Confer French [_l'oiseau_](https://en.wiktionary.org/wiki/oiseau) (/l ͜ wazo/, the bird), [_aujourd'hui_](https://en.wiktionary.org/wiki/aujourd'hui) (/oʒuʁd ͜ ɥi/, today), etc..
 > An US dollar is less than an Euro, and when will it be more?
