@@ -15,7 +15,7 @@ As there is a larger people (or *there are more persons*, as seen below) in the 
 |defense|defence|defense|confer Latin _defensa_; also _offense_
 |license|licence|licence|(_noun_) confer Latin _licentia_
 |license|license|license|(_verb_) /ˈlaɪsənz/
-|an herb|a herb|an herb|[_See below_]
+|an herb|a herb|an herb|[_See here_](pronunciation.md)
 |Do you have _sth._?|Have you _sth._?|(Both)|[_See also_](./grammar.md)
 
 ## Persons or People?
