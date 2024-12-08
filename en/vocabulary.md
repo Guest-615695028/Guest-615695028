@@ -18,6 +18,11 @@ As there is a larger people (or *there are more persons*, as seen below) in the 
 |an herb|a herb|an herb|[_See here_](pronunciation.md)
 |Do you have _sth._?|Have you _sth._?|(Both)|[_See also_](./grammar.md)
 
+|Word|UK meaning|US meaning|Our meaning|Note
+|-|-|-|-|-
+|billion|10¹²|10⁹|(abandoned)|Write "one twice-million" or "one thousand million" insted. 
+|trillion|10¹⁸|10¹²|(abandoned)|Write "one thrice-million" or "one twice-million" insted. 
+
 ## Persons or People?
 **People** come across GitHub every day, but **some persons** would find this repository interesting.
 
