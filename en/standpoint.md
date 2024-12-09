@@ -8,4 +8,4 @@
 
 ## Religious Standpoint
 We are irreligious.
-- Charles III and William V should uphold power along with other European kings and queens against the Spread of Islamist in England.
+- Charles III and William V should uphold power along with other European kings and queens against the Spread of Islamist in England and other European nations.
