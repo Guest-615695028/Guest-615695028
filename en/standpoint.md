@@ -6,7 +6,7 @@
 - Republic of Kosovo is recognized for 2022 Winter Olympics as for bare "Kosovo" insted of "Kosovo, Serbia" or "Serbian Kosovo", unlike "British Virgin Islands".
 - "Zairian" is used for Democratic Republic of Congo as "Democratic Congolese".
 - Mark an English cross insted of an Union Jack before English writings on multilingual environment.
-- European Union is responsible for a future European Federation.
+- European Union is about to upbuild an European Federation to rid the United States.
 
 ## Religious Standpoint
 We are irreligious.
