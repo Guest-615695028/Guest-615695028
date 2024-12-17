@@ -3,3 +3,6 @@ As the second most spoken and the most widespread tongue after Greater Chinese, 
 
 ## DISCLAIMER
 Do NOT view us as learners on IELTS, TOEFL, and TOEIC, which are sucking the wealth from other sides of the world. However, [Duolingo English Test](https://englishtest.duolingo.com) is aroused for lesser cost and home testing, as to our recommendation.
+
+### Copyright
+CC0 2024 Guest-615695028, all languages.
