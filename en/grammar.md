@@ -53,7 +53,7 @@ In Indeuropean EU languages: (by descending relativity to English)
 > The answer is found here by **an user** who is writing this article.
 
 Due to the variable accents scattered in world Englishes, the indifinite article _a_ becomes _an_ when followed by a vowel letter or Graeco-Latin _h_, and whence does _thy_ become _thine_. _e. g._,
-* "An Europeanist" is found in Joan Miró's _[European integration, social democratic Europeanism and the competitiveness discourse: a neo-Poulantzian approach to discursive policy analysis](https://www.nature.com/articles/palcomms201760.pdf)_ from Autonomous University of Barcelona, Spain, whereas the British and American peoples prefer "a Europeanist". \
+* "An Europeanist" is found in Joan Miró's _[European integration, social democratic Europeanism and the competitiveness discourse: a neo-Poulantzian approach to discursive policy analysis](https://www.nature.com/articles/palcomms201760.pdf)_ from Autonomous University of Barcelona, Spain, whereas the British and American peoples prefer "a Europeanist".
 * Also, "An European" is attested at the beginning in [_Application of fresh mortar tests to poultices used for the desalination of historical masonry_](https://link.springer.com/article/10.1617/s11527-010-9695-4), an article of _Materials and Structures_ (fr. _Materiaux et Constructions_).
 * "Night" by Elie Wiesel: "...Or was it really an hallucination?"
 
@@ -62,7 +62,7 @@ An [ewe](https://en.wiktionary.org/wiki/ewe) (/ɪʊ̯/) is a female sheep. (Old 
 
 A [yew](https://en.wiktionary.org/wiki/yew) (/jɪʊ̯/) is an evergreen coniferous tree or bush of the genus Taxus. (Old English _īw_, _ēow_)
 
-"[You](https://en.wiktionary.org/wiki/you)" (/ju:/) is the formal second-person pronoun in English (informally _thou, ye_). (Old English _eow_).
+"[You](https://en.wiktionary.org/wiki/you)" (/ju:/) is the formal second-person pronoun in English, no matter one or many. (Old English _eow_).
 
 ## Verbs
 ### Do-support
@@ -78,7 +78,7 @@ Why is do-support become idiomatic? Without do-support, the question
 > What eats that man?
 
 —— yet another question. Therefore, the do-support differentiate the latter question from the former, so it shall be mandated at most when:
-1. Imperative "Do not" (even the verb _to be_)
+1. Imperative "Do not" (even before the verb _to be_)
 3. In Wh-questions, The subject is not "I", "we", "thou", "ye", "he", "she", and "they" (only nominative forms differ from obliques other than "who"/"whom") and nothing follows the subject.
 4. In Yes-no questions, The subject is not a single pronoun.
 
