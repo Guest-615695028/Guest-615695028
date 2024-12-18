@@ -16,10 +16,10 @@
 5. He gets a coin and says “Who's image is this?” And his audience says, “Caesar's.”
 6. “So,” Jesus says, “give to Caesar what is Caesar’s and give to God what is God's.”
 7. The Anti-Christ hanged the Son on two trees, one grows straight out from the ground, the other along.
-8. Then, three grosses of years later, it handed itself into the darkness.
+8. Then, three grosses of years later, handed it itself over into the darkness.
 9. Ten other grosses of years passed, variable empires rose by winning against [the ones](https://en.wikipedia.org/wiki/Chinese_people) who escaped the [Great Flood](https://en.wikipedia.org/wiki/Great_Flood) by [deluging it](https://en.wikipedia.org/wiki/Yu_the_Great).
 10. Among them is [the one with the largest effective landmass](https://en.wikipedia.org/wiki/United_States), which conquered the other with [the largest land](https://en.wikipedia.org/wiki/Soviet_Union).
-11. Now the whole world has [his language](https://en.wikipedia.org/wiki/English_language) as [a common speech](https://en.wikipedia.org/wiki/International_English), so [it thinks that nothing it plans to do will be impossible](https://en.wikipedia.org/wiki/Whom_the_gods_would_destroy,_they_first_make_mad).
+11. Now has the whole world [his tongue](https://en.wikipedia.org/wiki/English_language) as [a common speech](https://en.wikipedia.org/wiki/International_English), so [it thinks that nothing it plans to do will be impossible](https://en.wikipedia.org/wiki/Whom_the_gods_would_destroy,_they_first_make_mad).
 12. The Lord came down again and sent [a crowned angel](https://en.wikipedia.org/wiki/SARS-CoV-2) into this empire, just through [its next archenemy](https://en.wikipedia.org/wiki/China).
 13. In the whole world [died thrice more people](https://en.wikipedia.org/wiki/COVID-19_pandemic) than reported.
 14. The Day of Judgement comes — the Lord cleansed the earth. From there divided the Lord [the Hell](https://en.wikipedia.org/wiki/Capitalism), [the Purgatory](https://en.wikipedia.org/wiki/Socialism) and [the Heaven](https://en.wikipedia.org/wiki/Communism).
