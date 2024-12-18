@@ -30,8 +30,8 @@ These are second-person pronouns in need of mutual distinction, which is shared 
 In Indeuropean EU languages: (by descending relativity to English)
 |English|thou|ye|you
 |-|-|-|-
-|German|du|ihr|Sie
 |Dutch|jij|jullie|U
+|German|du|ihr|Sie
 |Danish|du|i|De
 |Swedish|du|ni|Di
 |French|tu|vous|vous
@@ -46,7 +46,7 @@ In Indeuropean EU languages: (by descending relativity to English)
 |Latvian, Lithuanian|tu|jūs|jūs
 |Czechoslovak|ty|vy|vy
 |Polish|ty|wy|pan(i), państwo
-|Slovene, Croatian|ti|vi|vi
+|Yugoslavic|ti|vi|vi
 |Bulgarian|ти|ви|ви
 
 ### A user, an user
