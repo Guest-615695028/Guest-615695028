@@ -11,3 +11,6 @@
 Ce mot est utilisé en Chablais (nord de la Haute-Savoie) et [Vallée d’Aoste](https://fr.wikipedia.org/wiki/Vallée_d’Aoste) mais concurrencé par "quatre-vingts" à l’écrit et dans l’enseignement scolaire. Maintenant, ce mot est également utilisé en Belgique, principalement dans la Province du Luxembourg ou les Cantons de l’Est. 
 
 Internationalement, on récommande les mots *septante*, *huitante* et *nonante* parce qu'un ingéniteur français peut faire une faute de 60,10 pour 70, ou 4,20 pour 80.
+
+## Droits de copie
+CC0 2024 Guest-615695028. Chacun peut copier ou partager ces dossiers de toutes les langues. 
