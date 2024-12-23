@@ -79,7 +79,7 @@ Why is do-support become idiomatic? Without do-support, the question
 
 —— yet another question. Therefore, the do-support differentiate the latter question from the former, so it shall be mandated at most when:
 1. Imperative "Do not" (even before the verb _to be_)
-3. In Wh-questions, The subject is not "I", "we", "thou", "ye", "he", "she", and "they" (only nominative forms differ from obliques other than "who"/"whom") and nothing follows the subject.
+3. In Wh-questions, The subject contains not "I", "we", "thou", "ye", "he", "she", and "they" (only nominative forms differ from obliques other than "who"/"whom").
 4. In Yes-no questions, The subject is not a single pronoun.
 
 ## Numbers
