@@ -1,6 +1,5 @@
 # A Proposal on English Writing Reform - Grammar
-## You have already read the story of the other Tower of Babel
-But the Americans did not realize it.
+We have already read the story of the other Tower of Babel, but the Americans are unaware thereof.
 
 ## Pronouns
 ### Thou, Ye, You
