@@ -6,22 +6,21 @@ Stressed and only stressed vowel are to be marked on dictionaries, with full IPA
 
 |British Received Pronunciation|General American Pronunciation|Deseret Pronunciation|Dictionary Key
 |-|-|-|-
-|/iː/|/iː/|/iː/|ē, e&#862;a, e&#862;e, e&#862;i, i&#862;e
-|/uː/|/uː/|/uː/|o&#862;o, ū
+|/iː/|/iː/|/iː/|ē, ēa, ēe, ēi, īe
+|/uː/|/uː/|/uː/|ōo, ū
 |/ɔː/|/ɔː/|/ɔː/|ô
 |/ɑː/|/ɑː/|/ɑː/|ä
-|/ɑː/|/æ/|/ɑː/,/æ/|ä&#774;
 |/ɪ/|/ɪ/|/ɪ/|ĭ, y̆
-|/e/|/ɛ/|/ɛ/|ĕ, e&#861;a, a&#861;i, a&#861;y
+|/e/|/ɛ/|/ɛ/|ĕ, ĕa, ăi, ăy
 |/æ/|/æ/|/æ/|ă
 |/ʌ/|/ʌ/|/ʌ/|û
 |/ʊ/|/ʊ/|/ʊ/|ŏŏ, ŭ
 |/ɒ/|/ɑ/, /ɔ/|/ɒ/|ŏ
 |/aɪ/|/aɪ/|/aɪ/|ī, ȳ, äi
-|/eɪ/|/eɪ/|/eɪ/|ā, a&#862;i, a&#862;y, ĕi, ĕy
-|/ɔɪ/|/ɔɪ/|/ɔɪ/|oi, oy
-|/əʊ/|/oʊ/|/oʊ/|ō, o&#862;a, o&#862;u, o&#862;w
-|/juː/|/juː/|/ɪʊ/|ū, e&#862;u, e&#862;w
+|/eɪ/|/eɪ/|/eɪ/|ā, āi, āy, ĕi, ĕy
+|/ɔɪ/|/ɔɪ/|/ɔɪ/|ōi, ōy
+|/əʊ/|/oʊ/|/oʊ/|ō, ōa, ōu, ōw
+|/juː/|/juː/|/ɪʊ/|ū, ēu, ēw
 
 ¹ fore /foːɹ/ ≠ for /fɔɹ/
 
