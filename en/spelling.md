@@ -1,4 +1,4 @@
-# Spelling
+# A Proposal on English Writing Reform - Spelling
 Long has it been wondered if the English tongue will fall internationally when the United Kingdom and States break down, as the Russian tongue fell for the breakdown of the Soviet Union. If so, the English will fall quicklier than Russian as the inconsistency of spelling-to-pronunciation measures ~20% in the former but only sparingly in the latter. This is seen as English textbooks in China require IPA phonetics but not Russian, Spanish, French and German, with French textbooks using it them sparsely. Found as the [English Spelling Society](https://en.wikipedia.org/wiki/English_Spelling_Society) was in 1908, it is ignored by the Five Eyes that only watches the foreign ships.
 
 ## [Handbook of Simplified Spelling](https://en.wikipedia.org/wiki/Simplified_Spelling_Board)
