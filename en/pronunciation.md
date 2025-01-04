@@ -4,25 +4,28 @@ The English is well known for phonetic-spelling discordance among European langu
 ## Pronunciation-Spelling Concordance
 Stressed and only stressed vowel are to be marked on dictionaries, with full IPA given to and only to irregularly pronounced words.
 
-|British Received Pronunciation|General American Pronunciation|Deseret Pronunciation|Dictionary Key
+|Deseret Pronunciation|British “Received Pronunciation”|General American Pronunciation
 |-|-|-|-
-|/iː/|/iː/|/iː/|ē, ēa, ēe, ēi, īe
-|/uː/|/uː/|/uː/|ōo, ū
-|/ɔː/|/ɔː/|/ɔː/|ô
-|/ɑː/|/ɑː/|/ɑː/|ä
-|/ɪ/|/ɪ/|/ɪ/|ĭ, y̆
-|/e/|/ɛ/|/ɛ/|ĕ, ĕa, ăi, ăy
-|/æ/|/æ/|/æ/|ă
-|/ʌ/|/ʌ/|/ʌ/|û
-|/ʊ/|/ʊ/|/ʊ/|ŏŏ, ŭ
-|/ɒ/|/ɑ/, /ɔ/|/ɒ/|ŏ
-|/aɪ/|/aɪ/|/aɪ/|ī, ȳ, äi
-|/eɪ/|/eɪ/|/eɪ/|ā, āi, āy, ĕi, ĕy
-|/ɔɪ/|/ɔɪ/|/ɔɪ/|ōi, ōy
-|/əʊ/|/oʊ/|/oʊ/|ō, ōa, ōu, ōw
-|/juː/|/juː/|/ɪʊ/|ū, ēu, ēw
+|/iː/|/iː/|/iː/
+|/eː/|/eɪ/|/eɪ/
+|/ɑː/|/ɑː/|/ɑː/
+|/ɔː/|/ɔː/|/ɔː/
+|/oː/|/əʊ/|/oʊ/
+|/uː/|/uː/|/uː/
+|/ɪ/|/ɪ/|/ɪ/
+|/ɛ/|/e/|/ɛ/
+|/æ/|/æ/|/æ/
+|/ɒ/|/ɒ/|/ɑ/, /ɔ/
+|/ʌ/|/ʌ/|/ʌ/
+|/ʊ/|/ʊ/|/ʊ/
+|/aɪ/|/aɪ/|/aɪ/
+|/aʊ/|/aʊ/|/aʊ/
+|/ɔɪ/|/ɔɪ/|/ɔɪ/
+|/ɪʊ/|/juː/|/juː/
 
-¹ fore /foːɹ/ ≠ for /fɔɹ/
+Notes:
+1. Deseret suggested then-General American Pronunciation.
+2. fore /foːɹ/ ≠ for /fɔɹ/
 
 The word _**recieved** pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England; though it is sometimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" powers due to incapability of speaking English, which is far from internationality before Two World Wars in the 20th century.
 
