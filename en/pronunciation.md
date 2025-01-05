@@ -1,17 +1,27 @@
 # On Solving a Concensus on English Pronunciation
 The English is well known for phonetic-spelling discordance among European language, so that an IPA notation is required for a dictionary to pronounce words (along with [French](/fr/README.md)), which has been rising into concern of billions of world English learners.
 
+```
+Symbols
+a-z  true letters
+C    any consonant but otherwise specified
+V    any vowel but otherwise specified
+^    word beginning
+$    word end
+,    separator
+```
+
 ## Pronunciation-Spelling Concordance
 Stressed and only stressed vowel are to be marked on dictionaries, with full IPA given to and only to irregularly pronounced words.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b6/English_Phonotypic_Alphabet_-_1847.png)
 
 ### Vowels
-|[Deseret](https://en.wikipedia.org/wiki/Deseret_alphabet) Pronunciation|British "Received Pronunciation" |General American Pronunciation
+|[Deseret](https://en.wikipedia.org/wiki/Deseret_alphabet) Pronunciation|General British Pronounciation|General American Pronunciation
 |-|-|-
 |/iː/|/iː/|/iː/
 |/eː/|/eɪ/|/eɪ/
-|/ɑː/|/ɑː/|/ɑː/
+|/aː/|/ɑː/|/ɑː/
 |/ɔː/|/ɔː/|/ɔː/
 |/oː/|/əʊ/|/oʊ/
 |/uː/|/uː/|/uː/
@@ -19,26 +29,39 @@ Stressed and only stressed vowel are to be marked on dictionaries, with full IPA
 |/ɛ/|/e/|/ɛ/
 |/æ/|/æ/|/æ/
 |/ɒ/|/ɒ/|/ɑ/, /ɔ/
-|/ʌ/|/ʌ/|/ʌ/
+|/ʌ/(2)|/ʌ/|/ʌ/
 |/ʊ/|/ʊ/|/ʊ/
-|/aɪ/|/aɪ/|/aɪ/
-|/aʊ/|/aʊ/|/aʊ/
-|/ɪʊ/|/juː/|/juː/
-|/ɔɪ/|/ɔɪ/|/ɔɪ/
+|/aɪ̯/|/aɪ/|/aɪ/
+|/aʊ̯/|/aʊ/|/aʊ/
+|/ɪʊ̯/|/juː/|/juː/
+|/ɔɪ̯/|/ɔɪ/|/ɔɪ/
 
-|Letter(s)|Long|Short|Before R
-|-|-
-|a|/eː/|/æ/|/ɑː/
+|Letter(s)|Long|Short|`Vr$, VrC, Vrr$`
+|-|-|-|-
+|a|/eː/|/æ/|/aː/
 |e|/iː/|/ɛ/|/ʌ/
-|i|/aɪ/|/ɪ/|/ɪ/
-|o|/oː/|/ɒ/|/ɔː/
-|u|/ɪʊ/|/ʌ/|/ʌ/
+|i|/aɪ̯/|/ɪ/|/ʌ/
+|o|/oː/|/ɒ/|/ɔː/(4)
+|u|/ɪʊ̯/|/ʌ/|/ʌ/
+|y|/aɪ̯/|/ɪ/|/ɪ/
+
+|Degraph(s)|Long|Short
+|ai|/eː/|/ɛ/
+|ea|/iː/|/ɛ/
+|ei|/aɪ̯/|/ɪ/
+|eu|/ɪʊ̯/|-|-
+||
+
+|Stress|Long|Short
+|-|-|-
+|Primary|`"`|`'`
+|Secondary|`,`|`.`
 
 Notes:
 1. Deseret runes (created 1847) suggested then-General American Pronunciation.
 2. /ʌɹ/ becomes /ɜː(ɹ)/ when not before a vowel in the same morpheme.
-3. "Before R" excludes `VrV` and `VrrV` forms
 4. fore /foːɹ/ ≠ for /fɔɹ/
+5. Short oo graphemes: -ook, good, hood, stood, wood, foot, soot, wool, wolf.
 
 The word _**recieved** pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England; though it is sometimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" powers due to incapability of speaking English, which is far from internationality before Two World Wars in the 20th century.
 
