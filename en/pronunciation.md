@@ -4,8 +4,11 @@ The English is well known for phonetic-spelling discordance among European langu
 ## Pronunciation-Spelling Concordance
 Stressed and only stressed vowel are to be marked on dictionaries, with full IPA given to and only to irregularly pronounced words.
 
-|Deseret Pronunciation|British “Received Pronunciation”|General American Pronunciation
-|-|-|-|-
+![](https://upload.wikimedia.org/wikipedia/commons/b/b6/English_Phonotypic_Alphabet_-_1847.png)
+
+### Vowels
+|[Deseret](https://en.wikipedia.org/wiki/Deseret_alphabet) Pronunciation|British "Received Pronunciation" |General American Pronunciation
+|-|-|-
 |/iː/|/iː/|/iː/
 |/eː/|/eɪ/|/eɪ/
 |/ɑː/|/ɑː/|/ɑː/
@@ -20,12 +23,22 @@ Stressed and only stressed vowel are to be marked on dictionaries, with full IPA
 |/ʊ/|/ʊ/|/ʊ/
 |/aɪ/|/aɪ/|/aɪ/
 |/aʊ/|/aʊ/|/aʊ/
-|/ɔɪ/|/ɔɪ/|/ɔɪ/
 |/ɪʊ/|/juː/|/juː/
+|/ɔɪ/|/ɔɪ/|/ɔɪ/
+
+|Letter(s)|Long|Short|Before R
+|-|-
+|a|/eː/|/æ/|/ɑː/
+|e|/iː/|/ɛ/|/ʌ/
+|i|/aɪ/|/ɪ/|/ɪ/
+|o|/oː/|/ɒ/|/ɔː/
+|u|/ɪʊ/|/ʌ/|/ʌ/
 
 Notes:
-1. Deseret suggested then-General American Pronunciation.
-2. fore /foːɹ/ ≠ for /fɔɹ/
+1. Deseret runes (created 1847) suggested then-General American Pronunciation.
+2. /ʌɹ/ becomes /ɜː(ɹ)/ when not before a vowel in the same morpheme.
+3. "Before R" excludes `VrV` and `VrrV` forms
+4. fore /foːɹ/ ≠ for /fɔɹ/
 
 The word _**recieved** pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England; though it is sometimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" powers due to incapability of speaking English, which is far from internationality before Two World Wars in the 20th century.
 
