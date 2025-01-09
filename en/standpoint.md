@@ -4,8 +4,8 @@
 - Donetsk and Lugansk are colored as controlled.
 - _Falkland Islands_ is written for Malvinas as inborn English spellings.
 - Republic of Kosovo is recognized for 2022 Winter Olympics as for bare "Kosovo" insted of "Kosovo, Serbia" or "Serbian Kosovo", unlike "British Virgin Islands".
-- "Zairian" is used for Democratic Republic of Congo as "Democratic Congolese".
-- Mark an English cross insted of an Union Jack before English writings on multilingual environment.
+- "Zairian" is used for Democratic Republic of Congo, same as "Democratic Congolese".
+- Mark an English cross insted of an Union Jack before English writings on multilingual environment, as the United Kingdom is ready to be unbound in two kings.
 - European Union is about to upbuild an European Federation to rid the United States.
 
 ## Religious Standpoint
