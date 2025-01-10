@@ -45,7 +45,7 @@ Dearest creature in _Creätion_,
 Studying English pronunciation,  
 
 I will teach you in my verse  
-Sounds like corpse, _corps_, horse and werse.  
+Sounds like corpse, _corps_, horse and **werse**.  
 It will keep you, Susy, **bisy**,  
 Make your **hed** with heat grow dizzy;  
 
@@ -79,6 +79,7 @@ Finally: which rhymes with **enuff**,
 **Hiccup** has the sound of "cup"......  
 My advice is—give it up!  
 
-- _Creature_ can be red like CREE-cher or cree-A-cher (latter preferred, also _creäture_).
-- _Bade_ (I bid, I bade) can be red as _bad_ or preferred _bade_, latter like _made_.
+- _Creature_ can be spoken like CREE-cher as here, or cree-A-cher (latter preferred, also _creäture_).
+- _Prayer_ can be spoken like PRARE as here, or PRAY-er (latter preferred).
+- _Bade_ (I bid, I bade) can be spoken as _bad_ or preferred _bade_, latter like _made_.
 - Reformed speelings are bolded.
