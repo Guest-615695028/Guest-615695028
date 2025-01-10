@@ -12,7 +12,7 @@ Planning a "gradual" rather than "sudden" reform, it noted that spelling changes
 The handbook also suggested the following spelling changes, which are not covered by the tables:
 - acre→**aker**,
 - **answer**→anser,
-- beleaguer→**beleager**,
+- **beleaguer**→beleager,
 - **campaign**→campain,
 - **counterfeit**→counterfit,
 - delight→**delite**,
@@ -22,7 +22,7 @@ The handbook also suggested the following spelling changes, which are not covere
 - island→**iland**,
 - masquerade→**maskerade**,
 - mortgage→**morgage**,
-- receipt→**receit**,
+- receipt→**reciet**,
 - **sieve**→siv,
 - sleight→**slight**,
 - **sovereign**→sovren,
@@ -70,16 +70,17 @@ Previous, precious; fuchsia, via;
 Pipe, snipe, **récipé** and **quire**,  
 
 Cloven, oven; how and low;  
-Script, **receete**; **shoo**, **poëm**, toe,  
+Script, **receit**; **shoo**, **poëm**, toe,  
 Hear me say devoid of trickery,  
-daughter, laughter, and Terpsichore...
+daughter, **lafter**, and Terpsichore...
 
 Finally: which rhymes with **enuff**,  
-**Though**, **throo**, **plow**, **coff**, **hock**, or **tuff**?  
+Though, **thru**, **plow**, **coff**, **hock**, or **tuff**?  
 **Hiccup** has the sound of "cup"......  
 My advice is—give it up!  
 
 - _Creature_ can be spoken like CREE-cher as here, or cree-A-cher (latter preferred, also _creäture_).
 - _Prayer_ can be spoken like PRARE as here, or PRAY-er (latter preferred).
 - _Bade_ (I bid, I bade) can be spoken as _bad_ or preferred _bade_, latter like _made_.
+- The verb to "break" can be spoken as-is or like BRAKE.
 - Reformed speelings are bolded.
