@@ -41,46 +41,44 @@ Change ⟨gh⟩ /f/ to ⟨ff⟩: ⟨coff⟩, ⟨enuff⟩, ⟨laff⟩
 Retain ⟨ph⟩ /f/: ⟨phone⟩
 
 ## Against the Chaos by [Gerard Nolst Trenité](https://en.wikipedia.org/wiki/Gerard_Nolst_Trenit%C3%A9)
-Dearest creature in _Creätion_,
-Studying English pronunciation,
+Dearest creature in _Creätion_,  
+Studying English pronunciation,  
 
-I will teach you in my verse
-Sounds like corpse, _corps_, horse and werse.
-It will keep you, Susy, **bisy**,
-Make your **hed** with heat grow dizzy;
+I will teach you in my verse  
+Sounds like corpse, _corps_, horse and werse.  
+It will keep you, Susy, **bisy**,  
+Make your **hed** with heat grow dizzy;  
 
-Tear in eye your dress you'll **tare**.
-So shall I! Oh, hear my prayer,
-Pray, console your loving poet,
-Make my coat look new, dear, **soe** it?
+Tear in eye your dress you'll **tare**.  
+So shall I! Oh, hear my prayer,  
+Pray, console your loving poet,  
+Make my coat look new, dear, **soe** it?  
 
-Just compare **hart**, beard and **herd**,
-Dies and **diët**, lord and **werd**,
-**Sord** and **sword**, **retain** and **Britten**,
-(Mind the latter, how it's written!)
+Just compare **hart**, beard and **herd**,  
+Dies and **diët**, lord and **werd**,  
+**Sord** and **sword**, **retain** and **Britten**,  
+(Mind the latter, how it's written!)  
 
-Made has not the sound of bade,
-Say—said, pay—paid, **lade**, but **plad**.
-Now I surely will not **plague** you
-With such words as **vague** and **agüe**,
+~~Made has not the sound of bade,~~  
+Say—sed, pay—ped, **lade**, but **plad**.  
+Now I surely will not **plague** you  
+With such words as **vague** and **agüe**,  
 
-But be careful how you speak,
-Say **brake**, **stake**, but bleak and streak,
-Previous, precious; fuchsia, via;
-Pipe, snipe, **récipé** and **quire**,
+But be careful how you speak,  
+Say **brake**, **stake**, but bleak and streak,  
+Previous, precious; fuchsia, via;  
+Pipe, snipe, **récipé** and **quire**,  
 
-Cloven, oven; how and low;
-Script, **receete**; **shoo**, **poëm**, toe,
-Hear me say devoid of trickery,
-daughter, laughter, and Terpsichore,
+Cloven, oven; how and low;  
+Script, **receete**; **shoo**, **poëm**, toe,  
+Hear me say devoid of trickery,  
+daughter, laughter, and Terpsichore...
 
-[...]
-
-Finally: which rhymes with **enuff**,
-**Though**, **throo**, **plow**, **coff**, **hock**, or **tuff**?
-**Hiccup** has the sound of "cup"......
-My advice is—give it up!
+Finally: which rhymes with **enuff**,  
+**Though**, **throo**, **plow**, **coff**, **hock**, or **tuff**?  
+**Hiccup** has the sound of "cup"......  
+My advice is—give it up!  
 
 - _Creature_ can be red like CREE-cher or cree-A-cher (latter preferred, also _creäture_).
-- _Bade_ (I bid, I bade) can be red as _bad_ or preferred _bade_.
+- _Bade_ (I bid, I bade) can be red as _bad_ or preferred _bade_, latter like _made_.
 - Reformed speelings are bolded.
