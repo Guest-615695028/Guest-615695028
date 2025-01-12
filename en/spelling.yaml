@@ -1,28 +1,36 @@
 # See also: https://en.wikipedia.org/wiki/Traditional_Spelling_Revised
 # Force short
 have: HAV
+# A
+father: faather
+quack: quäck
+swam: swäm
+twang: twäng
+wagon: wäggon
+whack: whäck
 # AL as AWL
-albeit: AWL-bite
-also: AWL-so
-although: awl-DHO
-altogether: Awl-to-GEDH-er
-always: AWL-ways
-alder: AWL
-bald: BAWLD
-falter: FAUL
-halt: hault
-salt: sault
-calf: caf
-half: haf
-chalk: chawk
-stalk: stawk
-talk: tawk
-walk: wawk
+albeit: all-bite
+also: all-so
+although: all-though
+altogether: all-together
+always: all-ways
+alder: AUL-der
+bald: BAULD
+falter: FAUL-ter
+halt: HAULT
+salt: SAULT
+calf: CAAF
+half: HAAF
+chalk: CHAUK
+stalk: STAUK
+talk: TAUK
 # AU
-aunt: ant
+aunt: AANT
 # AUGH
 laugh: laff
 laughter: lafter
+# E
+pretty: pritty
 # Short EA
 bear: bair
 bread: bred
@@ -30,9 +38,10 @@ dead: ded
 dread: dred
 health: helth
 head: hed
-headgear: hed-geer
-lead: led
-read: red
+headgear: hed-gear
+# lead: led # 82-Pb
+# read: red # I have read
+realm: relm
 pear: pair
 spread: spred
 stealth: stelth
@@ -42,14 +51,20 @@ tread: tred
 wealth: welth
 weapon: weppon
 wear: wair
+# O
+prove: proove
+proven: prooven
+wolf: wwlf
 # Write an E after the consonant if you expect closed long OO
 blood: blud
 flood: flud
-# O
-wolf: wolf
-prove: proove
-proven: prooven
-# Ough
+foot: fwt
+good: gwd
+hood: hwd
+stood: stwd
+wood: wwd
+wool: wwl
+# OUGH
 bough: bou
 borough: bora
 brough: bruf
@@ -92,6 +107,10 @@ blow: blo
 flow: flo
 growth: groath
 arrow: arro
+# U
+bull-: bwl
+full-: fwl
+pull-: pwl
 # GG as DGE
 agger:
 suggest:
@@ -109,5 +128,5 @@ calm: caam
 palm: paam
 folk: folk
 # One-type
-one: wun
-once: wunce
+one: WUN
+once: WUNCE
