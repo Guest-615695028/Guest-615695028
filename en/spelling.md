@@ -30,15 +30,7 @@ The handbook also suggested the following spelling changes, which are not covere
 - **touch**→tuch,
 - yeoman→**yoman**.
 
-## [Traditional Spelling Revised](https://en.wikipedia.org/wiki/Traditional_Spelling_Revised)
-This is 
-Silent ⟨g⟩ is retained to preserve the long vowel: ⟨benign⟩, ⟨design⟩, ⟨sign⟩
-
-Silent ⟨gh⟩: ⟨high⟩, ⟨bough⟩, ⟨bought⟩, ⟨eight⟩
-
-Change ⟨gh⟩ /f/ to ⟨ff⟩: ⟨coff⟩, ⟨enuff⟩, ⟨laff⟩
-
-Retain ⟨ph⟩ /f/: ⟨phone⟩
+There is also a proposition named [Traditional Spelling Revised](https://en.wikipedia.org/wiki/Traditional_Spelling_Revised)
 
 ## Against the Chaos by [Gerard Nolst Trenité](https://en.wikipedia.org/wiki/Gerard_Nolst_Trenit%C3%A9)
 Dearest creature in _Creätion_,  
