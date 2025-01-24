@@ -32,7 +32,7 @@ The handbook also suggested the following spelling changes, which are not covere
 
 There is also a proposition named [Traditional Spelling Revised](https://en.wikipedia.org/wiki/Traditional_Spelling_Revised)
 
-## Against the Chaos by [Gerard Nolst Trenité](https://en.wikipedia.org/wiki/Gerard_Nolst_Trenit%C3%A9)
+## Against [the Chaos](https://en.wikisource.org/wiki/Ruize-rijmen/De_Chaos) by [Gerard Nolst Trenité](https://en.wikipedia.org/wiki/Gerard_Nolst_Trenit%C3%A9)
 
 Dearest creature in **Creätion**,  
 Studying English pronunciation,  
@@ -83,19 +83,19 @@ Billet does not end like **ballay**;
 _**Blud** and **flud** are not like food,^_  
 _Nor is **mold** like should and would.^_  
 Banquet is not nearly **parkay**,^  
-_Which is said to rime with "darky".^_  
+Which is said to rime with "darky".^  
 _Viscous, vi-count; load and **brawd**;^_  
-Toward, to forward, to reward,^  
+_Toward, to forward, to reward,^_  
 And your pronunciation's O.K.  
 When you say correctly **crokay**;  
-Rounded, wounded; grieve and sieve;  
-Friend and fiend; alive and live;  
-Liberty, library; heave and heaven;  
-Rachel, ache, moustache; eleven.  
-We say hallowed, but allowed;  
-People, leopard; towed, but vowed
+_Rounded, **wounded**; grieve and **siv**;_  
+_**Frend** and fiend; alive and **liv**;_  
+**Libberty**, library; heave and **hevven**;  
+Rachel, **ake**, **mustash**; **elevven**.  
+_We say hallowed, but allowed;_  
+_People, leopard; **toed**, but vowed_  
 Mark the difference, moreover,  
-Between mover, plover, Dover,  
+Between mover, Dover, Dover,  
 Leeches, breeches; wise, precise;  
 Chalice but police and lice.  
 Camel; constable, unstable;  
