@@ -61,7 +61,7 @@ Say **brake**, **stake**, but bleak and streak,
 Previous, precious; fuchsia, via;  
 Pipe, snipe, **récipé** and **quire**,  
 
-Cloven, oven; how and low;  
+Cloven, **uvven**; how and **lo**;  
 Script, **receit**; **shoo**, **poëm**, toe,  
 Hear me say devoid of trickery,  
 daughter, **lafter**, and Terpsichore...
