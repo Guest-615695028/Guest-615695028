@@ -1,5 +1,5 @@
 # A Proposal on English Writing Reform - Spelling
-Long has it been wondered if the English tongue will fall internationally when the United Kingdom and States break down, as the Russian tongue fell for the breakdown of the Soviet Union. If so, the English will fall quicklier than Russian as the inconsistency of spelling-to-pronunciation measures ~20% in the former but only sparingly in the latter. This is seen as English textbooks in China require IPA phonetics but not Russian, Spanish, French and German, with French textbooks using it them sparsely. Found as the [English Spelling Society](https://en.wikipedia.org/wiki/English_Spelling_Society) was in 1908, it is ignored by the Five Eyes that only watches the foreign ships.
+Long has it been wondered if the English tongue will fall internationally when the United Kingdom and States break down, as the Russian tongue fell for the breakdown of the Soviet Union. If so, the English will fall quicklier than Russian as the inconsistency of spelling-to-pronunciation measures ~20% in the former but only sparingly in the latter. This is seen as English textbooks in China require IPA phonetics but not Russian, Spanish, French and German, with French textbooks using it them sparsely. In 1908 was the [English Spelling Society](https://en.wikipedia.org/wiki/English_Spelling_Society) founded, but long has it been ignored by the Five Eyes that only watch foreign ships.
 
 ## [Handbook of Simplified Spelling](https://en.wikipedia.org/wiki/Simplified_Spelling_Board)
 In 1920, the SSB published a self-showing Handbook of Simplified Spelling with three parts:
@@ -54,7 +54,7 @@ Dies and **diët**, lord and **werd**,
 ~~Made has not the sound of bade,~~  
 Say—sed, pay—ped, **lade**, but **plad**.  
 Now I surely will not **plague** you  
-With such words as **vague** and **agüe**,  
+With such words as **vague** and **aguë**,  
 
 But be careful how you speak,  
 Say **brake**, **stake**, but bleak and streak,  
