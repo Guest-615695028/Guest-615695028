@@ -52,15 +52,19 @@ wealth: welth
 weapon: weppon
 wear: wair
 # O
+once: wunce
+one: WUN
 prove: proove
 proven: prooven
 wolf: wwlf
+wolves: wwlves
 # Write an E after the consonant if you expect closed long OO
 blood: blud
 flood: flud
 foot: fwt
 good: gwd
 hood: hwd
+soot: swt
 stood: stwd
 wood: wwd
 wool: wwl
@@ -127,6 +131,3 @@ half: haaf
 calm: caam
 palm: paam
 folk: folk
-# One-type
-one: WUN
-once: WUNCE
