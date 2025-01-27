@@ -1,7 +1,7 @@
 # A Proposal on English Writing Reform - Spelling
-Long has it been wondered if the English tongue will fall internationally when the United Kingdom and States break down, as the Russian tongue fell for the breakdown of the Soviet Union. If so, the English will fall quicklier than Russian as the inconsistency of spelling-to-pronunciation measures ~20% in the former but only sparingly in the latter. This is seen as English textbooks in China require IPA phonetics but not Russian, Spanish, French and German, with French textbooks using it them sparsely. In 1908 was the [English Spelling Society](https://en.wikipedia.org/wiki/English_Spelling_Society) founded, but long has it been ignored by the Five Eyes that only watch foreign ships.
+Long has it been wondered if the English tongue will fall internationally when the United Kingdom and States break down, as the Russian tongue fell for the breakdown of the Soviet Union. If so, the English will fall quicklier than Russian as the inconsistency of spelling-to-pronunciation measures ~20% in the former but only sparingly in the latter. This is seen as English textbooks in China require IPA phonetics but not Russian, Spanish, French and German, with French textbooks using it them sparsely. In 1908 was the [English Spelling Society](https://www.spellingsociety.org/) founded, but long has it been ignored by the Five Eyes that only watch foreign ships.
 
-## [Handbook of Simplified Spelling](https://en.wikipedia.org/wiki/Simplified_Spelling_Board)
+## [Handbook of Simplified Spelling](https://www.spellingsociety.org/files/handbook-of-simplified-spelling-1546879176.pdf)
 In 1920, the SSB published a self-showing Handbook of Simplified Spelling with three parts:
 - Part 1 narrates an outline of the history of English spelling and the reforming attempts until 1920.  
 - Part 2 presents the arguments in favor of reform and replies to the objections that are commonly made.  
