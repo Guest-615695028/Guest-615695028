@@ -18,7 +18,9 @@ In 2021 is there also a proposition named [Traditional Spelling Revised](https:/
 |full, push, wolf, _etc._|fwll, pwsh, wwlf, _etc._
 |blood, flood|blud, flud
 |stound, wound|stoond, woond
-|bread, meant, thread _etc._|bred, ment, thred
+|bread, leapt, meant _etc._|bred, lept, ment
 |lead (Pb)|led
 |I have read|I have red
 |measure|mezzure
+|know, low, show, _etc._|kno, lo, sho, _etc._
+|shoe|shoo
