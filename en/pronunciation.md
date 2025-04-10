@@ -29,45 +29,55 @@ Stressed and only stressed vowel are to be marked on dictionaries, with full IPA
 |/ɛ/|/e/|/ɛ/|/e/
 |/æ/|/æ/|/æ/|/æ/
 |/ɒ/|/ɒ/|/ɑ/, /ɔ/|/ɒ/
-|/ʌ/(2)|/ʌ/|/ʌ/|/ɐ/
+|/ʌ/|/ʌ/|/ʌ/|/ɐ/
 |/ʊ/|/ʊ/|/ʊ/|/ʊ/
 |/aɪ̯/|/aɪ/|/aɪ/|/aɪ/
 |/aʊ̯/|/aʊ/|/aʊ/|/aʊ/
 |/ɪʊ̯/|/juː/|/juː/|/juː/
 |/ɔɪ̯/|/ɔɪ/|/ɔɪ/|/ɔɪ/
 
-See https://en.wikipedia.org/wiki/Sound_correspondences_between_English_accents
+See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_accents) for more accents
 
 |Letter(s)|Long|Short|R-Hevvy
 |-|-|-|-
-|a|/eː/|/æ/|/aː/
-|e|/iː/|/ɛ/|/ʌ/
-|i|/aɪ̯/|/ɪ/|/ʌ/
-|o|/oː/|/ɒ/|/ɔː/(4)
-|u|/ɪʊ̯/|/ʌ/|/ʌ/
-|y|/aɪ̯/|/ɪ/|/ɪ/
+|a|/eː/|/æ/|/ɑː/
+|e|/iː/|/ɛ/|/ɜː/
+|i|/aɪ̯/|/ɪ/|/ɜː/
+|o|/oː/|/ɒ/|/ɔː/
+|u|/ɪʊ̯/|/ʌ/|/ɜː/
+|w|/uː/|/ʊ/|-
+|y|/aɪ̯/|/ɪ/|-
 
-- R-Hevvy vowels cum before R not followed by vowels or R.
+- R-Hevvy vowels cum before R or RR not followed by vowels.
 
-|Degraph(s)|Long|Short
-|ai|/eː/|/ɛ/
-|ea|/iː/|/ɛ/
-|ei|/aɪ̯/|/ɪ/
-|eu|/ɪʊ̯/|-|-
-||
+|Digraph(s)|Allways long
+|-|-
+|ae, ai, ay|/eː/
+|au, aw|/ɔː/
+|ea, ee|/iː/
+|ei, ey|/eː/
+|eu, ew|/ɪʊ̯/
+|ie, ye|/aɪ̯/
+|oa, oe|/oː/
+|oi, oy|/ɔɪ̯/
+|oo|/uː/
+|ou, ow|/aʊ̯/
+|ue|/ɪʊ̯/
+|ui, uy|/aɪ̯/
 
-|Stress|Long|Short
+|Stress, in dictionaries|Long|Short
 |-|-|-
 |Primary|`"`|`'`
 |Secondary|`,`|`.`
 
 Notes:
-1. Deseret runes (created 1847) suggested then-General American Pronunciation.
-2. /ʌɹ/ becomes /ɜː(ɹ)/ when not before a vowel in the same morpheme.
-4. fore /foːɹ/ ≠ for /fɔɹ/
-5. Short oo graphemes: -ook, good, hood, stood, wood, foot, soot, wool, wolf.
+1. Isaac Pitman's Ingglish Phonotypic Alphabet and Dezzeret runes (created 1847) suggested then-General American Pronunciation.
+2. /ɜː/ was reccognized as the allophone of /ʌ/ before /ɹ/ in the 19th century United States.
+3. fore = foar (number 4) /foːɹ/ ≠ for /fɔɹ/
+4. Short vowels are reccognized with singgle vowels. Singgle unstressed vowel letters allways sound /ə/, but final I (/aɪ̯/), O (/oː/), U (/u/), and Y (/i/).
+5. 
 
-The word _**recieved** pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England; though it is sometimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" powers due to incapability of speaking English, which is far from internationality before Two World Wars in the 20th century.
+The word _**recieved** pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England; though it is sometimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" powers due to incapabillity of speaking English, which is far from internationality before Two World Wars in the 20th century. Also, the so-called "Recieved Pronounciation" is only practiced in 3% of population in Inggland.
 
 ### `ough`
 |Pronunciation|Examples|Note
