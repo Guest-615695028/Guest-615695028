@@ -14,29 +14,31 @@ $    word end
 ## Pronunciation-Spelling Concordance
 Stressed and only stressed vowel are to be marked on dictionaries, with full IPA given to and only to irregularly pronounced words.
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/b6/English_Phonotypic_Alphabet_-_1847.png)
+![](./epa-1847.png)
 
 ### Vowels
-|[Deseret](https://en.wikipedia.org/wiki/Deseret_alphabet) Pronunciation|General British Pronounciation|General American Pronunciation
-|-|-|-
-|/iː/|/iː/|/iː/
-|/eː/|/eɪ/|/eɪ/
-|/aː/|/ɑː/|/ɑː/
-|/ɔː/|/ɔː/|/ɔː/
-|/oː/|/əʊ/|/oʊ/
-|/uː/|/uː/|/uː/
-|/ɪ/|/ɪ/|/ɪ/
-|/ɛ/|/e/|/ɛ/
-|/æ/|/æ/|/æ/
-|/ɒ/|/ɒ/|/ɑ/, /ɔ/
-|/ʌ/(2)|/ʌ/|/ʌ/
-|/ʊ/|/ʊ/|/ʊ/
-|/aɪ̯/|/aɪ/|/aɪ/
-|/aʊ̯/|/aʊ/|/aʊ/
-|/ɪʊ̯/|/juː/|/juː/
-|/ɔɪ̯/|/ɔɪ/|/ɔɪ/
+|[EPA](https://en.wikipedia.org/wiki/English_Phonotypic_alphabet)|Gen. Est.|Gen. Am.|Gen. Aus
+|-|-|-|-
+|/iː/|/iː/|/iː/|/ɪi/
+|/eː/|/eɪ/|/eɪ/|/æɪ/
+|/ɑː/|/ɑː/|/ɑː/|/ɑː/
+|/ɔː/|/ɔː/|/ɔː/|/ɔː/
+|/oː/|/əʊ/|/oʊ/|/oʊ/
+|/uː/|/uː/|/uː/|/ʊu/
+|/ɪ/|/ɪ/|/ɪ/|/ɪ/
+|/ɛ/|/e/|/ɛ/|/e/
+|/æ/|/æ/|/æ/|/æ/
+|/ɒ/|/ɒ/|/ɑ/, /ɔ/|/ɒ/
+|/ʌ/(2)|/ʌ/|/ʌ/|/ɐ/
+|/ʊ/|/ʊ/|/ʊ/|/ʊ/
+|/aɪ̯/|/aɪ/|/aɪ/|/aɪ/
+|/aʊ̯/|/aʊ/|/aʊ/|/aʊ/
+|/ɪʊ̯/|/juː/|/juː/|/juː/
+|/ɔɪ̯/|/ɔɪ/|/ɔɪ/|/ɔɪ/
 
-|Letter(s)|Long|Short|`Vr$, VrC, Vrr$`
+See https://en.wikipedia.org/wiki/Sound_correspondences_between_English_accents
+
+|Letter(s)|Long|Short|R-Hevvy
 |-|-|-|-
 |a|/eː/|/æ/|/aː/
 |e|/iː/|/ɛ/|/ʌ/
@@ -44,6 +46,8 @@ Stressed and only stressed vowel are to be marked on dictionaries, with full IPA
 |o|/oː/|/ɒ/|/ɔː/(4)
 |u|/ɪʊ̯/|/ʌ/|/ʌ/
 |y|/aɪ̯/|/ɪ/|/ɪ/
+
+- R-Hevvy vowels cum before R not followed by vowels or R.
 
 |Degraph(s)|Long|Short
 |ai|/eː/|/ɛ/
