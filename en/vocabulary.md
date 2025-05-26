@@ -15,7 +15,7 @@ As there is a larger peeple (or *there are more persons*, as seen below) in the 
 |defense|defence|defense|confer Latin _defensa_; also _offense_
 |license|licence|license|(_noun_) confer Latin _licentia_
 |license|license|licenze|(_verb_) /ˈlaɪsənz/
-|an herb|a herb|an herb|[_See here_](./pronunciation.md)
+|an herb|a herb|a herb, an 'erb|[_See here_](./pronunciation.md)
 |Do you have _sth._?|Have you _sth._?|(Both)|[_See also_](./grammar.md)
 
 |Word|UK meaning|US meaning|Our meaning|Note
