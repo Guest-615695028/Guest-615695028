@@ -11,6 +11,7 @@ Planning a "gradual" rather than "sudden" reform, it noted that spelling changes
 In 2021 is there also a proposition named [Traditional Spelling Revised](https://en.wikipedia.org/wiki/Traditional_Spelling_Revised), sponsored and afforded by Ingglish Spelling Society, with a degree of support and publicity reviewed in March 2025.
 
 ## Common examples
+1. Edspell words as they sound.
 |Before|After
 |-|-
 |book, cook, hook, _etc._|bwk, cwk, hwk, _etc._
@@ -24,3 +25,9 @@ In 2021 is there also a proposition named [Traditional Spelling Revised](https:/
 |measure|mezzure
 |know, low, show, _etc._|kno, lo, sho, _etc._
 |shoe|shoo
+
+2. Cut outliers in compounds.
+|Before|After|Why
+|-|-
+|comparison|comparation|Latin _comparatio_
+|unique|unic|Latin _unicus_
