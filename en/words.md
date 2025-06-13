@@ -30,21 +30,16 @@ the consonant to retain the first vowel short: _ winning_, _pinning_.
       iv. _or_ - addition of other syllables generally does not lengthen the _o_ as in _boring_;  
       v. _ur_ - generally obeys the Magic E rule: _cure_, _endure_, _lure_, _during_ etc. 
    TS can cause confusion when it comes to doubling the above letter combinations at the beginning of a word. The general TS rule is to double only in cases when the relevant vowel sound is short and stressed: _arrogant_, _errant_, but not where unstressed: _around_, _erect_, _orate_, _irascible_ However, there are plenty of TS exceptions: _arrest_, _erroneous_, _irreverent_. TSRs solution is to require doubling of the consonant only when the syllable comes at the beginning of a word,  and  is both short and stressed. This requires some respellings: _arest_, _eroneous_, _irevverent_. Doubling is however still appropriate in words of more than two syllables where the first syllable bears a secondary stress : _irritation_. 
-   c) The letter _u_ 
-The letter _u_ generally obeys the Magic E rule but additionally: 
-5 
-i. 
-ii. 
-iii. 
-it is almost invariably long, representing /ju:/, at the beginning of a word :_unite_: 
-exceptions: words beginning in _un_ with a negative meaning:_uninspiring_ or in 
-_up_:_upend_, or when preceding two consonants: _ugly_; 
-it is usually long when stressed and preceding another vowel: _fuel_, _dual_;  
-it is usually long when unstressed following a vowel and consonant(s): _monument_, 
-_natural_. 
-(d) The letter _x_ 
-For the purposes of Magic E and doubling, TSR treats _x_ as if it were two letters _k_ and 
-_s_. So preceding vowels are always short, eg _boxing_, _sexual_,  
+   c) The letter _u_ generally obeys the Magic E rule but additionally: 
+      - it is almost invariably long, representing `iU`, at the beginning of a word :_unite_: 
+      - exceptions: words beginning in negative _un_: _un-inspiring_ or in _up_: _up-end_, or when preceding two consonants: _ugly_; 
+      - it is usually long when stressed and preceding another vowel: _fuel_, _dual_;  
+      - it is usually long when unstressed following a vowel and consonant(s): _monument_, 
+_natural_.
+
+   d) The letter _x_ 
+   For the purposes of Magic E and doubling, TSR treats _x_ as if it were two letters _k_ and _s_. So preceding vowels are always short, eg _boxing_, _sexual_.
+   
 3. Other Rules 
 (a) The combination _al(l)_ 
 This item represents one of the most dif icult areas in which to attempt codi ication of 
@@ -53,14 +48,14 @@ For the most part, _al_ and _all_ represent the sounds /{l/ as in _algebra_ and
 _allergy}. However, in TS they can also represent the sound /O:l/.  Usually this sound is 
 represented by _au_ or _aw_ as in  _laud_ or _paw_, but the sound can also be 
 represented by _al_ as in _always_ or _all_ as in  _small_.  Such cases occur: 
- In a few common words beginning with _al_ where there is generally a meaning 
+- In a few common words beginning with _al_ where there is generally a meaning 
 of totality; here the sound /O:l/ is represented. The main examples are _also_, 
 _albeit_, _almighty_, _almost_, _altogether_, _always_, _although_. This TS 
 interpretation of _al_ is retained in TSR.. 
- Where _all_ is stressed at the end of a word, the sound /O:l/ is also represented, 
+- Where _all_ is stressed at the end of a word, the sound /O:l/ is also represented, 
 eg _call_, ball_, _small_l, _fall_ etc; and in combinations of the above such as 
 _called_, _falling_ etc. 
- See D.4 Sub-rules for _ald_ and _alt_. 
+- See D.4 Sub-rules for _ald_ and _alt_. 
 These examples should be regarded as exceptions to the general rule that _al_ or _all_  
 represent the sound /{l/ eg_ albino,_ _balance,_ fallacy._ 
 (b) The letter _g_ 
@@ -86,11 +81,11 @@ used where the sound is /@U/ and the word has to be respelled for other reasons:
 In TS the letter _s_ represents the sound /s/ as in _sound_; but also /z/ as in _please_.  (The 
 letter _z_ represents /z/ exclusively.) 
 The following rules concerning _s_ are based on TS formulae. _s_ represents /s/: 
- at the beginning of words (snake); 
- before or after the sounds /k/, /f/, /p/, /t/: _clicks, cliffs, clips, its_; 
- in the prefixes _dis_ and _mis_, eg: _disband_, _misrule_; 
- after the prefixes _con_: _consent_ and _per_: _persistent_; 
- when the word is in two halves each representing a separate word:_homesick_, 
+- at the beginning of words (snake); 
+- before or after the sounds /k/, /f/, /p/, /t/: _clicks, cliffs, clips, its_; 
+- in the prefixes _dis_ and _mis_, eg: _disband_, _misrule_; 
+- after the prefixes _con_: _consent_ and _per_: _persistent_; 
+- when the word is in two halves each representing a separate word:_homesick_, 
 _ransack_. 
 Where the above rules cannot be applied, _s_ is often  doubled in TS to retain the /s/ sound: 
 _miss, mass, missing_. TSR does not change this. 
@@ -103,23 +98,20 @@ _co-signatory_.
 In TS, both sounds are represented by the combination _th_. TSR continues to use this single 
 grapheme for both phonemes. However, the following rules help to predict of the sound 
 represented. 
- by default _th_ represents the sound /T/ as in _thin_, _thanks_,_ thimble_; 
- _th_ represents /D/ in single syllable words before the vowel _e_:  _lathe_, _bathe_, 
+- by default _th_ represents the sound /T/ as in _thin_, _thanks_,_ thimble_; 
+- _th_ represents /D/ in single syllable words before the vowel _e_:  _lathe_, _bathe_, 
 _seethe_, _loathe_; also in words containing the combination _other_ - _brother_ 
 Exception _bother_.  
- _th_ also represents /D/ in certain common irregular words, largely of single syllables, 
+- _th_ also represents /D/ in certain common irregular words, largely of single syllables, 
 which are also demonstrative or interrogative in purpose; see D. 2 below. 
-7 
+
 (f) The Letter _y_ 
 In TS the letter _y_ can represent three sounds. The rules for these are the fairly reliable and 
 TSR rules are based on them: 
-i. 
-ii. 
-iii. 
-the sound /j/ at the beginning of words: _yet_; between vowels: _beyond_; before _
-yer_ as in _lawyer_; 
-the sound /aI/ - other than at the beginning of a word and stressed: _why_, _dying_; 
-the sound /i/ at the end of a word unstressed: _fairy, _pretty_. NB plurals of such nouns 
+
+1. the sound /j/ at the beginning of words: _yet_; between vowels: _beyond_; before _yer_ as in _lawyer_; 
+2. the sound /aI/ - other than at the beginning of a word and stressed: _why_, _dying_; 
+3. the sound /i/ at the end of a word unstressed: _fairy, _pretty_. NB plurals of such nouns 
 are in TS respelled _ies_ as in _fairies_; no change in TSR. 
 Where _y_ represents /I/ in TS, TSR respells it as _i_ to avoid ambiguity with the sound /aI/ 
 eg _distopic_, _mistery_, _mith_. 
