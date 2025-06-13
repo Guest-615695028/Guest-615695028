@@ -13,16 +13,12 @@ Planning a "stepwise" reform, it noted that spelling should be chandged, most of
 In 2021 is there also a proposition named [Traditional Spelling Revised](https://en.wikipedia.org/wiki/Traditional_Spelling_Revised), sponsored and afforded by Ingglish Spelling Society, with a degree of support and publicity reviewed in March 2025.
 
 ## THE PRINCIPAL RULES OF TSR 2.0
-1. The Magic E and Doubling Rules - Summary 
+1. The Magic E and twicing Rules - Overview 
    - Magic e – adding the silent letter _e_ after the consonant in single syllable words lengthens the preceding vowel: pan / pane, set / scene, snip / snipe, rot / rote, fun / fume.
    - Doubling Rule – in words of more than one syllable, and where there is a stressed vowel followed by a single consonant + another vowel, the preceding vowel is usually lengthened: sad / sadist, set / scenic, bit / biter, cut / cuticle. To reverse this rule, double the consonant:  fat / fate / fatter, pet / Pete / petting, bit / bite / bitter,  rot / rote / rotten.  
 2. The Magic E and Doubling Rules - Variations 
    a) The letter _i_ 
-      - The main variation on the Doubling Rule is that the letter _i_ behaves differently from other 
-vowels. In the combination: stressed _i_ + consonant +unstressed _i_ the stressed vowel is 
-usually NOT lengthened. Thus _lipid_, _licit_, _limit_. BUT where the second _i_ is part of 
-the suffix _ing_, the first _i_ is usually long as in _pining_, _wining_. In these cases, double 
-the consonant to retain the first vowel short: _ winning_, _pinning_. 
+      - The main variation on the Doubling Rule is that the letter _i_ behaves differently from other vowels. In the combination: _íCi_ the stressed vowel is NOT thought lengthened. Thus _lipid_, _licit_, _limit_. BUT where the second _i_ is part of the suffix _ing_, the first _i_ is usually long as in _pining_, _wining_. In these cases, double the consonant to retain the first vowel short: _ winning_, _pinning_. 
    b) The letter combinations _er_, _ir_ _or_ and _ur_ (short or long) 
       i. _ar_  - an added final _e _usually turns the sound from /Ar:/ as in _ bar_ to the sound /e@r/, as in _bare, stare, care_ etc.; doubling the _r_ followed by _e_ or _ing_ gives /Ar:/ thus _barring_ (the way) but _baring_ (one’s teeth); 
       ii. _er_ generally obeys the Magic E Rule:  _mere_, _here_, _serious_; but _errant_; 
@@ -31,45 +27,31 @@ the consonant to retain the first vowel short: _ winning_, _pinning_.
       v. _ur_ - generally obeys the Magic E rule: _cure_, _endure_, _lure_, _during_ etc. 
    TS can cause confusion when it comes to doubling the above letter combinations at the beginning of a word. The general TS rule is to double only in cases when the relevant vowel sound is short and stressed: _arrogant_, _errant_, but not where unstressed: _around_, _erect_, _orate_, _irascible_ However, there are plenty of TS exceptions: _arrest_, _erroneous_, _irreverent_. TSRs solution is to require doubling of the consonant only when the syllable comes at the beginning of a word,  and  is both short and stressed. This requires some respellings: _arest_, _eroneous_, _irevverent_. Doubling is however still appropriate in words of more than two syllables where the first syllable bears a secondary stress : _irritation_. 
    c) The letter _u_ generally obeys the Magic E rule but additionally: 
-      - it is almost invariably long, representing `iU`, at the beginning of a word :_unite_: 
+      - Is almost invariably long, representing `iU`, at the beginning of a word :_unite_ 
       - exceptions: words beginning in negative _un_: _un-inspiring_ or in _up_: _up-end_, or when preceding two consonants: _ugly_; 
-      - it is usually long when stressed and preceding another vowel: _fuel_, _dual_;  
-      - it is usually long when unstressed following a vowel and consonant(s): _monument_, 
-_natural_.
+      - Is usually long when stressed and preceding another vowel: _fuel_, _dual_;
+      - Is usually long when unstressed following a vowel and consonant(s): _monnument_, _nattural_.
 
    d) The letter _x_ 
    For the purposes of Magic E and doubling, TSR treats _x_ as if it were two letters _k_ and _s_. So preceding vowels are always short, eg _boxing_, _sexual_.
    
 3. Other Rules 
 (a) The combination _al(l)_ 
-This item represents one of the most dif icult areas in which to attempt codi ication of 
-the underlying rules of TS. However, the following rules are reasonably watertight. 
-For the most part, _al_ and _all_ represent the sounds /{l/ as in _algebra_ and 
-_allergy}. However, in TS they can also represent the sound /O:l/.  Usually this sound is 
-represented by _au_ or _aw_ as in  _laud_ or _paw_, but the sound can also be 
-represented by _al_ as in _always_ or _all_ as in  _small_.  Such cases occur: 
-- In a few common words beginning with _al_ where there is generally a meaning 
-of totality; here the sound /O:l/ is represented. The main examples are _also_, 
-_albeit_, _almighty_, _almost_, _altogether_, _always_, _although_. This TS 
-interpretation of _al_ is retained in TSR.. 
-- Where _all_ is stressed at the end of a word, the sound /O:l/ is also represented, 
-eg _call_, ball_, _small_l, _fall_ etc; and in combinations of the above such as 
-_called_, _falling_ etc. 
+This item represents one of the most dif icult areas in which to attempt codi ication of the underlying rules of TS. However, the following rules are reasonably watertight. For the most part, _al_ and _all_ represent the sounds `{l` as in _algebra_ and _allergy}. However, in TS they can also represent the sound `O:l`. Usually is this sound represented by _au_ or _aw_ as in  _laud_ or _paw_, but the sound can also be represented by _al_ as in _always_ or _all_ as in  _small_.  Such cases occur: 
+- In a few common words beginning with _al_ where there is generally a meaning of totality; here the sound /O:l/ is represented. The main examples are _also_, _albeit_, _almighty_, _almost_, _altogether_, _always_, _although_. This TS interpretation of _al_ becums _all_ in TSR2. 
+- Where _all_ is stressed at the end of a word, the sound `O:l` is also represented, eg _call_, ball_, _small_l, _fall_ etc; and in combinations of the above such as _called_, _falling_ etc. 
 - See D.4 Sub-rules for _ald_ and _alt_. 
 These examples should be regarded as exceptions to the general rule that _al_ or _all_  
 represent the sound /{l/ eg_ albino,_ _balance,_ fallacy._ 
 (b) The letter _g_ 
-_g_ usually represents the sound /g/ as in _gun_. It represents the sound /dZ/ when coming 
+- _g_ usually represents the sound /g/ as in _gun_. It represents the sound /dZ/ when coming 
 before the sounds  /aI/, /e/, /I/, /i:/ _gyro_, _gem_, _gin_, _gene_. Exceptions to this rule are 
 often marked in TS by inserting a _u_ as in _guide_ and TSR follows this practice. 
-_gg_ always represents the sound /g/ in TSR. It can therefore be used instead of _u_ to 
+- _gg_ always represents the sound /g/ in TSR. It can therefore be used instead of _u_ to 
 preserve the /g/ sound against succeeding vowels that would otherwise turn it to /dZ/  (eg , 
 _lingger_, _longger_). It is particularly relevant for exceptions to the _ange_ sub-group 
 where the sound is short rather than long  (eg bangger_, hangger_). See D4 below. 
-6 
-In cases where the sound is /dZ/ but it is still necessary to keep the preceding vowel short, TSR 
-inserts a _d_ before the _g_ as in _badger_, _lodger_, _fudge_ etc.  
-Where _gu_ represents /gw/ it is respelled - _langwage_. 
+- In cases where the sound is /dZ/ but it is still necessary to keep the preceding vowel short, TSR inserts a _d_ before the _g_ as in _badger_, _lodger_, _fudge_ etc. Where _gu_ represents /gw/ it is respelled - _langwage_. 
 (c) The combination _ow_ 
 This sound in TS can represent two sounds /@U/ as in _crow_ and /aU/ as in _gown_. 
 To avoid confusion, TSR does not use _ow_ for the sound /aU/. Where such cases arise in TS, 
