@@ -22,19 +22,19 @@ Stressed and only stressed vowel are to be marked on dictionaries, with full IPA
 |/iː/|/iː/|/iː/|/ɪi/
 |/eː/|/eɪ/|/eɪ/|/æɪ/
 |/ɑː/|/ɑː/|/ɑː/|/ɑː/
-|/ɔː/|/ɔː/|/ɔː/|/ɔː/
-|/oː/|/əʊ/|/oʊ/|/oʊ/
+|/ɔː/|/ɔː/|/ɔː/|/oː/
+|/oː/|/əʊ/|/oʊ/|/əʉ/
 |/uː/|/uː/|/uː/|/ʊu/
 |/ɪ/|/ɪ/|/ɪ/|/ɪ/
 |/ɛ/|/e/|/ɛ/|/e/
 |/æ/|/æ/|/æ/|/æ/
-|/ɒ/|/ɒ/|/ɑ/, /ɔ/|/ɒ/
-|/ʌ/|/ʌ/|/ʌ/|/ɐ/
+|/ɒ/|/ɒ/|/ɑ/, /ɔ/|/ɔ/
+|/ʌ/|/ɐ/|/ʌ/|/ɐ/
 |/ʊ/|/ʊ/|/ʊ/|/ʊ/
-|/aɪ̯/|/aɪ/|/aɪ/|/aɪ/
-|/aʊ̯/|/aʊ/|/aʊ/|/aʊ/
-|/ɪʊ̯/|/juː/|/juː/|/juː/
-|/ɔɪ̯/|/ɔɪ/|/ɔɪ/|/ɔɪ/
+|/aɪ̯/|/aɪ/|/aɪ/|/ɑe/
+|/aʊ̯/|/aʊ/|/aʊ/|/æɔ/
+|/ɪʊ̯/|/juː/|/juː/|/jɪɯ/
+|/ɔɪ̯/|/ɔɪ/|/ɔɪ/|/oɪ/
 
 See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_accents) for more accents
 
@@ -45,8 +45,8 @@ See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_a
 |i|/aɪ̯/|/ɪ/|/ɜː/
 |o|/oː/|/ɒ/|/ɔː/
 |u|/ɪʊ̯/|/ʌ/|/ɜː/
-|w|/uː/|/ʊ/|-
-|y|/aɪ̯/|/ɪ/|-
+|w|/uː/|/ʊ/|/uː/
+|y|/aɪ̯/|/ɪ/|/ɜː/
 
 - R-Hevvy vowels cum before R or RR not followed by vowels.
 
@@ -103,9 +103,9 @@ Some proposed simplified spellings already exist as standard or variant spelling
 - _ake_ became _ache_, and so on.
 However, We propose undoing these changes. Other examples of older spellings that are more phonetic include
 - **_frend_** for _friend_ (acceptable, as on Shakespeare's grave),
-- _agenst_ for **_against_** (again +‎ -st [excrescent]),
-- _yeeld_ for **_yield_** (_cf._ Old English _ġieldan_),
-- _bild_ for **_build_** (_cf._ Old English _byldan_),
+- **_agenst_** for _against_ (again +‎ -st [excrescent]),
+- **_yeeld_** for _yield_ (_cf._ Old English _ġieldan_),
+- **_bild_** for _build_ (_cf._ Old English _byldan_),
 - **_cort_** for _court_ (_cf._ French _cort_, Latin _cohort_),
 - **_sted_** for _stead_ (_cf._ Old English _stede_, also _insted_),
 - **_delite_** for _delight_ (_cf._ French _delite_),
@@ -113,7 +113,7 @@ However, We propose undoing these changes. Other examples of older spellings tha
 - **_harth_** for _hearth_,
 - _rime_ for **_rhyme_** (_cf._ greek _ρυθμός_),
 - _sum_ for **_some_**,
-- _tung_ for **_tongue_**, and many others.
+- **_tung_** for _tongue_, and many others.
 Some of spellings are occasionally to be given in dictionaries for pronunciation, as being far from words of their origins.
 
 ### An hour, an heir, an honor, an honest man...
