@@ -14,10 +14,10 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
 
 ## THE PRINCIPAL RULES OF TSR 2.0
 1. Stressed vowels `V` are usually long in `VCV`, but short in `VCC|VC$|iCi`, as usual in TS:
-   - pan / pane, set / scene, snip / snipe, rot / rote, run / rune
-   - sad / sadist, set / scenic, bit / biter, cut / cuticle
-   - fat / fate / fatter, pet / pete / petting, bit / bite / bitter, rot / rote / rotten
-   - lipid, licit, limit, icecle <- icicle
+   - pan / pane, set / scene, snip / snipe, rot / rote, run / rune; ("Magic E")
+   - sad / sadist, set / scenic, bit / biter, cut / cuticle;
+   - fat / fate / fatter, pet / pete / petting, bit / bite / bitter, rot / rote / rotten; ("Twicing rule")
+   - lipid, licit, limit; icecle _- icicle;
    * BUT where the second I is part of the suffix _ing_, the first I is usually long as in _pining_, _wining_. In these cases, twice the consonant to keep short the first vowel: _winning_, _livving_.
 2. Consonant twicing without misleading the pronunciation is not chandged in TSR2.
 3. The combination _al(l)_ is one of the most difficult areas to attempt codication of the underlying rules of TS. However, the folloïng rules are reasonably watertight.
@@ -33,13 +33,14 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
    - In cases where the sound is `dZ` but it is still necessary to keep the preceding vowel short, TSR inserts a _d_ before the _g_ as in _badger_, _lodger_, _fudge_ and others. Where _gu_ represents `gw` it is edspelt - _langwage_.
 5. The Letter S: It normally represents the sound `s` as in _sound_, but allso `z` as in _please_.
    - Based on TS formulae, S represents `s`:
-      - At the beginning of words: _snake_, _homesick_, _ransack_;
+      - At the beginning of words: _snake_;
+      - After hyphenable point: _homesick_, _ransack_;
       - After a voiceless consonant: _clicks, cliffs, clips, its_;
       - In the prefixes _dis_ and _mis_, whose S may be voiced by the consonant after.
       - After the prefixes _con_ and _per_: _consent_, _persistent_;
    - Where the above rules can not be applied, _s_ is often twiced in TS to retain the `s` sound: _miss, mass, missing_. TSR2 dos not change this, but ones in which a TS spelling cannot be brought within the rule above, e.g. _dizease_, _mizzerble_ (the twice _zz_ is required to keep the stressed vowel short – using _s_ would make the _i_ long). But _miser_. In TSR, some prefixes may be hyphenated to ensure predictability of the `s` sound: _re-send_, _co-signatory_.
-6. The letter X: For the purposes of Magic E and twicing, TSR2 treats X as two letters _ks_ and does not twice it, so the leading vowels are always short, e.g. _boxing_, _sexual_.
-7. The combination OW: In old spelling can this represent two sounds `oU` as in _crow_ and `aU` as in _gown_. To avoid confusion, TSR2 sees _ow_ only for the sound `aU`. Where such cases arise in TS, they becum O when ending a root: _flo_ (flow), _slo_ (slow). In other cases, _oa_ is seen where the sound is `oU` and the word has to be respelled for other reasons: _soal_ (_soul_ in TS).
+6. The letter X: For the purposes of Magic E and twicing, TSR2 treats X as two letters _ks_ and dus not twice it, so the leading vowels are always short, e.g. _boxing_, _sexual_.
+7. The combination OW: In old spelling can this represent two sounds `oU` as in _crow_ and `aU` as in _gown_. To avoid confusion, TSR2 sees _ow_ only for the sound `aU`. Where such cases arise in TS, they becum O when ending a root: _flo_ (flow), _slo_ (slow). In uther cases, _oa_ is seen where the sound is `oU` and the word has to be respelled for uther reasons: _soal_ (_soul_ in TS).
 8. The combination TH - `T` and `D`: In TS, both sounds are forstwd by the combination _th_. TSR continues to use this single grapheme for both phonemes. However, the folloïng rules help to choose what it sounds.
    - by default _th_ represents the sound `T` as in _thin_, _thanks_, _thimble_;
    - _th_ represents `D` in
@@ -52,8 +53,8 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
       - Others: _than_, _thus_
 9. The suffix _-ed_, as in TS, is normally added at the end of a word to indicate passive mood or past tense: _sifted_, _gifted_.
 10. The suffixes _-s_ and _-es_, as in TS, are normally added at the end of a word to indicate plural or third-person singular present indicative: _dishes_, _flips_, _sits_, _kicks_. TS _give_ is re-spelled _giv_ in TSR – so _givs_ plural.
-11. Some TS digraphs can represent one sound or alternatively two separate sounds, such as _ea_, _ie_.
-12. _sc_ follos the rules for the pronunciation of _c_: _ scam, scene, scythe_ and others. ;
+11. Some TS digraphs can represent one sound or two separate sounds, such as _ea_, _ie_; if two, the latter has a diëresis, like the verb to _creäte_.
+12. _sc_ follos the rules for the pronunciation of _c_: _scam_, _scene_, _scythe_;
 13. _sch_ normally represents `sk` as in _school_; in some words, largely of German origin, the combination represents `S` as in schmaltz, but these can be treated as loanwords and italicized;
 14. schwa - TSR generally retains the TS spelling for unaccented syllables, except where the TS combination is itself irregular; thus: _about_, _ensnare_, _intelligent_, _common_, _upon_. We write _forren_ insted of _foreign_; the key here is to pronounce the word carefully at dictation speed; if the sound of the unaccented syllable is not what the letters predict, then respelling may be necessary.
 15. _-our_ (as a suffix) adopts American conventions i.e. _or_ as in _labor_, _savior_, and others.
@@ -67,30 +68,51 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
    4. Interrogatives: _what_, _where_, _who_, _whose_;
    5. Indefinitives: _any(one/thing)_, _(n)either_, _every_, _none_, _nothing_, _some(one/thing)_,
    6. Others: _eye_, _with_, _woman_, _women_.
+   - The formal second-person pronoun "you" may also be represented in TSR by a capital U. 
+2. Common Suffixes: A number of common word endings doo not comply fully with the normal rules of TS but can usually be relied on to represent particular sounds; these are retained in their original spelling.
+   - Those involving the /S/ sound 
+      - C: -cean (ocean), -cial (facial, special, official), -cian (musician), -cient (prescient), -cience (conscience), -cion (suspicion), -cious (spacious, specious, meretricious, atrocious). 
+      - SS: -ssion (passion, confession, mission) 
+      - T: -tial (partial), -tient (patient), -tience (patience), -tion (nation, depletion, ignition, lotion, solution).
+   - Those involving the /Z/ sound 
+      - S: -sion (invasion, adhesion, elision, explosion, confusion), -sure (embrasure, pleasure, composure), -sual (casual).
+      - Z: -zure (azure)
+   - The Magic E and Doubling Rules apply generally to the above suffixes. Thus _ignition_, unlike the uther examples, dus not lengthen the first _i_. 
+Similarly, the suffix _-ssion_ dus not lengthen the preceding vowel because of the doubling of S. TSR uses _ssion_ instead of -tion when the preceding vowel is stressed, but needs to be kept short; thus are there _nation_ but _nassional_; _special_ becomes _spessial_, _pleasure_ becomes _plezzure_. The combination _-cious_ observes the Magic E and Doubling Rules, so _precious_ becoumes _prescious_.
+
+3. Uther common combinations:
+   - A as AW: -ald (bald), -alk (talk, walk), -alt (falter, halt)
+   - Long A: -ange- (danger, angel), -aste (taste, waste)
+   - Long I: -ign- (benign, sign), -ind (find, mind)
+   - Long O: old (old, gold), -olk (folk, yolk), -orce (force, divorce), -orne (borne)
+   - Others: -ould (could, would), war- (warm, warn), wor- (worm, worst).
+The combination _-le_, pronounced /@l/ 
+The combination: vowel + consonant + _le_ at the end of a word produces the sound /@l/ as 
+in _-able_, _ible_, _iple_ and many more. The Magic E and doubling rules normally apply as 
+if the preceding consonant and _l_ were a single letter . Thus: _apple_ (vowel short); _table_ 
+(vowel long); also _ible_; thus _risible_ but _Bible_; _noble_ but _nobble_.
 
 ## Common examples of TSR 2.0
 1. Edspell words as they sound.
 
-|Before|After
-|-|-
-|book, cook, hook, _and others._|bwk, cwk, hwk, _and others._
-|foot, good, hood, soot, stood, wood, wool|fwt, gwd, hwd, _and others._
-|full, push, wolf, _and others._|fwll, pwsh, wwlf, _and others._
-|blood, flood|blud, flud
-|stound, wound|stoond, woond
-|bread, leapt, meant _and others._|bred, lept, ment
-|lead (Pb)|led
-|I have read|I have red
-|measure|mezzure
-|know, low, show, _and others._|kno, lo, sho, _and others._
-|shoe|shoo
-|afford, forth, porch, pork, port, sport, sword|
-|shorn, sworn, torn, worn|shorn
-|corps, forge|core, foarge
-|queue|kue
+|Before|After|Why
+|-|-|-
+|queue|kue|`kIu`
+|aff**or**d, forth, porch, pork, port, sport, sword|affoard, foarth, poarch, ...|`o:`
+|corps, forge|coar, foarge|`o:`
+|shorn, sworn, torn, worn|shorne, sworne, torne, worne|`o:`
+|kn**ow**, low, show, ...|kno, lo, sho, ...|`oU`
+|l**o**se, shoe|looze, shoo|`u:`
+|st**ou**nd, wound|stoond, woond|`u:`
+|br**ea**d, leapt, meant, ...|bred, lept, ment, ...|`E`
+|m**ea***s*ure, pleasure|mezzure, plezzure|`E` `Z`
+|bl**oo**d, flood|blud, flud|`V`; food, mood, ...
+|b**oo**k, cook, hook, ...|bwk, cwk, hwk, ...|`U`; spook, snooker
+|f**oo**t, good, hood, soot, stood, wood, wool|fwt, gwd, hwd, ...|`U`; boot, root, ...
+|f**u**ll, push, put, ...|fwll, pwsh, pwt, ...|`U`; cut, dull, ...
+|w**o**lf, w**o**lves|wwlf, wwlves|`U`; golf
+|br**o**ther, mother, other, smother|bruther, muther, uther, ...|`V`; bother, pother
 
-Notes:
-1. the word forth is edred as FORTH,
 2. Cut outliers in compounds.
 
 |Before|After|Why
