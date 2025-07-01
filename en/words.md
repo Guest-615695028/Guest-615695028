@@ -83,14 +83,16 @@ Similarly, the suffix _-ssion_ dus not lengthen the preceding vowel because of t
 3. Uther common combinations:
    - A as AW: -ald (bald), -alk (talk, walk), -alt (falter, halt)
    - Long A: -ange- (danger, angel), -aste (taste, waste)
-   - Long I: -ign- (benign, sign), -ind (find, mind)
-   - Long O: old (old, gold), -olk (folk, yolk), -orce (force, divorce), -orne (borne)
+   - Long I: -ign- (benign, sign)
+   - Long O: -orce (force, divorce), -orne (borne)
    - Others: -ould (could, would), war- (warm, warn), wor- (worm, worst).
 The combination _-le_, pronounced /@l/ 
 The combination: vowel + consonant + _le_ at the end of a word produces the sound /@l/ as 
 in _-able_, _ible_, _iple_ and many more. The Magic E and doubling rules normally apply as 
 if the preceding consonant and _l_ were a single letter . Thus: _apple_ (vowel short); _table_ 
 (vowel long); also _ible_; thus _risible_ but _Bible_; _noble_ but _nobble_.
+
+4. -old (old, gold), -olk (folk, yolk) are no longger pronounced as *-oald* and *oke*
 
 ## Common examples of TSR 2.0
 1. Edspell words as they sound.
@@ -105,13 +107,18 @@ if the preceding consonant and _l_ were a single letter . Thus: _apple_ (vowel s
 |l**o**se, shoe|looze, shoo|`u:`
 |st**ou**nd, wound|stoond, woond|`u:`
 |br**ea**d, leapt, meant, ...|bred, lept, ment, ...|`E`
-|m**ea***s*ure, pleasure|mezzure, plezzure|`E` `Z`
+|m**ea***s*ure, pleasure|mezzure, plezzure|`EZ`
 |bl**oo**d, flood|blud, flud|`V`; food, mood, ...
 |b**oo**k, cook, hook, ...|bwk, cwk, hwk, ...|`U`; spook, snooker
-|f**oo**t, good, hood, soot, stood, wood, wool|fwt, gwd, hwd, ...|`U`; boot, root, ...
+|f**oo**t, good, hood, soot, stood, wood, wool|fwt, gwd, hwd, ...|`U`; boot, root, tool, ...
 |f**u**ll, push, put, ...|fwll, pwsh, pwt, ...|`U`; cut, dull, ...
 |w**o**lf, w**o**lves|wwlf, wwlves|`U`; golf
 |br**o**ther, mother, other, smother|bruther, muther, uther, ...|`V`; bother, pother
+|ch**i**ld, mild, wild, ...|chield, mield, wield|`aI`; gild, thild
+|b**i**nd, find, kind, ...|biend, fiend, kiend `aI`; lind, cinder
+
+- *fiend* (devil, foe) becums *feend*.
+- *wiend* and *wind*, *hinder* and *hiender* are differentiated.
 
 2. Cut outliers in compounds.
 
