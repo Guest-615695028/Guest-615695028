@@ -40,7 +40,7 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
       - After the prefixes _con_ and _per_: _consent_, _persistent_;
    - Where the above rules can not be applied, _s_ is often twiced in TS to retain the `s` sound: _miss, mass, missing_. TSR2 dos not change this, but ones in which a TS spelling cannot be brought within the rule above, e.g. _dizease_, _mizzerble_ (the twice _zz_ is required to keep the stressed vowel short – using _s_ would make the _i_ long). But _miser_. In TSR, some prefixes may be hyphenated to ensure predictability of the `s` sound: _re-send_, _co-signatory_.
 6. The letter X: For the purposes of Magic E and twicing, TSR2 treats X as two letters _ks_ and dus not twice it, so the leading vowels are always short, e.g. _boxing_, _sexual_.
-7. The combination OW: In old spelling can this represent two sounds `oU` as in _crow_ and `aU` as in _gown_. To avoid confusion, TSR2 sees _ow_ only for the sound `aU`. Where such cases arise in TS, they becumm O when ending a root: _flo_ (flow), _slo_ (slow). In uther cases, _oa_ is seen where the sound is `oU` and the word has to be respelled for uther reasons: _soal_ (_soul_ in TS).
+7. The combination OW: In old spelling can this represent two sounds `oU` as in _crow_ and `aU` as in _gown_. To avoid confusion, TSR2 sees _ow_ only for the sound `aU`. Where such cases arise in TS, they becumm O/OE when ending a root: _floe_ (flow), _sloe_ (slow). In uther cases, _oa_ is seen where the sound is `oU` and the word has to be respelled for uther reasons: _soal_ (_soul_ in TS).
 8. The combination TH - `T` and `D`: In TS, both sounds are forstwd by the combination _th_. TSR continues to use this single grapheme for both phonemes. However, the folloïng rules help to choose what it sounds.
    - by default _th_ represents the sound `T` as in _thin_, _thanks_, _thimble_;
    - _th_ represents `D` in
@@ -86,14 +86,10 @@ Similarly, the suffix _-ssion_ dus not lengthen the preceding vowel because of t
    - Long I: -ign- (benign, sign)
    - Long O: -old (old, gold, intechandging with `{ld`), -olt (bolt `{lt`), -orce (force, divorce `O:r\s`), -orne (borne `O:r\n`)
    - Others: -ould (could, would), war- (warm, warn), wor- (worm, worst).
-The combination _-le_, pronounced /@l/ 
-The combination: vowel + consonant + _le_ at the end of a word produces the sound /@l/ as 
-in _-able_, _ible_, _iple_ and many more. The Magic E and doubling rules normally apply as 
-if the preceding consonant and _l_ were a single letter . Thus: _apple_ (vowel short); _table_ 
-(vowel long); also _ible_; thus _risible_ but _Bible_; _noble_ but _nobble_.
+   - The combination _-le_ after a consonant at the end of a word produces the sound `@l` as in _-able_, _ible_, _iple_ and so on. The Magic E and doubling rules apply as if the preceding consonant and _l_ were a single letter . Thus: _apple_ (vowel short); _table_ (vowel long); also _ible_; thus _risible_ but _Bible_; _noble_ but _nobble_.
 
 ## Removed combinations from TSR 1.0
-|Letters|Sound|Becumm|Why
+|Letters|Sound|Becumms|Why
 |-|-|-|-
 |ald|`O:ld`|awld|heraldic
 |alk|`O:k`|awk|alkali
