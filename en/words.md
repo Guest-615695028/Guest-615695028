@@ -22,7 +22,7 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
 2. Consonant twicing without misleading the pronunciation is not chandged in TSR2.
 3. The combination _al(l)_ is one of the most difficult areas to attempt codication of the underlying rules of TS. However, the folloïng rules are reasonably watertight.
    - For the most part, _al_ and _all_ represent the sounds `{l` as in _algebra_ and _allergy_. However, in TS can they allso represent the sound `O:l`. Usually is this sound forstwd by _au_ or _aw_ as in  _laud_ or _paw_, but the sound can allso be forstwd by _al_ as in _always_ or _all_ as in _small_. Such cases occur:
-   - In a few common words beginning with _al_ givving a meaning of totality is forstwd the sound /O:l/, those are, _albeit_, _almighty_, _almost_, _also_, _although_, _altogether_, _always_. These AL's becumm _all_ in TSR2, i.e. _allbeit_, _allmighty_, _allmost_, _allso_, _allthough_, _alltogether_, _allways_, with no hyphen needed since _all_ is written before a consonant without ambiguation.
+   - In a few common words beginning with _al_ givving a meaning of totality is forstwd the sound /O:l/, those are, _albeit_, _almighty_, _almost_, _already_, _alright_, _also_, _although_, _altogether_, _always_. These AL's becumm _all_ in TSR2, i.e. _allbeït_, _allmighty_, _allmost_, _allreddy_, _allright_, _allso_, _allthough_, _alltogether_, _allways_, with no hyphen needed since _all_ is written before a consonant without ambiguation.
    - Where _all_ is stressed ending or before a consonant (but W, Y), the sound `O:l` is allso forstwd, e.g.
       - _ball_, _call_, _fall_, _small_, and others;
       - _balls_, _callst_, _falls_, and others;
@@ -47,7 +47,7 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
       - ending "-the":  _lathe_, _bathe_, _seethe_, _loathe_; 
       - words containing "-ther": _other_, _brother_, and others.
       - the word or prefix "with", which may be devoiced before a voiceless consonant.
-   - Beginning _th_ allso represents `D` in and only in the following roots:
+   - Beginning _th_ allso represents `D` in and only in the folloing roots:
       - Personal pronouns: _thou_ (_thee_, _thy_, _thine_), _they_ (_them_, _their/s_)
       - Demonstratives: _the_, _that_, _then(ce)_, _there_, _these_, _this_, _those_
       - Others: _than_, _thus_
@@ -61,7 +61,7 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
 16. suffix _-ous_ is unchanged - `@s` e.g. _famous_.
 
 ## Special rules for TSR 2.0
-1. The following very common words keep their original and irregular spelling, along with the said voiced-th words in Principal Rule 7.
+1. The folloing very common words keep their original and irregular spelling, along with the said voiced-th words in Principal Rule 7.
    1. Personal pronouns and adjectives: _you(r)(s)_.
    2. Parts of the vebs to be and to have: _are_,_was_,_were_,_have_,_having_
    3. Small numbers: _one(th)_, _once_, _two(th)_;
@@ -86,7 +86,11 @@ Similarly, the suffix _-ssion_ dus not lengthen the preceding vowel because of t
    - Long I: -ign- (benign, sign)
    - Long O: -old (old, gold, intechandging with `{ld`), -olt (bolt `{lt`), -orce (force, divorce `O:r\s`), -orne (borne `O:r\n`)
    - Others: -ould (could, would), war- (warm, warn), wor- (worm, worst).
-   - The combination _-le_ after a consonant at the end of a word produces the sound `@l` as in _-able_, _ible_, _iple_ and so on. The Magic E and doubling rules apply as if the preceding consonant and _l_ were a single letter . Thus: _apple_ (vowel short); _table_ (vowel long); also _ible_; thus _risible_ but _Bible_; _noble_ but _nobble_.
+   - The combination _-le_ after a consonant at the end of a word produces the sound `@l` as in _-able_, _ible_, _iple_ and so on. The Magic E and doubling rules apply as if the preceding consonant and _l_ were a single letter. Thus: _apple_ (vowel short); _table_ (vowel long); also _ible_; thus _risible_ but _Bible_; _noble_ but _nobble_.
+
+## Added punctuations in TSR 2.0
+Diëresis (¨): seperate the vowel (ä, ë, ï, ö, ü, ÿ) from the folloed letter.
+Accent mark(´), Second accent mark(`): optional accent marks, used if they are not at the first place.
 
 ## Removed combinations from TSR 1.0
 |Letters|Sound|Becumms|Why
