@@ -75,7 +75,6 @@ Notes:
 2. /ɜː/ was reccognized as the allophone of /ʌ/ before /ɹ/ in the 19th century United States.
 3. fore = foar (number 4) /foːɹ/ ≠ for /fɔɹ/
 4. Short vowels are reccognized with singgle vowels. Singgle unstressed vowel letters allways sound /ə/, but final I (/aɪ̯/), O (/oː/), U (/u/), and Y (/i/).
-5. 
 
 The word _**recieved** pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England; though it is sometimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" powers due to incapabillity of speaking English, which is far from internationality before Two World Wars in the 20th century. Also, the so-called "Recieved Pronounciation" is only practiced in 3% of population in Inggland.
 
