@@ -30,7 +30,7 @@ talk: TAUK
 # AU
 aunt: AANT
 # AUGH
-laugh: laff
+laugh: laf
 laughter: lafter
 # E
 pretty: pritty
@@ -122,9 +122,9 @@ pull-: pwl
 agger:
 suggest:
 # Silent H
-honest: onnest
-heir: air
-hour: our
+honest: "'onnest"
+heir: "'air"
+hour: "'our"
 # Silent L
 chalk: chawk
 talk: tawk
@@ -133,4 +133,3 @@ calf: caaf
 half: haaf
 calm: caam
 palm: paam
-folk: folk
