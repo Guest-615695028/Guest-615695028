@@ -1,5 +1,5 @@
 # On Solving a Concensus on English Pronunciation
-The English is well known for phonetic-spelling discordance among European language, so that an IPA notation is required for a dictionary to pronounce words (along with [French](/fr/README.md)), which has been rising into concern of billions of world English learners.
+The English is well known for phonetic-spelling discordance among European languages, so that an IPA notation is generally required for a dictionary to pronounce words (also common in overseas [French](/fr/README.md) dictionaries), which has been rising into concern of hundreds to thousands of millions of world English learners.
 
 ```
 Symbols
