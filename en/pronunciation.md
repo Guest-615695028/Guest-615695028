@@ -20,10 +20,10 @@ Stressed and only stressed vowel are to be marked on dictionaries, with full IPA
 |[EPA](https://en.wikipedia.org/wiki/English_Phonotypic_alphabet)|Gen. Est.|Gen. Am.|Gen. Aus
 |-|-|-|-
 |/iː/|/iː/|/iː/|/ɪi/
-|/eː/|/eɪ/|/eɪ/|/æɪ/
+|/eː/~/eɪ/|/eɪ/|/eɪ/|/æɪ/
 |/ɑː/|/ɑː/|/ɑː/|/ɑː/
 |/ɔː/|/ɔː/|/ɔː/|/oː/
-|/oː/|/əʊ/|/oʊ/|/əʉ/
+|/oː/~/oʊ/|/əʊ/|/oʊ/|/əʉ/
 |/uː/|/uː/|/uː/|/ʊu/
 |/ɪ/|/ɪ/|/ɪ/|/ɪ/
 |/ɛ/|/e/|/ɛ/|/e/
@@ -52,10 +52,10 @@ See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_a
 
 |Digraph(s)|Allways long
 |-|-
-|ae, ai, ay|/eː/
+|ae, ai, ay|/eɪ̯/
 |au, aw|/ɔː/
 |ea, ee|/iː/
-|ei, ey|/eː/
+|ei, ey|/eɪ̯/<br>_beginningly_ /aɪ̯/
 |eu, ew|/ɪʊ̯/
 |ie, ye|/aɪ̯/
 |oa, oe|/oː/
