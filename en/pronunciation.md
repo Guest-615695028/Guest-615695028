@@ -12,7 +12,7 @@ $    word end
 ```
 
 ## Pronunciation-Spelling Concordance
-Stressed and only stressed vowel are to be marked on dictionaries, with full IPA given to and only to irregularly pronounced words.
+Stressed and only stressed vowel are to be marked on dictionaries, with full IPA givven to and only to irregularly pronounced words.
 
 ![](./epa-1847.png)
 
@@ -20,10 +20,10 @@ Stressed and only stressed vowel are to be marked on dictionaries, with full IPA
 |[EPA](https://en.wikipedia.org/wiki/English_Phonotypic_alphabet)|Gen. Est.|Gen. Am.|Gen. Aus
 |-|-|-|-
 |/iː/|/iː/|/iː/|/ɪi/
-|/eː/~/eɪ/|/eɪ/|/eɪ/|/æɪ/
+|/eː/~/eɪ̯/|/eɪ/|/eɪ/|/æɪ/
 |/ɑː/|/ɑː/|/ɑː/|/ɑː/
 |/ɔː/|/ɔː/|/ɔː/|/oː/
-|/oː/~/oʊ/|/əʊ/|/oʊ/|/əʉ/
+|/oː/~/oʊ̯/|/əʊ/|/oʊ/|/əʉ/
 |/uː/|/uː/|/uː/|/ʊu/
 |/ɪ/|/ɪ/|/ɪ/|/ɪ/
 |/ɛ/|/e/|/ɛ/|/e/
@@ -49,21 +49,21 @@ See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_a
 |y|/aɪ̯/|/ɪ/|/ɜː/
 
 - R-Hevvy vowels cum before R or RR not followed by vowels.
+- _ear_ /ɜːɹ/ becums _er_, _our_ /oːɹ/~/ɔːɹ/ becums _oar_.
 
-|Digraph(s)|Allways long
+Multigraphic vowels ar allways long.
+|IPA|Letter groops
 |-|-
-|ae, ai, ay|/eɪ̯/
-|au, aw|/ɔː/
-|ea, ee|/iː/
-|ei, ey|/eɪ̯/<br>_beginningly_ /aɪ̯/
-|eu, ew|/ɪʊ̯/
-|ie, ye|/aɪ̯/
-|oa, oe|/oː/
-|oi, oy|/ɔɪ̯/
-|oo|/uː/
-|ou, ow|/aʊ̯/
-|ue|/ɪʊ̯/
-|ui, uy|/aɪ̯/
+|/iː/|ea, ee
+|/eː/~/eɪ̯/|ae, ai, ay<br>-ey, eigh, eig(n)
+|/ɑː/|aa
+|/ɔː/|au, aw, augh(t), ough(t)
+|/oː/~/oʊ̯/|oa, oe
+|/uː/|oo
+|/aɪ̯/|ei, ey, ie, igh, igh(n), ui, -uy, -ye
+|/aʊ̯/|ou, ow
+|/ɪʊ̯/|eu, ew, ue
+|/ɔɪ̯/|oi, oy
 
 |Stress, in dictionaries|Long|Short
 |-|-|-
@@ -74,9 +74,9 @@ Notes:
 1. Isaac Pitman's Ingglish Phonotypic Alphabet and Dezzeret runes (created 1847) suggested then-General American Pronunciation.
 2. /ɜː/ was reccognized as the allophone of /ʌ/ before /ɹ/ in the 19th century United States.
 3. fore = foar (number 4) /foːɹ/ ≠ for /fɔɹ/
-4. Short vowels are reccognized with singgle vowels. Singgle unstressed vowel letters allways sound /ə/, but final I (/aɪ̯/), O (/oː/), U (/u/), and Y (/i/).
+4. Short vowels are reccognized with singgle vowels. Unstressed vowel /æ/, /ɒ/, /ʌ/ allways becum /ə/, same as unstressed final A, /ɛ/ becumes /ɪ/ or /ə/.
 
-The word _**recieved** pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England; though it is sometimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" powers due to incapabillity of speaking English, which is far from internationality before Two World Wars in the 20th century. Also, the so-called "Recieved Pronounciation" is only practiced in 3% of population in Inggland.
+The word _**receeved** pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England; though it is sometimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" powers due to incapability of speaking English, which is far from internationality before Two World Wars in the 20th century. Also, the so-called "Receeved Pronounciation" is only practiced in 3% of population in Inggland.
 
 ### `ough`
 |Pronunciation|Examples|Note
