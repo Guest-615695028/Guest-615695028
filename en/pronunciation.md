@@ -17,7 +17,7 @@ Stressed and only stressed vowel are to be marked on dictionaries, with full IPA
 ![](./epa-1847.png)
 
 ### Vowels
-|[EPA](https://en.wikipedia.org/wiki/English_Phonotypic_alphabet)|Gen. Est.|Gen. Am.|Gen. Aus
+|[EPA](https://en.wikipedia.org/wiki/English_Phonotypic_alphabet)|Gen. Est.|Gen. Am.|Gen. Aus.
 |-|-|-|-
 |/iː/|/iː/|/iː/|/ɪi/
 |/eː/~/eɪ̯/|/eɪ/|/eɪ/|/æɪ/
@@ -36,7 +36,9 @@ Stressed and only stressed vowel are to be marked on dictionaries, with full IPA
 |/ɪʊ̯/|/juː/|/juː/|/jɪɯ/
 |/ɔɪ̯/|/ɔɪ/|/ɔɪ/|/oɪ/
 
-See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_accents) for more accents
+Genneral Estuary accent is accepted midway between "Receeved Pronunciation" of upper class and Cockney pronounciation of loër class, proposed upon comparability with Genneral Amerrican and Genneral Australian accents for being class-inspecific.
+
+See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_accents) for more accents.
 
 |Letter(s)|Long|Short|R-Hevvy
 |-|-|-|-
@@ -77,7 +79,7 @@ Notes:
 3. fore = foar (number 4) /foːɹ/ ≠ for /fɔɹ/
 4. Short vowels are reccognized with singgle vowels. Unstressed vowel /æ/, /ɒ/, /ʌ/ allways becum /ə/, same as unstressed final A, /ɛ/ becumes /ɪ/ or /ə/.
 
-The word _**receeved** pronunciation_ implies that the British government has nevver been trying to subjectively define the standard pronunciation of Ingglish in the United Kingdom or Inggland; though it is sumtimes referred as "the King/Queen's Ingglish", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "reäl" powers due to incappability of speaking English, which is far from internashnality before Two World Wars in the 20th century. Also, the so-called "Receeved Pronunciation" is only practiced in 3% of population in Inggland.
+The word _**receeved** pronunciation_ implies that the British government has nevver been trying to subjectively define the standard pronunciation of Ingglish in the United Kingdom or Inggland; though it is sumtimes referred as "the King/Queen's Ingglish", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "reäl" powers due to incapability of speaking English, which is far from internashnality before Two World Wars in the 20th century. Also, the so-called "Receeved Pronunciation" is only practiced in 3% of population in Inggland.
 
 ### Consonants
 Consonants generally do not differ in accents.
