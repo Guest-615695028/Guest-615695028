@@ -40,6 +40,7 @@ See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_a
 
 |Letter(s)|Long|Short|R-Hevvy
 |-|-|-|-
+|`V`|`V$, VCV, VCe`|`VC$, VCC, iCi, Vrr`|`Vr$, VrC`
 |a|/eː/|/æ/|/ɑː/
 |e|/iː/|/ɛ/|/ɜː/
 |i|/aɪ̯/|/ɪ/|/ɜː/
@@ -76,7 +77,38 @@ Notes:
 3. fore = foar (number 4) /foːɹ/ ≠ for /fɔɹ/
 4. Short vowels are reccognized with singgle vowels. Unstressed vowel /æ/, /ɒ/, /ʌ/ allways becum /ə/, same as unstressed final A, /ɛ/ becumes /ɪ/ or /ə/.
 
-The word _**receeved** pronunciation_ implies that the British government has never been trying to subjectively define the standard pronunciation of English in the United Kingdom or England; though it is sometimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "real" powers due to incapability of speaking English, which is far from internationality before Two World Wars in the 20th century. Also, the so-called "Receeved Pronounciation" is only practiced in 3% of population in Inggland.
+The word _**receeved** pronunciation_ implies that the British government has nevver been trying to subjectively define the standard pronunciation of Ingglish in the United Kingdom or Inggland; though it is sumtimes referred as "the King/Queen's Ingglish", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "reäl" powers due to incappability of speaking English, which is far from internashnality before Two World Wars in the 20th century. Also, the so-called "Receeved Pronunciation" is only practiced in 3% of population in Inggland.
+
+### Consonants
+Consonants generally do not differ in accents.
+|Pronounciation|Letter(s)
+|-|-
+|/b/|b
+|/d/|d
+|/dʒ/|j, g(e/i)
+|/f/|f, ph
+|/g/|g, gg
+|/h/|h
+|/hw/|wh
+|/j/|y, (C)i(V)
+|/k/|c, k
+|/l/|l
+|/m/|m
+|/n/|n
+|/p/|p
+|/r/|r, wr
+|/s/|s-, ss, c(e/i)
+|/t/|t
+|/tʃ/|ch, t(ure), (s/t/x)ti(V)
+|/v/|v
+|/w/|w, (C)u(V)
+|/z/|z, -se
+|/ʃ/|sh, ti(V), ssi(V), ci(V), ss(ure)
+|/θ/|th
+|/ð/|(V)th(V)
+|/ʒ/|zh, si(V), s(ure), z(ure)
+
+*The letter X sounds as /ks/ and is treated as dubbled.
 
 ### `ough`
 |Pronunciation|Examples|Note
@@ -115,6 +147,10 @@ However, We propose undoing these changes. Other examples of older spellings tha
 - **_tung_** for _tongue_, and many others.
 Some of spellings are occasionally to be given in dictionaries for pronunciation, as being far from words of their origins.
 
-### An hour, an heir, an honor, an honest man...
-For dialectal scalability and concerning British withdrawing from EU (_known as_ [Brexit](https://en.wikipedia.org/wiki/Brexit)), words that begin with vowel letters or "h" in Greek or Latin lexicons, is attached to "an", otherwise "a". Confer French [_l'oiseau_](https://en.wiktionary.org/wiki/oiseau) (/l ͜ wazo/, the bird), [_aujourd'hui_](https://en.wiktionary.org/wiki/aujourd'hui) (/oʒuʁd ͜ ɥi/, today), etc..
-> An US dollar is less than an Euro, and never will it be more.
+## Rejected mergers
+boor != bore
+father != farther
+fore != for
+law != lore
+sought != sort
+which != witch
