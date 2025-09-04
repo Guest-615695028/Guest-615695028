@@ -51,10 +51,12 @@ In Indeuropean EU languages: (by descending relativity to English)
 ### A user, an user
 > The answer is found here by **an user** who is writing this article.
 
-Due to the variable accents scattered in world Englishes, the indifinite article _a_ becomes _an_ when followed by a vowel letter or Graeco-Latin _h_, and whence does _thy_ become _thine_. _e. g._,
+Due to the variable accents scattered in world Englishes, the indifinite article _a_ becomes _an_ when followed by a vowel letter or _h_ before an unstressed vowel, and whence does _thy_ become _thine_. _e. g._,
 - "An European" is attested at the beginning in [_Application of fresh mortar tests to poultices used for the desalination of historical masonry_](https://link.springer.com/article/10.1617/s11527-010-9695-4), from _Materials and Structures_ (fr. _Materiaux et Constructions_).
 - ["An user"](https://www.jstor.org/stable/jeductechsoci.6.3.43), ["an utility"](https://www.jstor.org/stable/2662838) and others can be found in correct English sentences by [Bing Dictionary](https://cn.bing.com/dict).
 - "Night" by Elie Wiesel: "...Or was it really an hallucination?"
+
+The only words beginning with vowel letters after _a_ or _thy_ rather than _an_ or _thine_ are _one_, _once_ and _oneth_, all exempted from orthographic reformation.
 
 ### A group of nearly homophonic examples
 An [ewe](https://en.wiktionary.org/wiki/ewe) (/ɪʊ̯/) is a female sheep. (Old English _eowu_)
@@ -72,14 +74,19 @@ Why is do-support become idiomatic? Without do-support, the question
 
 > What does that man eat?
 
-—— can be rewritten as ——
+—— can be written as ——
 
 > What eats that man?
 
 —— yet another question. Therefore, the do-support differentiate the latter question from the former, so it shall be mandated at most when:
 1. Imperative "Do not" (even before the verb _to be_)
-3. In Wh-questions, The subject contains not "I", "we", "thou", "ye", "he", "she", and "they" (only nominative forms differ from obliques other than "who"/"whom").
-4. In Yes-no questions, The subject is not a single pronoun.
+2. In Wh-questions, The subject contains not "I", "we", "thou", "ye", "he", "she", and "they" (only nominative forms differ from obliques other than "who"/"whom").
+3. In Yes-no questions, The subject is not a single pronoun.
+
+Otherwise, it is optional.
+
+### Ending prepositions
+End a sentence with preposition is a cummon way in Germanic languiges, but not Latin languiges.
 
 ## Numbers
 ### First, second, third, ...
